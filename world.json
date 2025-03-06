@@ -2,2734 +2,2734 @@
     "europe": [
         {
             "key": 1,
-            "pais": "Slovenia",
+            "country": "Slovenia",
             "capital": "Ljubljana",
-            "poblacion": 2118697,
+            "population": 2118697,
             "area": 20140,
             "altitud-max": 2864,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4, 
-                "paises": ["Italy", "Hungary", "Austria", "Croatia"],
-                "no-colindante": "Switzerland"
+                "countries": ["Italy", "Hungary", "Austria", "Croatia"],
+                "no-neighbour": "Switzerland"
             },
-            "bandera": "https://flagcdn.com/192x144/si.webp"
+            "flag": "https://flagcdn.com/192x144/si.webp"
         },
         {
             "key": 2,
-            "pais": "Croatia",
+            "country": "Croatia",
             "capital": "Zagreb",
-            "poblacion": 3875325,
+            "population": 3875325,
             "area": 55960,
             "altitud-max": 1831,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5, 
-                "paises": ["Bosnia & Herzegovina", "Hungary", "Slovenia", "Serbia", "Montenegro"],
-                "no-colindante": "Czech Republic"
+                "countries": ["Bosnia & Herzegovina", "Hungary", "Slovenia", "Serbia", "Montenegro"],
+                "no-neighbour": "Czech Republic"
             },
-            "bandera": "https://flagcdn.com/192x144/hr.webp"
+            "flag": "https://flagcdn.com/192x144/hr.webp"
         },
         {
             "key": 3,
-            "pais": "Bosnia & Herzegovina",
+            "country": "Bosnia & Herzegovina",
             "capital": "Sarajevo",
-            "poblacion": 3164253,
+            "population": 3164253,
             "area": 51000,
             "altitud-max": 2386,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Croatia", "Serbia", "Montenegro"],
-                "no-colindante": "Hungary"
+                "countries": ["Croatia", "Serbia", "Montenegro"],
+                "no-neighbour": "Hungary"
             },
-            "bandera": "https://flagcdn.com/192x144/ba.webp"
+            "flag": "https://flagcdn.com/192x144/ba.webp"
         },
         {
             "key": 4,
-            "pais": "Montenegro",
+            "country": "Montenegro",
             "capital": "Podgorica",
-            "poblacion": 638479,
+            "population": 638479,
             "area": 13450,
             "altitud-max": 2534,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Croatia", "Serbia", "Bosnia & Herzegovina", "Albania"],
-                "no-colindante": "Greece"
+                "countries": ["Croatia", "Serbia", "Bosnia & Herzegovina", "Albania"],
+                "no-neighbour": "Greece"
             },
-            "bandera": "https://flagcdn.com/192x144/me.webp"
+            "flag": "https://flagcdn.com/192x144/me.webp"
         },
         {
             "key": 5,
-            "pais": "Albania",
+            "country": "Albania",
             "capital": "Tirana",
-            "poblacion": 2791765,
+            "population": 2791765,
             "area": 27400,
             "altitud-max": 2764,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Montenegro", "Greece", "North Macedonia"],
-                "no-colindante": "Bosnia & Herzegovina"
+                "countries": ["Montenegro", "Greece", "North Macedonia"],
+                "no-neighbour": "Bosnia & Herzegovina"
             },
-            "bandera": "https://flagcdn.com/192x144/al.webp"
+            "flag": "https://flagcdn.com/192x144/al.webp"
         },
         {
             "key": 6,
-            "pais": "North Macedonia",
+            "country": "North Macedonia",
             "capital": "Skopje",
-            "poblacion": 1823009,
+            "population": 1823009,
             "area": 25220,
             "altitud-max": 2764,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Serbia", "Greece", "Albania", "Bulgaria"],
-                "no-colindante": "Hungary"
+                "countries": ["Serbia", "Greece", "Albania", "Bulgaria"],
+                "no-neighbour": "Hungary"
             },
-            "bandera": "https://flagcdn.com/192x144/mk.webp"
+            "flag": "https://flagcdn.com/192x144/mk.webp"
         },
         {
             "key": 7,
-            "pais": "Serbia",
+            "country": "Serbia",
             "capital": "Belgrade",
-            "poblacion": 6736216,
+            "population": 6736216,
             "area": 87460,
             "altitud-max": 2169,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Hungary", "Bulgaria", "Romania", "Croatia", "Bosnia & Herzegovina", "Montenegro", "North Macedonia", "Albania"],
-                "no-colindante": "Austria"
+                "countries": ["Hungary", "Bulgaria", "Romania", "Croatia", "Bosnia & Herzegovina", "Montenegro", "North Macedonia", "Albania"],
+                "no-neighbour": "Austria"
             },
-            "bandera": "https://flagcdn.com/192x144/rs.webp"
+            "flag": "https://flagcdn.com/192x144/rs.webp"
         },
         {
             "key": 8,
-            "pais": "Bulgaria",
+            "country": "Bulgaria",
             "capital": "Sofia",
-            "poblacion": 6757689,
+            "population": 6757689,
             "area": 108560,
             "altitud-max": 2925,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Romania", "Greece", "Turkey", "Serbia", "North Macedonia"],
-                "no-colindante": "Hungary"
+                "countries": ["Romania", "Greece", "Turkey", "Serbia", "North Macedonia"],
+                "no-neighbour": "Hungary"
             },
-            "bandera": "https://flagcdn.com/192x144/bg.webp"
+            "flag": "https://flagcdn.com/192x144/bg.webp"
         },
         {
             "key": 9,
-            "pais": "Greece",
+            "country": "Greece",
             "capital": "Athens",
-            "poblacion": 10047817,
+            "population": 10047817,
             "area": 128900,
             "altitud-max": 2919,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Bulgaria", "Albania", "Turkey", "North Macedonia"],
-                "no-colindante": "Romania"
+                "countries": ["Bulgaria", "Albania", "Turkey", "North Macedonia"],
+                "no-neighbour": "Romania"
             },
-            "bandera": "https://flagcdn.com/192x144/gr.webp"
+            "flag": "https://flagcdn.com/192x144/gr.webp"
         },
         {
             "key": 10,
-            "pais": "Romania",
+            "country": "Romania",
             "capital": "Bucharest",
-            "poblacion": 19015088,
+            "population": 19015088,
             "area": 230170,
             "altitud-max": 2544,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Bulgaria", "Serbia", "Hungary", "Moldova", "Ukraine"],
-                "no-colindante": "Turkey"
+                "countries": ["Bulgaria", "Serbia", "Hungary", "Moldova", "Ukraine"],
+                "no-neighbour": "Turkey"
             },
-            "bandera": "https://flagcdn.com/192x144/ro.webp"
+            "flag": "https://flagcdn.com/192x144/ro.webp"
         },
         {
             "key": 11,
-            "pais": "Hungary",
+            "country": "Hungary",
             "capital": "Budapest",
-            "poblacion": 9676135,
+            "population": 9676135,
             "area": 90530,
             "altitud-max": 1014,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Slovakia", "Serbia", "Romania", "Croatia", "Ukraine", "Slovenia", "Austria"],
-                "no-colindante": "Moldova"
+                "countries": ["Slovakia", "Serbia", "Romania", "Croatia", "Ukraine", "Slovenia", "Austria"],
+                "no-neighbour": "Moldova"
             },
-            "bandera": "https://flagcdn.com/192x144/hu.webp"
+            "flag": "https://flagcdn.com/192x144/hu.webp"
         },
         {
             "key": 12,
-            "pais": "Slovakia",
+            "country": "Slovakia",
             "capital": "Bratislava",
-            "poblacion": 5506760,
+            "population": 5506760,
             "area": 48088,
             "altitud-max": 2655,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Poland", "Hungary", "Czech Republic", "Ukraine", "Austria"],
-                "no-colindante": "Slovenia"
+                "countries": ["Poland", "Hungary", "Czech Republic", "Ukraine", "Austria"],
+                "no-neighbour": "Slovenia"
             },
-            "bandera": "https://flagcdn.com/192x144/sk.webp"
+            "flag": "https://flagcdn.com/192x144/sk.webp"
         },
         {
             "key": 13,
-            "pais": "Czech Republic",
+            "country": "Czech Republic",
             "capital": "Prague",
-            "poblacion": 10735859,
+            "population": 10735859,
             "area": 77240,
             "altitud-max": 1602,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Poland", "Germany", "Slovakia", "Austria"],
-                "no-colindante": "Croatia"
+                "countries": ["Poland", "Germany", "Slovakia", "Austria"],
+                "no-neighbour": "Croatia"
             },
-            "bandera": "https://flagcdn.com/192x144/cz.webp"
+            "flag": "https://flagcdn.com/192x144/cz.webp"
         },
         {
             "key": 14,
-            "pais": "Austria",
+            "country": "Austria",
             "capital": "Viena",
-            "poblacion": 9120813,
+            "population": 9120813,
             "area": 82409,
             "altitud-max": 3798,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Czech Republic", "Germany", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
-                "no-colindante": "France"
+                "countries": ["Czech Republic", "Germany", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
+                "no-neighbour": "France"
             },
-            "bandera": "https://flagcdn.com/192x144/at.webp"
+            "flag": "https://flagcdn.com/192x144/at.webp"
         },
         {
             "key": 15,
-            "pais": "Liechtenstein",
+            "country": "Liechtenstein",
             "capital": "Vaduz",
-            "poblacion": 39870,
+            "population": 39870,
             "area": 160,
             "altitud-max": 2599,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Switzerland", "Austria"],
-                "no-colindante": "Italy"
+                "countries": ["Switzerland", "Austria"],
+                "no-neighbour": "Italy"
             },
-            "bandera": "https://flagcdn.com/192x144/li.webp"
+            "flag": "https://flagcdn.com/192x144/li.webp"
         },
         {
             "key": 16,
-            "pais": "Switzerland",
+            "country": "Switzerland",
             "capital": "Bern",
-            "poblacion": 8921981,
+            "population": 8921981,
             "area": 39516,
             "altitud-max": 4634,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Germany", "Austria", "France", "Liechtenstein", "Italy"],
-                "no-colindante": "Poland"
+                "countries": ["Germany", "Austria", "France", "Liechtenstein", "Italy"],
+                "no-neighbour": "Poland"
             },
-            "bandera": "https://flagcdn.com/192x144/ch.webp"
+            "flag": "https://flagcdn.com/192x144/ch.webp"
         },
         {
             "key": 17,
-            "pais": "Italy",
+            "country": "Italy",
             "capital": "Rome",
-            "poblacion": 59342867,
+            "population": 59342867,
             "area": 294140,
             "altitud-max": 4810,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Switzerland", "Austria", "France", "Slovenia", "San Marino", "Vatican"],
-                "no-colindante": "Croatia"
+                "countries": ["Switzerland", "Austria", "France", "Slovenia", "San Marino", "Vatican"],
+                "no-neighbour": "Croatia"
             },
-            "bandera": "https://flagcdn.com/192x144/it.webp"
+            "flag": "https://flagcdn.com/192x144/it.webp"
         },
         {
             "key": 18,
-            "pais": "San Marino",
+            "country": "San Marino",
             "capital": "San Marino",
-            "poblacion": 33581,
+            "population": 33581,
             "area": 60,
             "altitud-max": 755,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Italy"],
-                "no-colindante": "Monaco"
+                "countries": ["Italy"],
+                "no-neighbour": "Monaco"
             },
-            "bandera": "https://flagcdn.com/192x144/sm.webp"
+            "flag": "https://flagcdn.com/192x144/sm.webp"
         },
         {
             "key": 19,
-            "pais": "Vatican",
+            "country": "Vatican",
             "capital": "Vatican City",
-            "poblacion": 0.896,
+            "population": 0.896,
             "area": 0.5,
             "altitud-max": 76,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Italy"],
-                "no-colindante": "San Marino"
+                "countries": ["Italy"],
+                "no-neighbour": "San Marino"
             },
-            "bandera": "https://flagcdn.com/192x144/va.webp"
+            "flag": "https://flagcdn.com/192x144/va.webp"
         },
         {
             "key": 20,
-            "pais": "Malta",
+            "country": "Malta",
             "capital": "Valleta",
-            "poblacion": 539607,
+            "population": 539607,
             "area": 316,
             "altitud-max": 253,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/mt.webp"
+            "flag": "https://flagcdn.com/192x144/mt.webp"
         },
         {
             "key": 21,
-            "pais": "Monaco",
+            "country": "Monaco",
             "capital": "Monaco City",
-            "poblacion": 38631,
+            "population": 38631,
             "area": 1.5,
             "altitud-max": 161,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["France"],
-                "no-colindante": "Spain"
+                "countries": ["France"],
+                "no-neighbour": "Spain"
             },
-            "bandera": "https://flagcdn.com/192x144/mc.webp"
+            "flag": "https://flagcdn.com/192x144/mc.webp"
         },
         {
             "key": 22,
-            "pais": "France",
+            "country": "France",
             "capital": "Paris",
-            "poblacion": 66584530,
+            "population": 66584530,
             "area": 601681,
             "altitud-max": 4810,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
-                "no-colindante": "Spain"
+                "countries": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
+                "no-neighbour": "Spain"
             },
-            "bandera": "https://flagcdn.com/192x144/fr.webp"
+            "flag": "https://flagcdn.com/192x144/fr.webp"
         },
         {
             "key": 23,
-            "pais": "Andorra",
+            "country": "Andorra",
             "capital": "Andorra la Vella",
-            "poblacion": 81938,
+            "population": 81938,
             "area": 470,
             "altitud-max": 2942,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Spain", "France"],
-                "no-colindante": "Switzerland"
+                "countries": ["Spain", "France"],
+                "no-neighbour": "Switzerland"
             },
-            "bandera": "https://flagcdn.com/192x144/ad.webp"
+            "flag": "https://flagcdn.com/192x144/ad.webp"
         },
         {
             "key": 24,
-            "pais": "Spain",
+            "country": "Spain",
             "capital": "Madrid",
-            "poblacion": 47910526,
+            "population": 47910526,
             "area": 503961,
             "altitud-max": 3718,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Portugal", "France", "Andorra", "Morocco", "United Kingdom"],
-                "no-colindante": "Algeria"
+                "countries": ["Portugal", "France", "Andorra", "Morocco", "United Kingdom"],
+                "no-neighbour": "Algeria"
             },
-            "bandera": "https://flagcdn.com/192x144/es.webp"
+            "flag": "https://flagcdn.com/192x144/es.webp"
         },
         {
             "key": 25,
-            "pais": "Portugal",
+            "country": "Portugal",
             "capital": "Lisbon",
-            "poblacion": 10425292,
+            "population": 10425292,
             "area": 91874,
             "altitud-max": 2351,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Spain"],
-                "no-colindante": "France"
+                "countries": ["Spain"],
+                "no-neighbour": "France"
             },
-            "bandera": "https://flagcdn.com/192x144/pt.webp"
+            "flag": "https://flagcdn.com/192x144/pt.webp"
         },
         {
             "key": 26,
-            "pais": "Ireland",
+            "country": "Ireland",
             "capital": "Dublin",
-            "poblacion": 5179398,
+            "population": 5179398,
             "area": 69732,
             "altitud-max": 1038,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["United Kingdom"],
-                "no-colindante": "Scotland"
+                "countries": ["United Kingdom"],
+                "no-neighbour": "Scotland"
             },
-            "bandera": "https://flagcdn.com/192x144/ie.webp"
+            "flag": "https://flagcdn.com/192x144/ie.webp"
         },
         {
             "key": 27,
-            "pais": "United Kingdom",
+            "country": "United Kingdom",
             "capital": "London",
-            "poblacion": 67081000,
+            "population": 67081000,
             "area": 242497,
             "altitud-max": 1344,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Spain", "Ireland"],
-                "no-colindante": "France"
+                "countries": ["Spain", "Ireland"],
+                "no-neighbour": "France"
             },
-            "bandera": "https://flagcdn.com/192x144/gb.webp"
+            "flag": "https://flagcdn.com/192x144/gb.webp"
         },
         {
             "key": 28,
-            "pais": "Iceland",
+            "country": "Iceland",
             "capital": "Reykjavík",
-            "poblacion": 393396,
+            "population": 393396,
             "area": 102002,
             "altitud-max": 2120,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/is.webp"
+            "flag": "https://flagcdn.com/192x144/is.webp"
         },
         {
             "key": 29,
-            "pais": "Belgium",
+            "country": "Belgium",
             "capital": "Brussels",
-            "poblacion": 11738763,
+            "population": 11738763,
             "area": 30420,
             "altitud-max": 694,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["France", "Germany", "Netherlands", "Luxembourg"],
-                "no-colindante": "Estonia"
+                "countries": ["France", "Germany", "Netherlands", "Luxembourg"],
+                "no-neighbour": "Estonia"
             },
-            "bandera": "https://flagcdn.com/192x144/be.webp"
+            "flag": "https://flagcdn.com/192x144/be.webp"
         },
         {
             "key": 30,
-            "pais": "Luxembourg",
+            "country": "Luxembourg",
             "capital": "Luxembourg City",
-            "poblacion": 671036,
+            "population": 671036,
             "area": 2590,
             "altitud-max": 560,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["France", "Belgium", "Germany"],
-                "no-colindante": "Netherlands"
+                "countries": ["France", "Belgium", "Germany"],
+                "no-neighbour": "Netherlands"
             },
-            "bandera": "https://flagcdn.com/192x144/lu.webp"
+            "flag": "https://flagcdn.com/192x144/lu.webp"
         },
         {
             "key": 31,
-            "pais": "Netherlands",
+            "country": "Netherlands",
             "capital": "Amsterdam",
-            "poblacion": 18228742,
+            "population": 18228742,
             "area": 38720,
             "altitud-max": 322,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Belgium", "Germany"],
-                "no-colindante": "Norway"
+                "countries": ["Belgium", "Germany"],
+                "no-neighbour": "Norway"
             },
-            "bandera": "https://flagcdn.com/192x144/nl.webp"
+            "flag": "https://flagcdn.com/192x144/nl.webp"
         },
         {
             "key": 32,
-            "pais": "Germany",
+            "country": "Germany",
             "capital": "Berlin",
-            "poblacion": 84552242,
+            "population": 84552242,
             "area": 353386,
             "altitud-max": 2962,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 9,
-                "paises": ["Netherlands", "Belgium", "France", "Switzerland", "Austria", "Luxembourg", "Denmark", "Poland", "Czech Republic" ],
-                "no-colindante": "Serbia"
+                "countries": ["Netherlands", "Belgium", "France", "Switzerland", "Austria", "Luxembourg", "Denmark", "Poland", "Czech Republic" ],
+                "no-neighbour": "Serbia"
             },
-            "bandera": "https://flagcdn.com/192x144/de.webp"
+            "flag": "https://flagcdn.com/192x144/de.webp"
         },
         {
             "key": 33,
-            "pais": "Denmark",
+            "country": "Denmark",
             "capital": "Copenhagen",
-            "poblacion": 5977412,
+            "population": 5977412,
             "area": 42895,
             "altitud-max": 171,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Germany"],
-                "no-colindante": "Finland"
+                "countries": ["Germany"],
+                "no-neighbour": "Finland"
             },
-            "bandera": "https://flagcdn.com/192x144/dk.webp"
+            "flag": "https://flagcdn.com/192x144/dk.webp"
         },
         {
             "key": 34,
-            "pais": "Poland",
+            "country": "Poland",
             "capital": "Warsaw",
-            "poblacion": 38539201,
+            "population": 38539201,
             "area": 309230,
             "altitud-max": 2499,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Russia", "Lithuania", "Belarus", "Ukraine", "Czech Republic", "Germany", "Slovakia"],
-                "no-colindante": "Denmark"
+                "countries": ["Russia", "Lithuania", "Belarus", "Ukraine", "Czech Republic", "Germany", "Slovakia"],
+                "no-neighbour": "Denmark"
             },
-            "bandera": "https://flagcdn.com/192x144/pl.webp"
+            "flag": "https://flagcdn.com/192x144/pl.webp"
         },
         {
             "key": 35,
-            "pais": "Sweden",
+            "country": "Sweden",
             "capital": "Stockholm",
-            "poblacion": 10606999,
+            "population": 10606999,
             "area": 430297,
             "altitud-max": 2104,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Norway", "Finland"],
-                "no-colindante": "Russia"
+                "countries": ["Norway", "Finland"],
+                "no-neighbour": "Russia"
             },
-            "bandera": "https://flagcdn.com/192x144/se.webp"
+            "flag": "https://flagcdn.com/192x144/se.webp"
         },
         {
             "key": 36,
-            "pais": "Norway",
+            "country": "Norway",
             "capital": "Oslo",
-            "poblacion": 5576660,
+            "population": 5576660,
             "area": 346268,
             "altitud-max": 2469,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Sweden", "Finland", "Russia"],
-                "no-colindante": "Germany"
+                "countries": ["Sweden", "Finland", "Russia"],
+                "no-neighbour": "Germany"
             },
-            "bandera": "https://flagcdn.com/192x144/no.webp"
+            "flag": "https://flagcdn.com/192x144/no.webp"
         },
         {
             "key": 37,
-            "pais": "Finland",
+            "country": "Finland",
             "capital": "Helsinki",
-            "poblacion": 5617310,
+            "population": 5617310,
             "area": 318890,
             "altitud-max": 1324,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Sweden", "Norway", "Russia"],
-                "no-colindante": "Lithuania"
+                "countries": ["Sweden", "Norway", "Russia"],
+                "no-neighbour": "Lithuania"
             },
-            "bandera": "https://flagcdn.com/192x144/fi.webp"
+            "flag": "https://flagcdn.com/192x144/fi.webp"
         },
         {
             "key": 38,
-            "pais": "Estonia",
+            "country": "Estonia",
             "capital": "Tallinn",
-            "poblacion": 1360546,
+            "population": 1360546,
             "area": 43927,
             "altitud-max": 318,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Latvia", "Russia"],
-                "no-colindante": "Ukraine"
+                "countries": ["Latvia", "Russia"],
+                "no-neighbour": "Ukraine"
             },
-            "bandera": "https://flagcdn.com/192x144/ee.webp"
+            "flag": "https://flagcdn.com/192x144/ee.webp"
         },
         {
             "key": 39,
-            "pais": "Latvia",
+            "country": "Latvia",
             "capital": "Riga",
-            "poblacion": 1871871,
+            "population": 1871871,
             "area": 63558,
             "altitud-max": 312,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Estonia", "Russia", "Lithuania", "Belarus"],
-                "no-colindante": "Slovakia"
+                "countries": ["Estonia", "Russia", "Lithuania", "Belarus"],
+                "no-neighbour": "Slovakia"
             },
-            "bandera": "https://flagcdn.com/192x144/lv.webp"
+            "flag": "https://flagcdn.com/192x144/lv.webp"
         },
         {
             "key": 40,
-            "pais": "Lithuania",
+            "country": "Lithuania",
             "capital": "Vilnius",
-            "poblacion": 2859110,
+            "population": 2859110,
             "area": 63674,
             "altitud-max": 294,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Latvia", "Belarus", "Russia", "Poland"],
-                "no-colindante": "Bulgaria"
+                "countries": ["Latvia", "Belarus", "Russia", "Poland"],
+                "no-neighbour": "Bulgaria"
             },
-            "bandera": "https://flagcdn.com/192x144/lt.webp"
+            "flag": "https://flagcdn.com/192x144/lt.webp"
         },
         {
             "key": 41,
-            "pais": "Belarus",
+            "country": "Belarus",
             "capital": "Minsk",
-            "poblacion": 9156696,
+            "population": 9156696,
             "area": 204910,
             "altitud-max": 346,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Lithuania", "Latvia", "Russia", "Ukraine", "Poland"],
-                "no-colindante": "Albania"
+                "countries": ["Lithuania", "Latvia", "Russia", "Ukraine", "Poland"],
+                "no-neighbour": "Albania"
             },
-            "bandera": "https://flagcdn.com/192x144/by.webp"
+            "flag": "https://flagcdn.com/192x144/by.webp"
         },
         {
             "key": 42,
-            "pais": "Ukraine",
+            "country": "Ukraine",
             "capital": "Kyiv",
-            "poblacion": 37860221,
+            "population": 37860221,
             "area": 587320,
             "altitud-max": 2061,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Russia", "Belarus", "Poland", "Slovakia", "Romania", "Hungary", "Moldova"],
-                "no-colindante": "Montenegro"
+                "countries": ["Russia", "Belarus", "Poland", "Slovakia", "Romania", "Hungary", "Moldova"],
+                "no-neighbour": "Montenegro"
             },
-            "bandera": "https://flagcdn.com/192x144/ua.webp"
+            "flag": "https://flagcdn.com/192x144/ua.webp"
         },
         {
             "key": 43,
-            "pais": "Moldova",
+            "country": "Moldova",
             "capital": "Chisinau",
-            "poblacion": 2934961,
+            "population": 2934961,
             "area": 33546,
             "altitud-max": 420,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Ukraine", "Romania"],
-                "no-colindante": "Latvia"
+                "countries": ["Ukraine", "Romania"],
+                "no-neighbour": "Latvia"
             },
-            "bandera": "https://flagcdn.com/192x144/md.webp"
+            "flag": "https://flagcdn.com/192x144/md.webp"
         }
     ],
     "eur-asia": [
         {
             "key": 44,
-            "pais": "Russia",
+            "country": "Russia",
             "capital": "Moscow",
-            "poblacion": 144820423,
+            "population": 144820423,
             "area": 16872349,
             "altitud-max": 5642,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 14,
-                "paises": ["Norway", "Finland", "Estonia", "Lithuania", "Latvia", "Poland", "Belarus", "Ukraine", "Georgia", "Azerbaijan", "Kazakhstan", "China", "Mongolia", "North Korea"],
-                "no-colindante": "Japan"
+                "countries": ["Norway", "Finland", "Estonia", "Lithuania", "Latvia", "Poland", "Belarus", "Ukraine", "Georgia", "Azerbaijan", "Kazakhstan", "China", "Mongolia", "North Korea"],
+                "no-neighbour": "Japan"
             },
-            "bandera": "https://flagcdn.com/192x144/ru.webp"
+            "flag": "https://flagcdn.com/192x144/ru.webp"
         },
         {
             "key": 147,
-            "pais": "Turkey",
+            "country": "Turkey",
             "capital": "Ankara",
-            "poblacion": 86473805,
+            "population": 86473805,
             "area": 777630,
             "altitud-max": 5137,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Iraq", "Syria", "Greece", "Bulgaria", "Georgia", "Armenia", "Iran", "Azerbaijan"],
-                "no-colindante": "Cyprus"
+                "countries": ["Iraq", "Syria", "Greece", "Bulgaria", "Georgia", "Armenia", "Iran", "Azerbaijan"],
+                "no-neighbour": "Cyprus"
             },
-            "bandera": "https://flagcdn.com/192x144/tr.webp"
+            "flag": "https://flagcdn.com/192x144/tr.webp"
         },
         {
             "key": 148,
-            "pais": "Georgia",
+            "country": "Georgia",
             "capital": "Tbilisi",
-            "poblacion": 3807670,
+            "population": 3807670,
             "area": 69699,
             "altitud-max": 5193,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Russia", "Turkey", "Azerbaijan", "Armenia"],
-                "no-colindante": "Iraq"
+                "countries": ["Russia", "Turkey", "Azerbaijan", "Armenia"],
+                "no-neighbour": "Iraq"
             },
-            "bandera": "https://flagcdn.com/192x144/ge.webp"
+            "flag": "https://flagcdn.com/192x144/ge.webp"
         },
         {
             "key": 149,
-            "pais": "Azerbaijan",
+            "country": "Azerbaijan",
             "capital": "Baku",
-            "poblacion": 10336557,
+            "population": 10336557,
             "area": 85699,
             "altitud-max": 4485,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Russia", "Georgia", "Armenia", "Turkey", "Iran"],
-                "no-colindante": "Kazakhstan"
+                "countries": ["Russia", "Georgia", "Armenia", "Turkey", "Iran"],
+                "no-neighbour": "Kazakhstan"
             },
-            "bandera": "https://flagcdn.com/192x144/az.webp"
+            "flag": "https://flagcdn.com/192x144/az.webp"
         },
         {
             "key": 154,
-            "pais": "Kazakhstan",
+            "country": "Kazakhstan",
             "capital": "Astana",
-            "poblacion": 20592571,
+            "population": 20592571,
             "area": 2724911,
             "altitud-max": 7010,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Russia", "Turkmenistan", "Uzbekistan", "China", "Kyrgyzstan"],
-                "no-colindante": "Georgia"
+                "countries": ["Russia", "Turkmenistan", "Uzbekistan", "China", "Kyrgyzstan"],
+                "no-neighbour": "Georgia"
             },
-            "bandera": "https://flagcdn.com/192x144/kz.webp"
+            "flag": "https://flagcdn.com/192x144/kz.webp"
         }
     ],
-    "america-norte": [
+    "north-america": [
         {
             "key": 46,
-            "pais": "Grenada",
+            "country": "Grenada",
             "capital": "Saint George's",
-            "poblacion": 115000,
+            "population": 115000,
             "area": 344,
             "altitud-max": 840,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/gd.webp"
+            "flag": "https://flagcdn.com/192x144/gd.webp"
         },
         {
             "key": 47,
-            "pais": "St. Vincent & Grenadines",
+            "country": "St. Vincent & Grenadines",
             "capital": "Kingstown",
-            "poblacion": 101323,
+            "population": 101323,
             "area": 380,
             "altitud-max": 1234,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/vc.webp"
+            "flag": "https://flagcdn.com/192x144/vc.webp"
         },
         {
             "key": 48,
-            "pais": "Barbados",
+            "country": "Barbados",
             "capital": "Bridgetown",
-            "poblacion": 282336,
+            "population": 282336,
             "area": 430,
             "altitud-max": 336,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/bb.webp"
+            "flag": "https://flagcdn.com/192x144/bb.webp"
         },
         {
             "key": 49,
-            "pais": "Saint Lucia",
+            "country": "Saint Lucia",
             "capital": "Castries",
-            "poblacion": 179285,
+            "population": 179285,
             "area": 616,
             "altitud-max": 950,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/lc.webp"
+            "flag": "https://flagcdn.com/192x144/lc.webp"
         },
         {
             "key": 50,
-            "pais": "Dominica",
+            "country": "Dominica",
             "capital": "Roseau",
-            "poblacion": 66510,
+            "population": 66510,
             "area": 73,
             "altitud-max": 1447,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/dm.webp"
+            "flag": "https://flagcdn.com/192x144/dm.webp"
         },
         {
             "key": 51,
-            "pais": "Antigua & Barbuda",
+            "country": "Antigua & Barbuda",
             "capital": "Saint John's",
-            "poblacion": 93316,
+            "population": 93316,
             "area": 443,
             "altitud-max": 401,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/ag.webp"
+            "flag": "https://flagcdn.com/192x144/ag.webp"
         },
         {
             "key": 52,
-            "pais": "Saint Kitts & Nevis",
+            "country": "Saint Kitts & Nevis",
             "capital": "Basseterre",
-            "poblacion": 46758,
+            "population": 46758,
             "area": 262,
             "altitud-max": 1156,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/kn.webp"
+            "flag": "https://flagcdn.com/192x144/kn.webp"
         },
         {
             "key": 53,
-            "pais": "Dominican Republic",
+            "country": "Dominican Republic",
             "capital": "Santo Domingo",
-            "poblacion": 10709000,
+            "population": 10709000,
             "area": 48671,
             "altitud-max": 3098,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1, 
-                "paises": ["Haiti"],
-                "no-colindante": "Cuba"
+                "countries": ["Haiti"],
+                "no-neighbour": "Cuba"
             },
-            "bandera": "https://flagcdn.com/192x144/do.webp"
+            "flag": "https://flagcdn.com/192x144/do.webp"
         },
         {
             "key": 54,
-            "pais": "Haiti",
+            "country": "Haiti",
             "capital": "Port-au-Prince",
-            "poblacion": 11637398,
+            "population": 11637398,
             "area": 27749,
             "altitud-max": 2680,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1, 
-                "paises": ["Dominican Republic"],
-                "no-colindante": "Trinidad & Tobago"
+                "countries": ["Dominican Republic"],
+                "no-neighbour": "Trinidad & Tobago"
             },
-            "bandera": "https://flagcdn.com/192x144/ht.webp"
+            "flag": "https://flagcdn.com/192x144/ht.webp"
         },
         {
             "key": 55,
-            "pais": "Cuba",
+            "country": "Cuba",
             "capital": "Havana",
-            "poblacion": 11019931,
+            "population": 11019931,
             "area": 109883,
             "altitud-max": 1974,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": "",
-                "no-colindante": ""
+                "countries": "",
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/cu.webp"
+            "flag": "https://flagcdn.com/192x144/cu.webp"
         },
         {
             "key": 56,
-            "pais": "Jamaica",
+            "country": "Jamaica",
             "capital": "Kingston",
-            "poblacion": 2839786,
+            "population": 2839786,
             "area": 10992,
             "altitud-max": 2256,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/jm.webp"
+            "flag": "https://flagcdn.com/192x144/jm.webp"
         },
         {
             "key": 57,
-            "pais": "The The Bahamas",
+            "country": "The The Bahamas",
             "capital": "Nassau",
-            "poblacion": 339440,
+            "population": 339440,
             "area": 13942,
             "altitud-max": 63,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/bs.webp"
+            "flag": "https://flagcdn.com/192x144/bs.webp"
         },
         {
             "key": 58,
-            "pais": "Canada",
+            "country": "Canada",
             "capital": "Ottawa",
-            "poblacion": 40097761,
+            "population": 40097761,
             "area": 15634410,
             "altitud-max": 5959,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["United States"],
-                "no-colindante": "Iceland"
+                "countries": ["United States"],
+                "no-neighbour": "Iceland"
             },
-            "bandera": "https://flagcdn.com/192x144/ca.webp"
+            "flag": "https://flagcdn.com/192x144/ca.webp"
         },
         {
             "key": 59,
-            "pais": "United States",
+            "country": "United States",
             "capital": "Washington D.C.",
-            "poblacion": 335135000,
+            "population": 335135000,
             "area": 9831510,
             "altitud-max": 6194,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Canada", "Mexico"],
-                "no-colindante": "The Bahamas"
+                "countries": ["Canada", "Mexico"],
+                "no-neighbour": "The Bahamas"
             },
-            "bandera": "https://flagcdn.com/192x144/us.webp"
+            "flag": "https://flagcdn.com/192x144/us.webp"
         },
         {
             "key": 60,
-            "pais": "Mexico",
+            "country": "Mexico",
             "capital": "Mexico city",
-            "poblacion": 129739759,
+            "population": 129739759,
             "area": 1964383,
             "altitud-max": 5636,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["United States", "Belize", "Guatemala"],
-                "no-colindante": "Costa Rica"
+                "countries": ["United States", "Belize", "Guatemala"],
+                "no-neighbour": "Costa Rica"
             },
-            "bandera": "https://flagcdn.com/192x144/mx.webp"
+            "flag": "https://flagcdn.com/192x144/mx.webp"
         },
         {
             "key": 61,
-            "pais": "Guatemala",
+            "country": "Guatemala",
             "capital": "Guatemala city",
-            "poblacion": 17602000,
+            "population": 17602000,
             "area": 108889,
             "altitud-max": 4220,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Mexico", "Belize", "El Salvador", "Honduras"],
-                "no-colindante": "Panama"
+                "countries": ["Mexico", "Belize", "El Salvador", "Honduras"],
+                "no-neighbour": "Panama"
             },
-            "bandera": "https://flagcdn.com/192x144/gt.webp"
+            "flag": "https://flagcdn.com/192x144/gt.webp"
         },
         {
             "key": 62,
-            "pais": "Belize",
+            "country": "Belize",
             "capital": "Belmopan",
-            "poblacion": 411106,
+            "population": 411106,
             "area": 22966,
             "altitud-max": 1124,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Mexico", "Guatemala"],
-                "no-colindante": "Honduras"
+                "countries": ["Mexico", "Guatemala"],
+                "no-neighbour": "Honduras"
             },
-            "bandera": "https://flagcdn.com/192x144/bz.webp"
+            "flag": "https://flagcdn.com/192x144/bz.webp"
         },
         {
             "key": 63,
-            "pais": "El Salvador",
+            "country": "El Salvador",
             "capital": "San Salvador",
-            "poblacion": 6365000,
+            "population": 6365000,
             "area": 21041,
             "altitud-max": 2730,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Guatemala", "Honduras"],
-                "no-colindante": "Nicaragua"
+                "countries": ["Guatemala", "Honduras"],
+                "no-neighbour": "Nicaragua"
             },
-            "bandera": "https://flagcdn.com/192x144/sv.webp"
+            "flag": "https://flagcdn.com/192x144/sv.webp"
         },
         {
             "key": 64,
-            "pais": "Honduras",
+            "country": "Honduras",
             "capital": "Tegucigalpa",
-            "poblacion": 10475000,
+            "population": 10475000,
             "area": 112491,
             "altitud-max": 2670,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Guatemala", "El Salvador", "Nicaragua"],
-                "no-colindante": "Belize"
+                "countries": ["Guatemala", "El Salvador", "Nicaragua"],
+                "no-neighbour": "Belize"
             },
-            "bandera": "https://flagcdn.com/192x144/hn.webp"
+            "flag": "https://flagcdn.com/192x144/hn.webp"
         },
         {
             "key": 65,
-            "pais": "Nicaragua",
+            "country": "Nicaragua",
             "capital": "Managua",
-            "poblacion": 6823613,
+            "population": 6823613,
             "area": 130373,
             "altitud-max": 2107,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Honduras", "Costa Rica"],
-                "no-colindante": "Guatemala"
+                "countries": ["Honduras", "Costa Rica"],
+                "no-neighbour": "Guatemala"
             },
-            "bandera": "https://flagcdn.com/192x144/ni.webp"
+            "flag": "https://flagcdn.com/192x144/ni.webp"
         },
         {
             "key": 66,
-            "pais": "Costa Rica",
+            "country": "Costa Rica",
             "capital": "San José",
-            "poblacion": 5278000,
+            "population": 5278000,
             "area": 51101,
             "altitud-max": 3820,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Nicaragua", "Panama"],
-                "no-colindante": "Colombia"
+                "countries": ["Nicaragua", "Panama"],
+                "no-neighbour": "Colombia"
             },
-            "bandera": "https://flagcdn.com/192x144/cr.webp"
+            "flag": "https://flagcdn.com/192x144/cr.webp"
         },
         {
             "key": 67,
-            "pais": "Panama",
+            "country": "Panama",
             "capital": "Ciudad de Panama",
-            "poblacion": 4453000,
+            "population": 4453000,
             "area": 75418,
             "altitud-max": 3475,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Costa Rica", "Colombia"],
-                "no-colindante": "Ecuador"
+                "countries": ["Costa Rica", "Colombia"],
+                "no-neighbour": "Ecuador"
             },
-            "bandera": "https://flagcdn.com/192x144/pa.webp"
+            "flag": "https://flagcdn.com/192x144/pa.webp"
         }
     ],
-    "america-sur": [
+    "south-america": [
         {
             "key": 45,
-            "pais": "Trinidad & Tobago",
+            "country": "Trinidad & Tobago",
             "capital": "Port of Spain",
-            "poblacion": 1367510,
+            "population": 1367510,
             "area": 5131,
             "altitud-max": 940,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises":[],
-                "no-colindante": ""
+                "countries":[],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/tt.webp"
+            "flag": "https://flagcdn.com/192x144/tt.webp"
         },
         {
             "key": 68,
-            "pais": "Colombia",
+            "country": "Colombia",
             "capital": "Bogotá",
-            "poblacion": 52216000,
+            "population": 52216000,
             "area": 1141752,
             "altitud-max": 5700,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Panama", "Ecuador", "Peru", "Brasil", "Venezuela"],
-                "no-colindante": "Bolivia"
+                "countries": ["Panama", "Ecuador", "Peru", "Brasil", "Venezuela"],
+                "no-neighbour": "Bolivia"
             },
-            "bandera": "https://flagcdn.com/192x144/co.webp"
+            "flag": "https://flagcdn.com/192x144/co.webp"
         },
         {
             "key": 69,
-            "pais": "Venezuela",
+            "country": "Venezuela",
             "capital": "Caracas",
-            "poblacion": 28300854,
+            "population": 28300854,
             "area": 912050,
             "altitud-max": 4981,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Colombia", "Brasil", "Guyana"],
-                "no-colindante": "Peru"
+                "countries": ["Colombia", "Brasil", "Guyana"],
+                "no-neighbour": "Peru"
             },
-            "bandera": "https://flagcdn.com/192x144/ve.webp"
+            "flag": "https://flagcdn.com/192x144/ve.webp"
         },
         {
             "key": 70,
-            "pais": "Guyana",
+            "country": "Guyana",
             "capital": "Georgetown",
-            "poblacion": 826353,
+            "population": 826353,
             "area": 214970,
             "altitud-max": 2750,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Suriname", "Brasil", "Venezuela"],
-                "no-colindante": "Haiti"
+                "countries": ["Suriname", "Brasil", "Venezuela"],
+                "no-neighbour": "Haiti"
             },
-            "bandera": "https://flagcdn.com/192x144/gy.webp"
+            "flag": "https://flagcdn.com/192x144/gy.webp"
         },
         {
             "key": 71,
-            "pais": "Suriname",
+            "country": "Suriname",
             "capital": "Paramaribo",
-            "poblacion": 628886,
+            "population": 628886,
             "area": 163820,
             "altitud-max": 1230,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Guyana", "Brasil"],
-                "no-colindante": "Colombia"
+                "countries": ["Guyana", "Brasil"],
+                "no-neighbour": "Colombia"
             },
-            "bandera": "https://flagcdn.com/192x144/sr.webp"
+            "flag": "https://flagcdn.com/192x144/sr.webp"
         },
         {
             "key": 72,
-            "pais": "Ecuador",
+            "country": "Ecuador",
             "capital": "Quito",
-            "poblacion": 17980083,
+            "population": 17980083,
             "area": 256370,
             "altitud-max": 6267,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Peru", "Colombia"],
-                "no-colindante": "Chile"
+                "countries": ["Peru", "Colombia"],
+                "no-neighbour": "Chile"
             },
-            "bandera": "https://flagcdn.com/192x144/ec.webp"
+            "flag": "https://flagcdn.com/192x144/ec.webp"
         },
         {
             "key": 73,
-            "pais": "Peru",
+            "country": "Peru",
             "capital": "Lima",
-            "poblacion": 33845617,
+            "population": 33845617,
             "area": 1285220,
             "altitud-max": 6768,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
-                "no-colindante": "Paraguay"
+                "countries": ["Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
+                "no-neighbour": "Paraguay"
             },
-            "bandera": "https://flagcdn.com/192x144/pe.webp"
+            "flag": "https://flagcdn.com/192x144/pe.webp"
         },
         {
             "key": 74,
-            "pais": "Brasil",
+            "country": "Brasil",
             "capital": "Brasilia",
-            "poblacion": 211695000,
+            "population": 211695000,
             "area": 8515803,
             "altitud-max": 2994,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 9,
-                "paises": ["Uruguay", "Argentina", "Paraguay", "Bolivia", "Peru", "Colombia", "Venezuela", "Guyana", "Suriname"],
-                "no-colindante": "Ecuador"
+                "countries": ["Uruguay", "Argentina", "Paraguay", "Bolivia", "Peru", "Colombia", "Venezuela", "Guyana", "Suriname"],
+                "no-neighbour": "Ecuador"
             },
-            "bandera": "https://flagcdn.com/192x144/br.webp"
+            "flag": "https://flagcdn.com/192x144/br.webp"
         },
         {
             "key": 75,
-            "pais": "Bolivia",
+            "country": "Bolivia",
             "capital": ["Sucre", "La Paz"],
-            "poblacion": 12244159,
+            "population": 12244159,
             "area": 1098585,
             "altitud-max": 6542,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Peru", "Chile", "Argentina", "Paraguay", "Brasil"],
-                "no-colindante": "Venezuela"
+                "countries": ["Peru", "Chile", "Argentina", "Paraguay", "Brasil"],
+                "no-neighbour": "Venezuela"
             },
-            "bandera": "https://flagcdn.com/192x144/bo.webp"
+            "flag": "https://flagcdn.com/192x144/bo.webp"
         },
         {
             "key": 76,
-            "pais": "Paraguay",
+            "country": "Paraguay",
             "capital": "Asunción",
-            "poblacion": 6844146,
+            "population": 6844146,
             "area": 406754,
             "altitud-max": 842,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Argentina", "Bolivia", "Brasil"],
-                "no-colindante": "Peru"
+                "countries": ["Argentina", "Bolivia", "Brasil"],
+                "no-neighbour": "Peru"
             },
-            "bandera": "https://flagcdn.com/192x144/py.webp"
+            "flag": "https://flagcdn.com/192x144/py.webp"
         },
         {
             "key": 77,
-            "pais": "Uruguay",
+            "country": "Uruguay",
             "capital": "Montevideo",
-            "poblacion": 3388081,
+            "population": 3388081,
             "area": 176216,
             "altitud-max": 514,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Argentina", "Brasil"],
-                "no-colindante": "Venezuela"
+                "countries": ["Argentina", "Brasil"],
+                "no-neighbour": "Venezuela"
             },
-            "bandera": "https://flagcdn.com/192x144/uy.webp"
+            "flag": "https://flagcdn.com/192x144/uy.webp"
         },
         {
             "key": 78,
-            "pais": "Argentina",
+            "country": "Argentina",
             "capital": "Buenos Aires",
-            "poblacion": 45538401,
+            "population": 45538401,
             "area": 2780412,
             "altitud-max": 6960,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
-                "no-colindante": "Guyana"
+                "countries": ["Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
+                "no-neighbour": "Guyana"
             },
-            "bandera": "https://flagcdn.com/192x144/ar.webp"
+            "flag": "https://flagcdn.com/192x144/ar.webp"
         },
         {
             "key": 79,
-            "pais": "Chile",
+            "country": "Chile",
             "capital": "Santiago",
-            "poblacion": 19658835,
+            "population": 19658835,
             "area": 756106,
             "altitud-max": 6893,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Peru", "Bolivia", "Argentina"],
-                "no-colindante": "Brasil"
+                "countries": ["Peru", "Bolivia", "Argentina"],
+                "no-neighbour": "Brasil"
             },
-            "bandera": "https://flagcdn.com/192x144/cl.webp"
+            "flag": "https://flagcdn.com/192x144/cl.webp"
         }
     ],
     "africa": [
         {
             "key": 80,
-            "pais": "Senegal",
+            "country": "Senegal",
             "capital": "Dakar",
-            "poblacion": 18501984,
+            "population": 18501984,
             "area": 194530,
             "altitud-max": 581,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Mauritania", "Mali", "Guinea", "Guinea-Bissau", "Gambia"],
-                "no-colindante": "Ivory Coast"
+                "countries": ["Mauritania", "Mali", "Guinea", "Guinea-Bissau", "Gambia"],
+                "no-neighbour": "Ivory Coast"
             },
-            "bandera": "https://flagcdn.com/192x144/sn.webp"
+            "flag": "https://flagcdn.com/192x144/sn.webp"
         },
         {
             "key": 81,
-            "pais": "Gambia",
+            "country": "Gambia",
             "capital": "Banjul",
-            "poblacion": 2759988,
+            "population": 2759988,
             "area": 10820,
             "altitud-max": 53,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Senegal"],
-                "no-colindante": "Zambia"
+                "countries": ["Senegal"],
+                "no-neighbour": "Zambia"
             },
-            "bandera": "https://flagcdn.com/192x144/gm.webp"
+            "flag": "https://flagcdn.com/192x144/gm.webp"
         },
         {
             "key": 82,
-            "pais": "Guinea-Bissau",
+            "country": "Guinea-Bissau",
             "capital": "Bissau",
-            "poblacion": 19878352,
+            "population": 19878352,
             "area": 31120,
             "altitud-max": 300,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Guinea","Gambia"],
-                "no-colindante": "Burkina Faso"
+                "countries": ["Guinea","Gambia"],
+                "no-neighbour": "Burkina Faso"
             },
-            "bandera": "https://flagcdn.com/192x144/gw.webp"
+            "flag": "https://flagcdn.com/192x144/gw.webp"
         },
         {
             "key": 83,
-            "pais": "Guinea",
+            "country": "Guinea",
             "capital": "Conarky",
-            "poblacion": 14754785,
+            "population": 14754785,
             "area": 245858,
             "altitud-max": 1752,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Senegal", "Mali", "Sierra Leone", "Guinea-Bissau", "Liberia", "Ivory Coast"],
-                "no-colindante": "Zimbabwe"
+                "countries": ["Senegal", "Mali", "Sierra Leone", "Guinea-Bissau", "Liberia", "Ivory Coast"],
+                "no-neighbour": "Zimbabwe"
             },
-            "bandera": "https://flagcdn.com/192x144/gn.webp"
+            "flag": "https://flagcdn.com/192x144/gn.webp"
         },
         {
             "key": 84,
-            "pais": "Sierra Leone",
+            "country": "Sierra Leone",
             "capital": "Freetown",
-            "poblacion": 8642022,
+            "population": 8642022,
             "area": 71740,
             "altitud-max": 1948,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Guinea", "Liberia"],
-                "no-colindante": "Mauritania"
+                "countries": ["Guinea", "Liberia"],
+                "no-neighbour": "Mauritania"
             },
-            "bandera": "https://flagcdn.com/192x144/sl.webp"
+            "flag": "https://flagcdn.com/192x144/sl.webp"
         },
         {
             "key": 85,
-            "pais": "Liberia",
+            "country": "Liberia",
             "capital": "Monrovia",
-            "poblacion": 5612817,
+            "population": 5612817,
             "area": 107520,
             "altitud-max": 1440,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Guinea", "Sierra Leone", "Ivory Coast"],
-                "no-colindante": "Guinea-Bissau"
+                "countries": ["Guinea", "Sierra Leone", "Ivory Coast"],
+                "no-neighbour": "Guinea-Bissau"
             },
-            "bandera": "https://flagcdn.com/192x144/lr.webp"
+            "flag": "https://flagcdn.com/192x144/lr.webp"
         },
         {
             "key": 86,
-            "pais": "Ivory Coast",
+            "country": "Ivory Coast",
             "capital": ["Yamoussoukro", "Abidjan"],
-            "poblacion": 31934230,
+            "population": 31934230,
             "area": 319490,
             "altitud-max": 1752,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Mali", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
-                "no-colindante": "Nigeria"
+                "countries": ["Mali", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
+                "no-neighbour": "Nigeria"
             },
-            "bandera": "https://flagcdn.com/192x144/ci.webp"
+            "flag": "https://flagcdn.com/192x144/ci.webp"
         },
         {
             "key": 87,
-            "pais": "Burkina Faso",
+            "country": "Burkina Faso",
             "capital": "Ouagadougou",
-            "poblacion": 28548781,
+            "population": 28548781,
             "area": 273986,
             "altitud-max": 749,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Ivory Coast", "Ghana", "Mali", "Niger", "Togo", "Benin"],
-                "no-colindante": "Namibia"
+                "countries": ["Ivory Coast", "Ghana", "Mali", "Niger", "Togo", "Benin"],
+                "no-neighbour": "Namibia"
             },
-            "bandera": "https://flagcdn.com/192x144/bf.webp"
+            "flag": "https://flagcdn.com/192x144/bf.webp"
         },
         {
             "key": 88,
-            "pais": "Ghana",
+            "country": "Ghana",
             "capital": "Accra",
-            "poblacion": 33427414,
+            "population": 33427414,
             "area": 233540,
             "altitud-max": 880,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Togo", "Burkina Faso", "Ivory Coast"],
-                "no-colindante": "South Sudan"
+                "countries": ["Togo", "Burkina Faso", "Ivory Coast"],
+                "no-neighbour": "South Sudan"
             },
-            "bandera": "https://flagcdn.com/192x144/gh.webp"
+            "flag": "https://flagcdn.com/192x144/gh.webp"
         },
         {
             "key": 89,
-            "pais": "Togo",
+            "country": "Togo",
             "capital": "Lomé",
-            "poblacion": 9215236,
+            "population": 9215236,
             "area": 55390,
             "altitud-max": 986,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Ghana", "Burkina Faso", "Benin"],
-                "no-colindante": "Tanzania"
+                "countries": ["Ghana", "Burkina Faso", "Benin"],
+                "no-neighbour": "Tanzania"
             },
-            "bandera": "https://flagcdn.com/192x144/tg.webp"
+            "flag": "https://flagcdn.com/192x144/tg.webp"
         },
         {
             "key": 90,
-            "pais": "Benin",
+            "country": "Benin",
             "capital": ["Porto Novo", "Cotonou"],
-            "poblacion": 13462724,
+            "population": 13462724,
             "area": 113760,
             "altitud-max": 658,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Togo", "Burkina Faso", "Niger", "Nigeria"],
-                "no-colindante": "Liberia"
+                "countries": ["Togo", "Burkina Faso", "Niger", "Nigeria"],
+                "no-neighbour": "Liberia"
             },
-            "bandera": "https://flagcdn.com/192x144/bj.webp"
+            "flag": "https://flagcdn.com/192x144/bj.webp"
         },
         {
             "key": 91,
-            "pais": "Nigeria",
+            "country": "Nigeria",
             "capital": "Abuja",
-            "poblacion": 228679478,
+            "population": 228679478,
             "area": 918770,
             "altitud-max": 2419,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Togo", "Niger", "Chad", "Cameroon"],
-                "no-colindante": "Algeria"
+                "countries": ["Togo", "Niger", "Chad", "Cameroon"],
+                "no-neighbour": "Algeria"
             },
-            "bandera": "https://flagcdn.com/192x144/ng.webp"
+            "flag": "https://flagcdn.com/192x144/ng.webp"
         },
         {
             "key": 92,
-            "pais": "Cameroon",
+            "country": "Cameroon",
             "capital": "Yaoundé",
-            "poblacion": 28123744,
+            "population": 28123744,
             "area": 473444,
             "altitud-max": 4040,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Nigeria", "Chad", "Central African Republic", "Congo", "Gabon", "Equatorial Guinea"],
-                "no-colindante": "Gambia"
+                "countries": ["Nigeria", "Chad", "Central African Republic", "Congo", "Gabon", "Equatorial Guinea"],
+                "no-neighbour": "Gambia"
             },
-            "bandera": "https://flagcdn.com/192x144/cm.webp"
+            "flag": "https://flagcdn.com/192x144/cm.webp"
         },
         {
             "key": 93,
-            "pais": "Central African Republic",
+            "country": "Central African Republic",
             "capital": "Bangui",
-            "poblacion": 5430690,
+            "population": 5430690,
             "area": 622980,
             "altitud-max": 1420,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Cameroon", "Chad", "Sudan", "South Sudan", "DR Congo", "Congo"],
-                "no-colindante": "Eswatini"
+                "countries": ["Cameroon", "Chad", "Sudan", "South Sudan", "DR Congo", "Congo"],
+                "no-neighbour": "Eswatini"
             },
-            "bandera": "https://flagcdn.com/192x144/cf.webp"
+            "flag": "https://flagcdn.com/192x144/cf.webp"
         },
         {
             "key": 94,
-            "pais": "DR Congo",
+            "country": "DR Congo",
             "capital": "Kinshasa",
-            "poblacion": 106276265,
+            "population": 106276265,
             "area": 2367050,
             "altitud-max": 5110,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 9,
-                "paises": ["Congo", "Central African Republic", "South Sudan", "Zambia", "Tanzania", "Burundi", "Rwanda", "Uganda", "Angola"],
-                "no-colindante": "South Africa"
+                "countries": ["Congo", "Central African Republic", "South Sudan", "Zambia", "Tanzania", "Burundi", "Rwanda", "Uganda", "Angola"],
+                "no-neighbour": "South Africa"
             },
-            "bandera": "https://flagcdn.com/192x144/cd.webp"
+            "flag": "https://flagcdn.com/192x144/cd.webp"
         },
         {
             "key": 95,
-            "pais": "Congo",
+            "country": "Congo",
             "capital": "Brazzaville",
-            "poblacion": 6332961,
+            "population": 6332961,
             "area": 341876,
             "altitud-max": 1020,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["DR Congo", "Gabon", "Central African Republic", "Cameroon", "Angola"],
-                "no-colindante": "Eritrea"
+                "countries": ["DR Congo", "Gabon", "Central African Republic", "Cameroon", "Angola"],
+                "no-neighbour": "Eritrea"
             },
-            "bandera": "https://flagcdn.com/192x144/cg.webp"
+            "flag": "https://flagcdn.com/192x144/cg.webp"
         },
         {
             "key": 96,
-            "pais": "Gabon",
+            "country": "Gabon",
             "capital": "Libreville",
-            "poblacion": 2438952,
+            "population": 2438952,
             "area": 263670,
             "altitud-max": 1070,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Congo", "Cameroon", "Equatorial Guinea"],
-                "no-colindante": "Mozambique"
+                "countries": ["Congo", "Cameroon", "Equatorial Guinea"],
+                "no-neighbour": "Mozambique"
             },
-            "bandera": "https://flagcdn.com/192x144/ga.webp"
+            "flag": "https://flagcdn.com/192x144/ga.webp"
         },
         {
             "key": 97,
-            "pais": "Equatorial Guinea",
+            "country": "Equatorial Guinea",
             "capital": "Malabo",
-            "poblacion": 1792516,
+            "population": 1792516,
             "area": 28050,
             "altitud-max": 3008,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Cameroon", "Gabon"],
-                "no-colindante": "Eswatini"
+                "countries": ["Cameroon", "Gabon"],
+                "no-neighbour": "Eswatini"
             },
-            "bandera": "https://flagcdn.com/192x144/gq.webp"
+            "flag": "https://flagcdn.com/192x144/gq.webp"
         },
         {
             "key": 98,
-            "pais": "São Tomé and Príncipe",
+            "country": "São Tomé and Príncipe",
             "capital": "São Tomé",
-            "poblacion": 225536,
+            "population": 225536,
             "area": 961,
             "altitud-max": 2024,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/st.webp"
+            "flag": "https://flagcdn.com/192x144/st.webp"
         },
         {
             "key": 99,
-            "pais": "Angola",
+            "country": "Angola",
             "capital": "Luanda",
-            "poblacion": 36885849,
+            "population": 36885849,
             "area": 1246700,
             "altitud-max": 2620,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Namibia", "Zambia", "Congo", "DR Congo"],
-                "no-colindante": "Mauritius"
+                "countries": ["Namibia", "Zambia", "Congo", "DR Congo"],
+                "no-neighbour": "Mauritius"
             },
-            "bandera": "https://flagcdn.com/192x144/ao.webp"
+            "flag": "https://flagcdn.com/192x144/ao.webp"
         },
         {
             "key": 100,
-            "pais": "Namibia",
+            "country": "Namibia",
             "capital": "Windhoek",
-            "poblacion": 2928000,
+            "population": 2928000,
             "area": 825619,
             "altitud-max": 2606,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["South Africa", "Botswana", "Zambia", "Angola"],
-                "no-colindante": "Chad"
+                "countries": ["South Africa", "Botswana", "Zambia", "Angola"],
+                "no-neighbour": "Chad"
             },
-            "bandera": "https://flagcdn.com/192x144/na.webp"
+            "flag": "https://flagcdn.com/192x144/na.webp"
         },
         {
             "key": 101,
-            "pais": "Botswana",
+            "country": "Botswana",
             "capital": "Gaborone",
-            "poblacion": 2480244,
+            "population": 2480244,
             "area": 581732,
             "altitud-max": 1491,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Namibia", "South Africa", "Zimbabwe", "Zambia"],
-                "no-colindante": "Senegal"
+                "countries": ["Namibia", "South Africa", "Zimbabwe", "Zambia"],
+                "no-neighbour": "Senegal"
             },
-            "bandera": "https://flagcdn.com/192x144/bw.webp"
+            "flag": "https://flagcdn.com/192x144/bw.webp"
         },
         {
             "key": 102,
-            "pais": "South Africa",
+            "country": "South Africa",
             "capital": ["Pretoria", "Cape Town", "Bloemfontein"],
-            "poblacion": 63212384,
+            "population": 63212384,
             "area": 1221043,
             "altitud-max": 3450,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Lesotho", "Eswatini", "Mozambique", "Zimbabwe", "Botswana", "Namibia"],
-                "no-colindante": "Congo"
+                "countries": ["Lesotho", "Eswatini", "Mozambique", "Zimbabwe", "Botswana", "Namibia"],
+                "no-neighbour": "Congo"
             },
-            "bandera": "https://flagcdn.com/192x144/za.webp"
+            "flag": "https://flagcdn.com/192x144/za.webp"
         },
         {
             "key": 103,
-            "pais": "Lesotho",
+            "country": "Lesotho",
             "capital": "Maseru",
-            "poblacion": 2311472,
+            "population": 2311472,
             "area": 30355,
             "altitud-max": 3482,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["South Africa"],
-                "no-colindante": "Madagascar"
+                "countries": ["South Africa"],
+                "no-neighbour": "Madagascar"
             },
-            "bandera": "https://flagcdn.com/192x144/ls.webp"
+            "flag": "https://flagcdn.com/192x144/ls.webp"
         },
         {
             "key": 104,
-            "pais": "Eswatini",
+            "country": "Eswatini",
             "capital": ["Lobamba", "Mbabane"],
-            "poblacion": 1230506,
+            "population": 1230506,
             "area": 17363,
             "altitud-max": 1862,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Mozambique", "South Africa"],
-                "no-colindante": "Somalia"
+                "countries": ["Mozambique", "South Africa"],
+                "no-neighbour": "Somalia"
             },
-            "bandera": "https://flagcdn.com/192x144/sz.webp"
+            "flag": "https://flagcdn.com/192x144/sz.webp"
         },
         {
             "key": 105,
-            "pais": "Mozambique",
+            "country": "Mozambique",
             "capital": "Maputo",
-            "poblacion": 33635160,
+            "population": 33635160,
             "area": 801595,
             "altitud-max": 2436,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Tanzania", "Zambia", "Malawi", "Zimbabwe", "Eswatini", "South Africa"],
-                "no-colindante": "Ghana"
+                "countries": ["Tanzania", "Zambia", "Malawi", "Zimbabwe", "Eswatini", "South Africa"],
+                "no-neighbour": "Ghana"
             },
-            "bandera": "https://flagcdn.com/192x144/mz.webp"
+            "flag": "https://flagcdn.com/192x144/mz.webp"
         },
         {
             "key": 106,
-            "pais": "Madagascar",
+            "country": "Madagascar",
             "capital": "Antananarivo",
-            "poblacion": 31195932,
+            "population": 31195932,
             "area": 587044,
             "altitud-max": 2876,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/mg.webp"
+            "flag": "https://flagcdn.com/192x144/mg.webp"
         },
         {
             "key": 107,
-            "pais": "Mauritius",
+            "country": "Mauritius",
             "capital": "Port Louis",
-            "poblacion": 1261041,
+            "population": 1261041,
             "area": 2041,
             "altitud-max": 828,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/mu.webp"
+            "flag": "https://flagcdn.com/192x144/mu.webp"
         },
         {
             "key": 108,
-            "pais": "Seychelles",
+            "country": "Seychelles",
             "capital": "Victoria",
-            "poblacion": 100000,
+            "population": 100000,
             "area": 453,
             "altitud-max": 905,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/sc.webp"
+            "flag": "https://flagcdn.com/192x144/sc.webp"
         },
         {
             "key": 109,
-            "pais": "Comoros",
+            "country": "Comoros",
             "capital": "Moroni",
-            "poblacion": 850387,
+            "population": 850387,
             "area": 1862,
             "altitud-max": 2360,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/km.webp"
+            "flag": "https://flagcdn.com/192x144/km.webp"
         },
         {
             "key": 110,
-            "pais": "Zimbabwe",
+            "country": "Zimbabwe",
             "capital": "Harare",
-            "poblacion": 16340822,
+            "population": 16340822,
             "area": 390758,
             "altitud-max": 2592,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Botswana", "Zambia", "Mozambique", "South Africa"],
-                "no-colindante": "DR Congo"
+                "countries": ["Botswana", "Zambia", "Mozambique", "South Africa"],
+                "no-neighbour": "DR Congo"
             },
-            "bandera": "https://flagcdn.com/192x144/zw.webp"
+            "flag": "https://flagcdn.com/192x144/zw.webp"
         },
         {
             "key": 111,
-            "pais": "Zambia",
+            "country": "Zambia",
             "capital": "Lusaka",
-            "poblacion": 20723965,
+            "population": 20723965,
             "area": 752615,
             "altitud-max": 2329,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Tanzania", "Malawi", "Mozambique", "DR Congo", "Zimbabwe", "Namibia", "Angola", "Botswana"],
-                "no-colindante": "South Africa"
+                "countries": ["Tanzania", "Malawi", "Mozambique", "DR Congo", "Zimbabwe", "Namibia", "Angola", "Botswana"],
+                "no-neighbour": "South Africa"
             },
-            "bandera": "https://flagcdn.com/192x144/zm.webp"
+            "flag": "https://flagcdn.com/192x144/zm.webp"
         },
         {
             "key": 112,
-            "pais": "Malawi",
+            "country": "Malawi",
             "capital": "Lilongwe",
-            "poblacion": 21104482,
+            "population": 21104482,
             "area": 118485,
             "altitud-max": 3002,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Tanzania", "Zambia", "Mozambique"],
-                "no-colindante": "Lesotho"
+                "countries": ["Tanzania", "Zambia", "Mozambique"],
+                "no-neighbour": "Lesotho"
             },
-            "bandera": "https://flagcdn.com/192x144/mw.webp"
+            "flag": "https://flagcdn.com/192x144/mw.webp"
         },
         {
             "key": 113,
-            "pais": "Tanzania",
+            "country": "Tanzania",
             "capital": ["Dodoma", "Dar es-Salam"],
-            "poblacion": 66617606,
+            "population": 66617606,
             "area": 945091,
             "altitud-max": 5892,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 8,
-                "paises": ["Rwanda", "Uganda", "Burundi", "Kenya", "DR Congo", "Malawi", "Zambia", "Mozambique"],
-                "no-colindante": "Etiopía"
+                "countries": ["Rwanda", "Uganda", "Burundi", "Kenya", "DR Congo", "Malawi", "Zambia", "Mozambique"],
+                "no-neighbour": "Etiopía"
             },
-            "bandera": "https://flagcdn.com/192x144/tz.webp"
+            "flag": "https://flagcdn.com/192x144/tz.webp"
         },
         {
             "key": 114,
-            "pais": "Burundi",
+            "country": "Burundi",
             "capital": "Gitega",
-            "poblacion": 13689450,
+            "population": 13689450,
             "area": 27835,
             "altitud-max": 2684,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Tanzania", "Rwanda", "DR Congo"],
-                "no-colindante": "Namibia"
+                "countries": ["Tanzania", "Rwanda", "DR Congo"],
+                "no-neighbour": "Namibia"
             },
-            "bandera": "https://flagcdn.com/192x144/bi.webp"
+            "flag": "https://flagcdn.com/192x144/bi.webp"
         },
         {
             "key": 115,
-            "pais": "Rwanda",
+            "country": "Rwanda",
             "capital": "Kigali",
-            "poblacion": 13954471,
+            "population": 13954471,
             "area": 26338,
             "altitud-max": 4519,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Tanzania", "Uganda", "DR Congo", "Burundi"],
-                "no-colindante": "Sudan"
+                "countries": ["Tanzania", "Uganda", "DR Congo", "Burundi"],
+                "no-neighbour": "Sudan"
             },
-            "bandera": "https://flagcdn.com/192x144/rw.webp"
+            "flag": "https://flagcdn.com/192x144/rw.webp"
         },
         {
             "key": 116,
-            "pais": "Uganda",
+            "country": "Uganda",
             "capital": "Kampala",
-            "poblacion": 48656601,
+            "population": 48656601,
             "area": 241551,
             "altitud-max": 5110,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Tanzania", "Rwanda", "South Sudan", "Kenya", "DR Congo"],
-                "no-colindante": "Djibouti"
+                "countries": ["Tanzania", "Rwanda", "South Sudan", "Kenya", "DR Congo"],
+                "no-neighbour": "Djibouti"
             },
-            "bandera": "https://flagcdn.com/192x144/ug.webp"
+            "flag": "https://flagcdn.com/192x144/ug.webp"
         },
         {
             "key": 117,
-            "pais": "Kenya",
+            "country": "Kenya",
             "capital": "Nairobi",
-            "poblacion": 55339003,
+            "population": 55339003,
             "area": 580370,
             "altitud-max": 5199,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Tanzania", "Uganda", "South Sudan", "Ethiopia", "Somalia"],
-                "no-colindante": "Zambia"
+                "countries": ["Tanzania", "Uganda", "South Sudan", "Ethiopia", "Somalia"],
+                "no-neighbour": "Zambia"
             },
-            "bandera": "https://flagcdn.com/192x144/ke.webp"
+            "flag": "https://flagcdn.com/192x144/ke.webp"
         },
         {
             "key": 118,
-            "pais": "Somalia",
+            "country": "Somalia",
             "capital": "Mogadishu",
-            "poblacion": 18358615,
+            "population": 18358615,
             "area": 637661,
             "altitud-max": 2450,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Kenya", "Ethiopia", "Eritrea"],
-                "no-colindante": "South Sudan"
+                "countries": ["Kenya", "Ethiopia", "Eritrea"],
+                "no-neighbour": "South Sudan"
             },
-            "bandera": "https://flagcdn.com/192x144/so.webp"
+            "flag": "https://flagcdn.com/192x144/so.webp"
         },
         {
             "key": 119,
-            "pais": "Djibouti",
+            "country": "Djibouti",
             "capital": "Djibouti",
-            "poblacion": 1152944,
+            "population": 1152944,
             "area": 23201,
             "altitud-max": 2028,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Somalia", "Ethiopia", "Eritrea"],
-                "no-colindante": "Egypt"
+                "countries": ["Somalia", "Ethiopia", "Eritrea"],
+                "no-neighbour": "Egypt"
             },
-            "bandera": "https://flagcdn.com/192x144/dj.webp"
+            "flag": "https://flagcdn.com/192x144/dj.webp"
         },
         {
             "key": 120,
-            "pais": "Eritrea",
+            "country": "Eritrea",
             "capital": "Asmara",
-            "poblacion": 3470390,
+            "population": 3470390,
             "area": 117602,
             "altitud-max": 3018,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Sudan", "Ethiopia", "Djibouti"],
-                "no-colindante": "Algeria"
+                "countries": ["Sudan", "Ethiopia", "Djibouti"],
+                "no-neighbour": "Algeria"
             },
-            "bandera": "https://flagcdn.com/192x144/er.webp"
+            "flag": "https://flagcdn.com/192x144/er.webp"
         },
         {
             "key": 121,
-            "pais": "Ethiopia",
+            "country": "Ethiopia",
             "capital": "Addis Ababa",
-            "poblacion": 128691692,
+            "population": 128691692,
             "area": 1104303,
             "altitud-max": 4550,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Sudan", "Kenya", "Somalia", "South Sudan", "Eritrea", "Djibouti"],
-                "no-colindante": "Libya"
+                "countries": ["Sudan", "Kenya", "Somalia", "South Sudan", "Eritrea", "Djibouti"],
+                "no-neighbour": "Libya"
             },
-            "bandera": "https://flagcdn.com/192x144/et.webp"
+            "flag": "https://flagcdn.com/192x144/et.webp"
         },
         {
             "key": 122,
-            "pais": "South Sudan",
+            "country": "South Sudan",
             "capital": "Juba",
-            "poblacion": 11483374,
+            "population": 11483374,
             "area": 644332,
             "altitud-max": 3187,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Sudan", "DR Congo", "Uganda", "Central African Republic", "Kenya", "Ethiopia"],
-                "no-colindante": "Tanzania"
+                "countries": ["Sudan", "DR Congo", "Uganda", "Central African Republic", "Kenya", "Ethiopia"],
+                "no-neighbour": "Tanzania"
             },
-            "bandera": "https://flagcdn.com/192x144/ss.webp"
+            "flag": "https://flagcdn.com/192x144/ss.webp"
         },
         {
             "key": 123,
-            "pais": "Sudan",
+            "country": "Sudan",
             "capital": "Khartoum",
-            "poblacion": 50042791,
+            "population": 50042791,
             "area": 1861493,
             "altitud-max": 3042,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Egypt", "Libya", "Chad", "Central African Republic", "South Sudan", "Ethiopia", "Eritrea"],
-                "no-colindante": "Cameroon"
+                "countries": ["Egypt", "Libya", "Chad", "Central African Republic", "South Sudan", "Ethiopia", "Eritrea"],
+                "no-neighbour": "Cameroon"
             },
-            "bandera": "https://flagcdn.com/192x144/sd.webp"
+            "flag": "https://flagcdn.com/192x144/sd.webp"
         },
         {
             "key": 124,
-            "pais": "Chad",
+            "country": "Chad",
             "capital": "N'Djamena",
-            "poblacion": 19319064,
+            "population": 19319064,
             "area": 1284005,
             "altitud-max": 3445,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Libya", "Sudan", "Niger", "Nigeria", "Cameroon", "Central African Republic"],
-                "no-colindante": "Morocco"
+                "countries": ["Libya", "Sudan", "Niger", "Nigeria", "Cameroon", "Central African Republic"],
+                "no-neighbour": "Morocco"
             },
-            "bandera": "https://flagcdn.com/192x144/td.webp"
+            "flag": "https://flagcdn.com/192x144/td.webp"
         },
         {
             "key": 125,
-            "pais": "Niger",
+            "country": "Niger",
             "capital": "Niamey",
-            "poblacion": 26159867,
+            "population": 26159867,
             "area": 1267005,
             "altitud-max": 2022,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Libya", "Algeria", "Mali", "Burkina Faso", "Benin", "Nigeria", "Chad"],
-                "no-colindante": "Mauritania"
+                "countries": ["Libya", "Algeria", "Mali", "Burkina Faso", "Benin", "Nigeria", "Chad"],
+                "no-neighbour": "Mauritania"
             },
-            "bandera": "https://flagcdn.com/192x144/ne.webp"
+            "flag": "https://flagcdn.com/192x144/ne.webp"
         },
         {
             "key": 126,
-            "pais": "Mali",
+            "country": "Mali",
             "capital": "Bamako",
-            "poblacion": 23769127,
+            "population": 23769127,
             "area": 1240198,
             "altitud-max": 1155,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Algeria", "Mauritania", "Senegal", "Guinea", "Ivory Coast", "Burkina Faso", "Niger"],
-                "no-colindante": "Morocco"
+                "countries": ["Algeria", "Mauritania", "Senegal", "Guinea", "Ivory Coast", "Burkina Faso", "Niger"],
+                "no-neighbour": "Morocco"
             },
-            "bandera": "https://flagcdn.com/192x144/ml.webp"
+            "flag": "https://flagcdn.com/192x144/ml.webp"
         },
         {
             "key": 127,
-            "pais": "Mauritania",
+            "country": "Mauritania",
             "capital": "Nouakchott",
-            "poblacion": 5022441,
+            "population": 5022441,
             "area": 1030703,
             "altitud-max": 915,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Morocco", "Algeria", "Mali", "Senegal"],
-                "no-colindante": "Tunisia"
+                "countries": ["Morocco", "Algeria", "Mali", "Senegal"],
+                "no-neighbour": "Tunisia"
             },
-            "bandera": "https://flagcdn.com/192x144/mr.webp"
+            "flag": "https://flagcdn.com/192x144/mr.webp"
         },
         {
             "key": 128,
-            "pais": "Cape Verde",
+            "country": "Cape Verde",
             "capital": "Praia",
-            "poblacion": 522331,
+            "population": 522331,
             "area": 4033,
             "altitud-max": 2829,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/cv.webp"
+            "flag": "https://flagcdn.com/192x144/cv.webp"
         },
         {
             "key": 129,
-            "pais": "Morocco",
+            "country": "Morocco",
             "capital": "Rabat",
-            "poblacion": 37022000,
+            "population": 37022000,
             "area": 446552,
             "altitud-max": 4167,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Algeria", "Mauritania", "Spain"],
-                "no-colindante": "Mali"
+                "countries": ["Algeria", "Mauritania", "Spain"],
+                "no-neighbour": "Mali"
             },
-            "bandera": "https://flagcdn.com/192x144/ma.webp"
+            "flag": "https://flagcdn.com/192x144/ma.webp"
         },
         {
             "key": 130,
-            "pais": "Algeria",
+            "country": "Algeria",
             "capital": "Algiers",
-            "poblacion": 46164219,
+            "population": 46164219,
             "area": 2381751,
             "altitud-max": 3003,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Tunisia", "Libya", "Morocco", "Mauritania", "Mali", "Niger"],
-                "no-colindante": "Senegal"
+                "countries": ["Tunisia", "Libya", "Morocco", "Mauritania", "Mali", "Niger"],
+                "no-neighbour": "Senegal"
             },
-            "bandera": "https://flagcdn.com/192x144/dz.webp"
+            "flag": "https://flagcdn.com/192x144/dz.webp"
         },
         {
             "key": 131,
-            "pais": "Tunisia",
+            "country": "Tunisia",
             "capital": "Tunis",
-            "poblacion": 12200431,
+            "population": 12200431,
             "area": 163610,
             "altitud-max": 1544,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Libya", "Algeria"],
-                "no-colindante": "Italy"
+                "countries": ["Libya", "Algeria"],
+                "no-neighbour": "Italy"
             },
-            "bandera": "https://flagcdn.com/192x144/tn.webp"
+            "flag": "https://flagcdn.com/192x144/tn.webp"
         },
         {
             "key": 132,
-            "pais": "Libya",
+            "country": "Libya",
             "capital": "Tripoli",
-            "poblacion": 7305659,
+            "population": 7305659,
             "area": 1759548,
             "altitud-max": 2267,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Egypt", "Sudan", "Tunisia", "Algeria", "Niger", "Chad"],
-                "no-colindante": "Liberia"
+                "countries": ["Egypt", "Sudan", "Tunisia", "Algeria", "Niger", "Chad"],
+                "no-neighbour": "Liberia"
             },
-            "bandera": "https://flagcdn.com/192x144/ly.webp"
+            "flag": "https://flagcdn.com/192x144/ly.webp"
         }
     ],
     "afri-asia": [
         {
             "key": 133,
-            "pais": "Egypt",
+            "country": "Egypt",
             "capital": "Cairo",
-            "poblacion": 105200000,
+            "population": 105200000,
             "area": 1002454,
             "altitud-max": 2629,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Libya", "Sudan", "Israel"],
-                "no-colindante": "Saudi Arabia"
+                "countries": ["Libya", "Sudan", "Israel"],
+                "no-neighbour": "Saudi Arabia"
             },
-            "bandera": "https://flagcdn.com/192x144/eg.webp"
+            "flag": "https://flagcdn.com/192x144/eg.webp"
         }
     ],
     "asia": [
         {
             "key": 134,
-            "pais": "Yemen",
+            "country": "Yemen",
             "capital": ["Sana'a", "Aden"],
-            "poblacion": 37583164,
+            "population": 37583164,
             "area": 527972,
             "altitud-max": 3666,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Saudi Arabia", "Oman"],
-                "no-colindante": "Iraq"
+                "countries": ["Saudi Arabia", "Oman"],
+                "no-neighbour": "Iraq"
             },
-            "bandera": "https://flagcdn.com/192x144/ye.webp"
+            "flag": "https://flagcdn.com/192x144/ye.webp"
         },
         {
             "key": 135,
-            "pais": "Oman",
+            "country": "Oman",
             "capital": "Muscat",
-            "poblacion": 5281538,
+            "population": 5281538,
             "area": 309500,
             "altitud-max": 2980,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Saudi Arabia", "Yemen", "United Arab Emirates"],
-                "no-colindante": "Jordan"
+                "countries": ["Saudi Arabia", "Yemen", "United Arab Emirates"],
+                "no-neighbour": "Jordan"
             },
-            "bandera": "https://flagcdn.com/192x144/om.webp"
+            "flag": "https://flagcdn.com/192x144/om.webp"
         },
         {
             "key": 136,
-            "pais": "United Arab Emirates",
+            "country": "United Arab Emirates",
             "capital": "Abu Dhabi",
-            "poblacion": 10827129,
+            "population": 10827129,
             "area": 83600,
             "altitud-max": 1910,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Saudi Arabia", "Oman"],
-                "no-colindante": "Yemen"
+                "countries": ["Saudi Arabia", "Oman"],
+                "no-neighbour": "Yemen"
             },
-            "bandera": "https://flagcdn.com/192x144/ae.webp"
+            "flag": "https://flagcdn.com/192x144/ae.webp"
         },
         {
             "key": 137,
-            "pais": "Qatar",
+            "country": "Qatar",
             "capital": "Doha",
-            "poblacion": 3048423,
+            "population": 3048423,
             "area": 11595,
             "altitud-max": 103,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Saudi Arabia"],
-                "no-colindante": "Iran"
+                "countries": ["Saudi Arabia"],
+                "no-neighbour": "Iran"
             },
-            "bandera": "https://flagcdn.com/192x144/qa.webp"
+            "flag": "https://flagcdn.com/192x144/qa.webp"
         },
         {
             "key": 138,
-            "pais": "Bahrain",
+            "country": "Bahrain",
             "capital": "Manama",
-            "poblacion": 1607049,
+            "population": 1607049,
             "area": 762,
             "altitud-max": 134,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/bh.webp"
+            "flag": "https://flagcdn.com/192x144/bh.webp"
         },
         {
             "key": 139,
-            "pais": "Saudi Arabia",
+            "country": "Saudi Arabia",
             "capital": "Riad",
-            "poblacion": 33962757,
+            "population": 33962757,
             "area": 2149700,
             "altitud-max": 3000,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Yemen", "Oman", "Qatar", "United Arab Emirates", "Kuwait", "Jordan", "Iraq"],
-                "no-colindante": "Syria"
+                "countries": ["Yemen", "Oman", "Qatar", "United Arab Emirates", "Kuwait", "Jordan", "Iraq"],
+                "no-neighbour": "Syria"
             },
-            "bandera": "https://flagcdn.com/192x144/sa.webp"
+            "flag": "https://flagcdn.com/192x144/sa.webp"
         },
         {
             "key": 140,
-            "pais": "Kuwait",
+            "country": "Kuwait",
             "capital": "Kuwait City",
-            "poblacion": 4834507,
+            "population": 4834507,
             "area": 17819,
             "altitud-max": 306,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Iraq", "Saudi Arabia"],
-                "no-colindante": "Iran"
+                "countries": ["Iraq", "Saudi Arabia"],
+                "no-neighbour": "Iran"
             },
-            "bandera": "https://flagcdn.com/192x144/kw.webp"
+            "flag": "https://flagcdn.com/192x144/kw.webp"
         },
         {
             "key": 141,
-            "pais": "Israel",
+            "country": "Israel",
             "capital": "Jerusalem",
-            "poblacion": 9587021,
+            "population": 9587021,
             "area": 21169,
             "altitud-max": 1208,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Lebanon", "Jordan", "Egypt", "Syria"],
-                "no-colindante": "Saudi Arabia"
+                "countries": ["Lebanon", "Jordan", "Egypt", "Syria"],
+                "no-neighbour": "Saudi Arabia"
             },
-            "bandera": "https://flagcdn.com/192x144/il.webp"
+            "flag": "https://flagcdn.com/192x144/il.webp"
         },
         {
             "key": 142,
-            "pais": "Jordan",
+            "country": "Jordan",
             "capital": "Amman",
-            "poblacion": 11502876,
+            "population": 11502876,
             "area": 89142,
             "altitud-max": 1854,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Iraq", "Saudi Arabia", "Syria", "Israel"],
-                "no-colindante": "Kuwait"
+                "countries": ["Iraq", "Saudi Arabia", "Syria", "Israel"],
+                "no-neighbour": "Kuwait"
             },
-            "bandera": "https://flagcdn.com/192x144/jo.webp"
+            "flag": "https://flagcdn.com/192x144/jo.webp"
         },
         {
             "key": 143,
-            "pais": "Lebanon",
+            "country": "Lebanon",
             "capital": "Beirut",
-            "poblacion": 5705962,
+            "population": 5705962,
             "area": 10339,
             "altitud-max": 3088,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Israel", "Syria"],
-                "no-colindante": "Turkey"
+                "countries": ["Israel", "Syria"],
+                "no-neighbour": "Turkey"
             },
-            "bandera": "https://flagcdn.com/192x144/lb.webp"
+            "flag": "https://flagcdn.com/192x144/lb.webp"
         },
         {
             "key": 144,
-            "pais": "Cyprus",
+            "country": "Cyprus",
             "capital": "Nicosia",
-            "poblacion": 1358282,
+            "population": 1358282,
             "area": 9247,
             "altitud-max": 1951,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""            },
-            "bandera": "https://flagcdn.com/192x144/cy.webp"
+                "countries": [],
+                "no-neighbour": ""            },
+            "flag": "https://flagcdn.com/192x144/cy.webp"
         },
         {
             "key": 145,
-            "pais": "Syria",
+            "country": "Syria",
             "capital": "Damasco",
-            "poblacion": 23672760,
+            "population": 23672760,
             "area": 184640,
             "altitud-max": 2814,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Iraq", "Israel", "Jordan", "Lebanon", "Turkey"],
-                "no-colindante": "Armenia"
+                "countries": ["Iraq", "Israel", "Jordan", "Lebanon", "Turkey"],
+                "no-neighbour": "Armenia"
             },
-            "bandera": "https://flagcdn.com/192x144/sy.webp"
+            "flag": "https://flagcdn.com/192x144/sy.webp"
         },
         {
             "key": 146,
-            "pais": "Iraq",
+            "country": "Iraq",
             "capital": "Baghdad",
-            "poblacion": 44042015,
+            "population": 44042015,
             "area": 426320,
             "altitud-max": 3611,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Syria", "Saudi Arabia", "Kuwait", "Iran", "Turkey", "Jordan"],
-                "no-colindante": "Qatar"
+                "countries": ["Syria", "Saudi Arabia", "Kuwait", "Iran", "Turkey", "Jordan"],
+                "no-neighbour": "Qatar"
             },
-            "bandera": "https://flagcdn.com/192x144/iq.webp"
+            "flag": "https://flagcdn.com/192x144/iq.webp"
         },
         {
             "key": 150,
-            "pais": "Armenia",
+            "country": "Armenia",
             "capital": "Yerevan",
-            "poblacion": 29170,
+            "population": 29170,
             "area": 17819,
             "altitud-max": 4090,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Turkey", "Georgia", "Iran", "Azerbaijan"],
-                "no-colindante": "Syria"
+                "countries": ["Turkey", "Georgia", "Iran", "Azerbaijan"],
+                "no-neighbour": "Syria"
             },
-            "bandera": "https://flagcdn.com/192x144/am.webp"
+            "flag": "https://flagcdn.com/192x144/am.webp"
         },
         {
             "key": 151,
-            "pais": "Iran",
+            "country": "Iran",
             "capital": "Tehran",
-            "poblacion": 89567738,
+            "population": 89567738,
             "area": 1638550,
             "altitud-max": 5610,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 7,
-                "paises": ["Armenia", "Azerbaijan", "Iraq", "Turkmenistan", "Afghanistan", "Pakistan", "Turkey"],
-                "no-colindante": "Oman"
+                "countries": ["Armenia", "Azerbaijan", "Iraq", "Turkmenistan", "Afghanistan", "Pakistan", "Turkey"],
+                "no-neighbour": "Oman"
             },
-            "bandera": "https://flagcdn.com/192x144/ir.webp"
+            "flag": "https://flagcdn.com/192x144/ir.webp"
         },
         {
             "key": 152,
-            "pais": "Turkmenistan",
+            "country": "Turkmenistan",
             "capital": "Ashgabat",
-            "poblacion": 6994498,
+            "population": 6994498,
             "area": 479930,
             "altitud-max": 3139,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Iran", "Uzbekistan", "Afghanistan", "Kazakhstan"],
-                "no-colindante": "China"
+                "countries": ["Iran", "Uzbekistan", "Afghanistan", "Kazakhstan"],
+                "no-neighbour": "China"
             },
-            "bandera": "https://flagcdn.com/192x144/tm.webp"
+            "flag": "https://flagcdn.com/192x144/tm.webp"
         },
         {
             "key": 153,
-            "pais": "Uzbekistan",
+            "country": "Uzbekistan",
             "capital": "Tashkent",
-            "poblacion": 36361859,
+            "population": 36361859,
             "area": 437400,
             "altitud-max": 4643,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Kazakhstan", "Turkmenistan", "Afghanistan", "Kyrgyzstan", "Tajikistan"],
-                "no-colindante": "India"
+                "countries": ["Kazakhstan", "Turkmenistan", "Afghanistan", "Kyrgyzstan", "Tajikistan"],
+                "no-neighbour": "India"
             },
-            "bandera": "https://flagcdn.com/192x144/uz.webp"
+            "flag": "https://flagcdn.com/192x144/uz.webp"
         },
         {
             "key": 155,
-            "pais": "Kyrgyzstan",
+            "country": "Kyrgyzstan",
             "capital": "Bishkek",
-            "poblacion": 7186009,
+            "population": 7186009,
             "area": 196951,
             "altitud-max": 7439,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Kazakhstan", "China", "Uzbekistan", "Tajikistan"],
-                "no-colindante": "Ukraine"
+                "countries": ["Kazakhstan", "China", "Uzbekistan", "Tajikistan"],
+                "no-neighbour": "Ukraine"
             },
-            "bandera": "https://flagcdn.com/192x144/kg.webp"
+            "flag": "https://flagcdn.com/192x144/kg.webp"
         },
         {
             "key": 156,
-            "pais": "Tajikistan",
+            "country": "Tajikistan",
             "capital": "Dushanbe",
-            "poblacion": 10090927,
+            "population": 10090927,
             "area": 141960,
             "altitud-max": 7495,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Uzbekistan", "China", "Kyrgyzstan", "Afghanistan"],
-                "no-colindante": "Nepal"
+                "countries": ["Uzbekistan", "China", "Kyrgyzstan", "Afghanistan"],
+                "no-neighbour": "Nepal"
             },
-            "bandera": "https://flagcdn.com/192x144/tj.webp"
+            "flag": "https://flagcdn.com/192x144/tj.webp"
         },
         {
             "key": 157,
-            "pais": "Afghanistan",
+            "country": "Afghanistan",
             "capital": "Kabul",
-            "poblacion": 41647492,
+            "population": 41647492,
             "area": 652630,
             "altitud-max": 7492,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["Iran", "Turkmenistan", "Uzbekistan", "Tajikistan", "Pakistan", "China"],
-                "no-colindante": "Sri Lanka"
+                "countries": ["Iran", "Turkmenistan", "Uzbekistan", "Tajikistan", "Pakistan", "China"],
+                "no-neighbour": "Sri Lanka"
             },
-            "bandera": "https://flagcdn.com/192x144/af.webp"
+            "flag": "https://flagcdn.com/192x144/af.webp"
         },
         {
             "key": 158,
-            "pais": "Pakistan",
+            "country": "Pakistan",
             "capital": "Islamabad",
-            "poblacion": 248269164,
+            "population": 248269164,
             "area": 884880,
             "altitud-max": 8610,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["India", "China", "Iran", "Afghanistan"],
-                "no-colindante": "Tajikistan"
+                "countries": ["India", "China", "Iran", "Afghanistan"],
+                "no-neighbour": "Tajikistan"
             },
-            "bandera": "https://flagcdn.com/192x144/pk.webp"
+            "flag": "https://flagcdn.com/192x144/pk.webp"
         },
         {
             "key": 159,
-            "pais": "India",
+            "country": "India",
             "capital": "New Delhi",
-            "poblacion": 1450935791,
+            "population": 1450935791,
             "area": 3187277,
             "altitud-max": 8585,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 6,
-                "paises": ["China", "Nepal", "Pakistan", "Bhutan", "Bangladesh", "Myanmar"],
-                "no-colindante": "Uzbekistan"
+                "countries": ["China", "Nepal", "Pakistan", "Bhutan", "Bangladesh", "Myanmar"],
+                "no-neighbour": "Uzbekistan"
             },
-            "bandera": "https://flagcdn.com/192x144/in.webp"
+            "flag": "https://flagcdn.com/192x144/in.webp"
         },
         {
             "key": 160,
-            "pais": "Sri Lanka",
+            "country": "Sri Lanka",
             "capital": ["Sri Jayawardenapura Kotte", "Colombo"],
-            "poblacion": 29103565,
+            "population": 29103565,
             "area": 64710,
             "altitud-max": 2524,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/lk.webp"
+            "flag": "https://flagcdn.com/192x144/lk.webp"
         },
         {
             "key": 161,
-            "pais": "Maldives",
+            "country": "Maldives",
             "capital": "Malé",
-            "poblacion": 524799,
+            "population": 524799,
             "area": 300,
             "altitud-max": 2,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/mv.webp"
+            "flag": "https://flagcdn.com/192x144/mv.webp"
         },
         {
             "key": 162,
-            "pais": "Nepal",
+            "country": "Nepal",
             "capital": "Kathmandu",
-            "poblacion": 29651054,
+            "population": 29651054,
             "area": 145350,
             "altitud-max": 8848,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["India", "China"],
-                "no-colindante": "Afghanistan"
+                "countries": ["India", "China"],
+                "no-neighbour": "Afghanistan"
             },
-            "bandera": "https://flagcdn.com/192x144/np.webp"
+            "flag": "https://flagcdn.com/192x144/np.webp"
         },
         {
             "key": 163,
-            "pais": "Bhutan",
+            "country": "Bhutan",
             "capital": "Thimphu",
-            "poblacion": 78562,
+            "population": 78562,
             "area": 38269,
             "altitud-max": 7570,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["India", "China"],
-                "no-colindante": "Vietnam"
+                "countries": ["India", "China"],
+                "no-neighbour": "Vietnam"
             },
-            "bandera": "https://flagcdn.com/192x144/bt.webp"
+            "flag": "https://flagcdn.com/192x144/bt.webp"
         },
         {
             "key": 164,
-            "pais": "Bangladesh",
+            "country": "Bangladesh",
             "capital": "Dhaka",
-            "poblacion": 172562364,
+            "population": 172562364,
             "area": 139570,
             "altitud-max": 1052,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["India", "Myanmar"],
-                "no-colindante": "Laos"
+                "countries": ["India", "Myanmar"],
+                "no-neighbour": "Laos"
             },
-            "bandera": "https://flagcdn.com/192x144/bd.webp"
+            "flag": "https://flagcdn.com/192x144/bd.webp"
         },
         {
             "key": 165,
-            "pais": "Myanmar",
+            "country": "Myanmar",
             "capital": "Naypyidaw",
-            "poblacion": 59500091,
+            "population": 59500091,
             "area": 665581,
             "altitud-max": 5881,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Bangladesh", "China", "India", "Thailand", "Laos"],
-                "no-colindante": "Indonesia"
+                "countries": ["Bangladesh", "China", "India", "Thailand", "Laos"],
+                "no-neighbour": "Indonesia"
             },
-            "bandera": "https://flagcdn.com/192x144/mm.webp"
+            "flag": "https://flagcdn.com/192x144/mm.webp"
         },
         {
             "key": 166,
-            "pais": "Thailand",
+            "country": "Thailand",
             "capital": "Bangkok",
-            "poblacion": 69668,
+            "population": 69668,
             "area": 512890,
             "altitud-max": 2565,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 4,
-                "paises": ["Myanmar", "Laos", "Cambodia", "Malaysia"],
-                "no-colindante": "Mongolia"
+                "countries": ["Myanmar", "Laos", "Cambodia", "Malaysia"],
+                "no-neighbour": "Mongolia"
             },
-            "bandera": "https://flagcdn.com/192x144/th.webp"
+            "flag": "https://flagcdn.com/192x144/th.webp"
         },
         {
             "key": 167,
-            "pais": "Malaysia",
+            "country": "Malaysia",
             "capital": ["Kuala Lampur", "Putrajaya"],
-            "poblacion": 35157673,
+            "population": 35157673,
             "area": 329550,
             "altitud-max": 4095,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Thailand", "Indonesia", "Brunei"],
-                "no-colindante": "Cambodia"
+                "countries": ["Thailand", "Indonesia", "Brunei"],
+                "no-neighbour": "Cambodia"
             },
-            "bandera": "https://flagcdn.com/192x144/my.webp"
+            "flag": "https://flagcdn.com/192x144/my.webp"
         },
         {
             "key": 168,
-            "pais": "Singapur",
+            "country": "Singapur",
             "capital": "Singapur",
-            "poblacion": 5732387,
+            "population": 5732387,
             "area": 710,
             "altitud-max": 164,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/sg.webp"
+            "flag": "https://flagcdn.com/192x144/sg.webp"
         },
         {
             "key": 170,
-            "pais": "Timor Oriental",
+            "country": "Timor Oriental",
             "capital": "Dili",
-            "poblacion": 1400638,
+            "population": 1400638,
             "area": 14970,
             "altitud-max": 2963,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Indonesia"],
-                "no-colindante": "Palau"
+                "countries": ["Indonesia"],
+                "no-neighbour": "Palau"
             },
-            "bandera": "https://flagcdn.com/192x144/tl.webp"
+            "flag": "https://flagcdn.com/192x144/tl.webp"
         },
         {
             "key": 171,
-            "pais": "Brunei",
+            "country": "Brunei",
             "capital": "Bandar Seri Begawan",
-            "poblacion": 465721,
+            "population": 465721,
             "area": 5570,
             "altitud-max": 1850,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Malaysia"],
-                "no-colindante": "Australia"
+                "countries": ["Malaysia"],
+                "no-neighbour": "Australia"
             },
-            "bandera": "https://flagcdn.com/192x144/bn.webp"
+            "flag": "https://flagcdn.com/192x144/bn.webp"
         },
         {
             "key": 172,
-            "pais": "Philippines",
+            "country": "Philippines",
             "capital": "Manila",
-            "poblacion": 113843760,
+            "population": 113843760,
             "area": 307180,
             "altitud-max": 2954,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/ph.webp"
+            "flag": "https://flagcdn.com/192x144/ph.webp"
         },
         {
             "key": 173,
-            "pais": "Vietnam",
+            "country": "Vietnam",
             "capital": "Hanoi",
-            "poblacion": 100987686,
+            "population": 100987686,
             "area": 325070,
             "altitud-max": 3143,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Cambodia", "China", "Laos"],
-                "no-colindante": "Malaysia"
+                "countries": ["Cambodia", "China", "Laos"],
+                "no-neighbour": "Malaysia"
             },
-            "bandera": "https://flagcdn.com/192x144/vn.webp"
+            "flag": "https://flagcdn.com/192x144/vn.webp"
         },
         {
             "key": 174,
-            "pais": "Cambodia",
+            "country": "Cambodia",
             "capital": "Phnom Penh",
-            "poblacion": 16638801,
+            "population": 16638801,
             "area": 179520,
             "altitud-max": 1810,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Laos", "Thailand", "Vietnam"],
-                "no-colindante": "South Korea"
+                "countries": ["Laos", "Thailand", "Vietnam"],
+                "no-neighbour": "South Korea"
             },
-            "bandera": "https://flagcdn.com/192x144/kh.webp"
+            "flag": "https://flagcdn.com/192x144/kh.webp"
         },
         {
             "key": 175,
-            "pais": "Laos",
+            "country": "Laos",
             "capital": "Vientiane",
-            "poblacion": 7769819,
+            "population": 7769819,
             "area": 233800,
             "altitud-max": 2817,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 5,
-                "paises": ["Thailand", "China", "Cambodia", "Vietnam", "Myanmar"],
-                "no-colindante": "Bangladesh"
+                "countries": ["Thailand", "China", "Cambodia", "Vietnam", "Myanmar"],
+                "no-neighbour": "Bangladesh"
             },
-            "bandera": "https://flagcdn.com/192x144/la.webp"
+            "flag": "https://flagcdn.com/192x144/la.webp"
         },
         {
             "key": 176,
-            "pais": "China",
+            "country": "China",
             "capital": "Beijing",
-            "poblacion": 1419321278,
+            "population": 1419321278,
             "area": 9497211,
             "altitud-max": 8848,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 14,
-                "paises": ["Russia", "Mongolia", "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Pakistan", "Nepal", "India", "Bhutan", "Myanmar", "Vietnam", "Laos", "North Korea"],
-                "no-colindante": "Philippines"
+                "countries": ["Russia", "Mongolia", "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Pakistan", "Nepal", "India", "Bhutan", "Myanmar", "Vietnam", "Laos", "North Korea"],
+                "no-neighbour": "Philippines"
             },
-            "bandera": "https://flagcdn.com/192x144/cn.webp"
+            "flag": "https://flagcdn.com/192x144/cn.webp"
         },
         {
             "key": 177,
-            "pais": "Mongolia",
+            "country": "Mongolia",
             "capital": "Ulaanbaatar",
-            "poblacion": 3575540,
+            "population": 3575540,
             "area": 1558560,
             "altitud-max": 4374,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 2,
-                "paises": ["Russia", "China"],
-                "no-colindante": "Turkmenistan"
+                "countries": ["Russia", "China"],
+                "no-neighbour": "Turkmenistan"
             },
-            "bandera": "https://flagcdn.com/192x144/mn.webp"
+            "flag": "https://flagcdn.com/192x144/mn.webp"
         },
         {
             "key": 178,
-            "pais": "North Korea",
+            "country": "North Korea",
             "capital": "Pyongyang",
-            "poblacion": 26498823,
+            "population": 26498823,
             "area": 120497,
             "altitud-max": 2744,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Russia", "China", "South Korea"],
-                "no-colindante": "Bhutan"
+                "countries": ["Russia", "China", "South Korea"],
+                "no-neighbour": "Bhutan"
             },
-            "bandera": "https://flagcdn.com/192x144/kp.webp"
+            "flag": "https://flagcdn.com/192x144/kp.webp"
         },
         {
             "key": 179,
-            "pais": "South Korea",
+            "country": "South Korea",
             "capital": "Seoul",
-            "poblacion": 51717590,
+            "population": 51717590,
             "area": 99230,
             "altitud-max": 1950,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["China"],
-                "no-colindante": "Timor-Leste"
+                "countries": ["China"],
+                "no-neighbour": "Timor-Leste"
             },
-            "bandera": "https://flagcdn.com/192x144/kr.webp"
+            "flag": "https://flagcdn.com/192x144/kr.webp"
         },
         {
             "key": 180,
-            "pais": "Japan",
+            "country": "Japan",
             "capital": "Tokyo",
-            "poblacion": 123753041,
+            "population": 123753041,
             "area": 371933,
             "altitud-max": 3776,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/jp.webp"
+            "flag": "https://flagcdn.com/192x144/jp.webp"
         }
     ],
     "ocean-asia": [
         {
             "key": 169,
-            "pais": "Indonesia",
+            "country": "Indonesia",
             "capital": "Jakarta",
-            "poblacion": 281487931,
+            "population": 281487931,
             "area": 1867570,
             "altitud-max": 4884,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 3,
-                "paises": ["Timor-Leste", "Malaysia", "Papua New Guinea"],
-                "no-colindante": "Thailand"
+                "countries": ["Timor-Leste", "Malaysia", "Papua New Guinea"],
+                "no-neighbour": "Thailand"
             },
-            "bandera": "https://flagcdn.com/192x144/id.webp"
+            "flag": "https://flagcdn.com/192x144/id.webp"
         }
     ],
     "oceania": [
         {
             "key": 181,
-            "pais": "Palau",
+            "country": "Palau",
             "capital": "Ngerulmud",
-            "poblacion": 17695,
+            "population": 17695,
             "area": 460,
             "altitud-max": 242,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/pw.webp"
+            "flag": "https://flagcdn.com/192x144/pw.webp"
         },
         {
             "key": 182,
-            "pais": "Federated States of Micronesia",
+            "country": "Federated States of Micronesia",
             "capital": "Palikir",
-            "poblacion": 426923,
+            "population": 426923,
             "area": 702,
             "altitud-max": 791,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/fm.webp"
+            "flag": "https://flagcdn.com/192x144/fm.webp"
         },
         {
             "key": 183,
-            "pais": "Marshall Islands",
+            "country": "Marshall Islands",
             "capital": "Majuro",
-            "poblacion": 38554,
+            "population": 38554,
             "area": 180,
             "altitud-max": 10,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/mh.webp"
+            "flag": "https://flagcdn.com/192x144/mh.webp"
         },
         {
             "key": 184,
-            "pais": "Nauru",
+            "country": "Nauru",
             "capital": "Yaren",
-            "poblacion": 11947,
+            "population": 11947,
             "area": 21,
             "altitud-max": 71,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/nr.webp"
+            "flag": "https://flagcdn.com/192x144/nr.webp"
         },
         {
             "key": 185,
-            "pais": "Kiribati",
+            "country": "Kiribati",
             "capital": "Tarawa",
-            "poblacion": 129518,
+            "population": 129518,
             "area": 811,
             "altitud-max": 81,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/ki.webp"
+            "flag": "https://flagcdn.com/192x144/ki.webp"
         },
         {
             "key": 186,
-            "pais": "Samoa",
+            "country": "Samoa",
             "capital": "Apia",
-            "poblacion": 214859,
+            "population": 214859,
             "area": 2839,
             "altitud-max": 1857,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/ws.webp"
+            "flag": "https://flagcdn.com/192x144/ws.webp"
         },
         {
             "key": 187,
-            "pais": "Tuvalu",
+            "country": "Tuvalu",
             "capital": "Funafuti",
-            "poblacion": 9646,
+            "population": 9646,
             "area": 28,
             "altitud-max": 5,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/tv.webp"
+            "flag": "https://flagcdn.com/192x144/tv.webp"
         },
         {
             "key": 188,
-            "pais": "Tonga",
+            "country": "Tonga",
             "capital": "Nuku'alofa",
-            "poblacion": 104175,
+            "population": 104175,
             "area": 734,
             "altitud-max": 1033,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/to.webp"
+            "flag": "https://flagcdn.com/192x144/to.webp"
         },
         {
             "key": 189,
-            "pais": "Fiji",
+            "country": "Fiji",
             "capital": "Suva",
-            "poblacion": 928734,
+            "population": 928734,
             "area": 18272,
             "altitud-max": 1324,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/fj.webp"
+            "flag": "https://flagcdn.com/192x144/fj.webp"
         },
         {
             "key": 190,
-            "pais": "Vanuatu",
+            "country": "Vanuatu",
             "capital": "Port Vila",
-            "poblacion": 321777,
+            "population": 321777,
             "area": 12190,
             "altitud-max": 1879,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/vu.webp"
+            "flag": "https://flagcdn.com/192x144/vu.webp"
         },
         {
             "key": 191,
-            "pais": "Solomon Islands",
+            "country": "Solomon Islands",
             "capital": "Honiara",
-            "poblacion": 798198,
+            "population": 798198,
             "area": 28269,
             "altitud-max": 2335,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/sb.webp"
+            "flag": "https://flagcdn.com/192x144/sb.webp"
         },
         {
             "key": 192,
-            "pais": "Papua New Guinea",
+            "country": "Papua New Guinea",
             "capital": "Port Moresby",
-            "poblacion": 10576502,
+            "population": 10576502,
             "area": 458841,
             "altitud-max": 4509,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 1,
-                "paises": ["Indonesia"],
-                "no-colindante": "New Zealand"
+                "countries": ["Indonesia"],
+                "no-neighbour": "New Zealand"
             },
-            "bandera": "https://flagcdn.com/192x144/pg.webp"
+            "flag": "https://flagcdn.com/192x144/pg.webp"
         },
         {
             "key": 193,
-            "pais": "Australia",
+            "country": "Australia",
             "capital": "Canberra",
-            "poblacion": 26713205,
+            "population": 26713205,
             "area": 7689254,
             "altitud-max": 2745,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/au.webp"
+            "flag": "https://flagcdn.com/192x144/au.webp"
         },
         {
             "key": 194,
-            "pais": "New Zealand",
+            "country": "New Zealand",
             "capital": "Wellington",
-            "poblacion": 5213944,
+            "population": 5213944,
             "area": 267469,
             "altitud-max": 3754,
-            "paises-colindantes": {
+            "neighbour-countries": {
                 "num": 0,
-                "paises": [],
-                "no-colindante": ""
+                "countries": [],
+                "no-neighbour": ""
             },
-            "bandera": "https://flagcdn.com/192x144/nz.webp"
+            "flag": "https://flagcdn.com/192x144/nz.webp"
         }
     ]
 }
