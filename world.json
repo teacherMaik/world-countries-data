@@ -12,7 +12,7 @@
                 "countries": ["Italy", "Hungary", "Austria", "Croatia"],
                 "no-neighbour": "Switzerland"
             },
-            "flag": "https://flagcdn.com/192x144/si.webp"
+            "flag": "https://flagcdn.com/128x96/si.webp"
         },
         {
             "key": 2,
@@ -26,7 +26,7 @@
                 "countries": ["Bosnia & Herzegovina", "Hungary", "Slovenia", "Serbia", "Montenegro"],
                 "no-neighbour": "Czech Republic"
             },
-            "flag": "https://flagcdn.com/192x144/hr.webp"
+            "flag": "https://flagcdn.com/128x96/hr.webp"
         },
         {
             "key": 3,
@@ -40,7 +40,7 @@
                 "countries": ["Croatia", "Serbia", "Montenegro"],
                 "no-neighbour": "Hungary"
             },
-            "flag": "https://flagcdn.com/192x144/ba.webp"
+            "flag": "https://flagcdn.com/128x96/ba.webp"
         },
         {
             "key": 4,
@@ -54,7 +54,7 @@
                 "countries": ["Croatia", "Serbia", "Bosnia & Herzegovina", "Albania"],
                 "no-neighbour": "Greece"
             },
-            "flag": "https://flagcdn.com/192x144/me.webp"
+            "flag": "https://flagcdn.com/128x96/me.webp"
         },
         {
             "key": 5,
@@ -68,7 +68,7 @@
                 "countries": ["Montenegro", "Greece", "North Macedonia"],
                 "no-neighbour": "Bosnia & Herzegovina"
             },
-            "flag": "https://flagcdn.com/192x144/al.webp"
+            "flag": "https://flagcdn.com/128x96/al.webp"
         },
         {
             "key": 6,
@@ -82,7 +82,7 @@
                 "countries": ["Serbia", "Greece", "Albania", "Bulgaria"],
                 "no-neighbour": "Hungary"
             },
-            "flag": "https://flagcdn.com/192x144/mk.webp"
+            "flag": "https://flagcdn.com/128x96/mk.webp"
         },
         {
             "key": 7,
@@ -96,7 +96,7 @@
                 "countries": ["Hungary", "Bulgaria", "Romania", "Croatia", "Bosnia & Herzegovina", "Montenegro", "North Macedonia", "Albania"],
                 "no-neighbour": "Austria"
             },
-            "flag": "https://flagcdn.com/192x144/rs.webp"
+            "flag": "https://flagcdn.com/128x96/rs.webp"
         },
         {
             "key": 8,
@@ -110,7 +110,7 @@
                 "countries": ["Romania", "Greece", "Turkey", "Serbia", "North Macedonia"],
                 "no-neighbour": "Hungary"
             },
-            "flag": "https://flagcdn.com/192x144/bg.webp"
+            "flag": "https://flagcdn.com/128x96/bg.webp"
         },
         {
             "key": 9,
@@ -124,7 +124,7 @@
                 "countries": ["Bulgaria", "Albania", "Turkey", "North Macedonia"],
                 "no-neighbour": "Romania"
             },
-            "flag": "https://flagcdn.com/192x144/gr.webp"
+            "flag": "https://flagcdn.com/128x96/gr.webp"
         },
         {
             "key": 10,
@@ -138,7 +138,7 @@
                 "countries": ["Bulgaria", "Serbia", "Hungary", "Moldova", "Ukraine"],
                 "no-neighbour": "Turkey"
             },
-            "flag": "https://flagcdn.com/192x144/ro.webp"
+            "flag": "https://flagcdn.com/128x96/ro.webp"
         },
         {
             "key": 11,
@@ -152,7 +152,7 @@
                 "countries": ["Slovakia", "Serbia", "Romania", "Croatia", "Ukraine", "Slovenia", "Austria"],
                 "no-neighbour": "Moldova"
             },
-            "flag": "https://flagcdn.com/192x144/hu.webp"
+            "flag": "https://flagcdn.com/128x96/hu.webp"
         },
         {
             "key": 12,
@@ -166,7 +166,7 @@
                 "countries": ["Poland", "Hungary", "Czech Republic", "Ukraine", "Austria"],
                 "no-neighbour": "Slovenia"
             },
-            "flag": "https://flagcdn.com/192x144/sk.webp"
+            "flag": "https://flagcdn.com/128x96/sk.webp"
         },
         {
             "key": 13,
@@ -180,7 +180,7 @@
                 "countries": ["Poland", "Germany", "Slovakia", "Austria"],
                 "no-neighbour": "Croatia"
             },
-            "flag": "https://flagcdn.com/192x144/cz.webp"
+            "flag": "https://flagcdn.com/128x96/cz.webp"
         },
         {
             "key": 14,
@@ -194,7 +194,7 @@
                 "countries": ["Czech Republic", "Germany", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
                 "no-neighbour": "France"
             },
-            "flag": "https://flagcdn.com/192x144/at.webp"
+            "flag": "https://flagcdn.com/128x96/at.webp"
         },
         {
             "key": 15,
@@ -208,7 +208,7 @@
                 "countries": ["Switzerland", "Austria"],
                 "no-neighbour": "Italy"
             },
-            "flag": "https://flagcdn.com/192x144/li.webp"
+            "flag": "https://flagcdn.com/128x96/li.webp"
         },
         {
             "key": 16,
@@ -222,7 +222,7 @@
                 "countries": ["Germany", "Austria", "France", "Liechtenstein", "Italy"],
                 "no-neighbour": "Poland"
             },
-            "flag": "https://flagcdn.com/192x144/ch.webp"
+            "flag": "https://flagcdn.com/128x96/ch.webp"
         },
         {
             "key": 17,
@@ -236,7 +236,7 @@
                 "countries": ["Switzerland", "Austria", "France", "Slovenia", "San Marino", "Vatican"],
                 "no-neighbour": "Croatia"
             },
-            "flag": "https://flagcdn.com/192x144/it.webp"
+            "flag": "https://flagcdn.com/128x96/it.webp"
         },
         {
             "key": 18,
@@ -250,7 +250,7 @@
                 "countries": ["Italy"],
                 "no-neighbour": "Monaco"
             },
-            "flag": "https://flagcdn.com/192x144/sm.webp"
+            "flag": "https://flagcdn.com/128x96/sm.webp"
         },
         {
             "key": 19,
@@ -264,7 +264,7 @@
                 "countries": ["Italy"],
                 "no-neighbour": "San Marino"
             },
-            "flag": "https://flagcdn.com/192x144/va.webp"
+            "flag": "https://flagcdn.com/128x96/va.webp"
         },
         {
             "key": 20,
@@ -278,7 +278,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/mt.webp"
+            "flag": "https://flagcdn.com/128x96/mt.webp"
         },
         {
             "key": 21,
@@ -292,7 +292,7 @@
                 "countries": ["France"],
                 "no-neighbour": "Spain"
             },
-            "flag": "https://flagcdn.com/192x144/mc.webp"
+            "flag": "https://flagcdn.com/128x96/mc.webp"
         },
         {
             "key": 22,
@@ -306,7 +306,7 @@
                 "countries": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
                 "no-neighbour": "Spain"
             },
-            "flag": "https://flagcdn.com/192x144/fr.webp"
+            "flag": "https://flagcdn.com/128x96/fr.webp"
         },
         {
             "key": 23,
@@ -320,7 +320,7 @@
                 "countries": ["Spain", "France"],
                 "no-neighbour": "Switzerland"
             },
-            "flag": "https://flagcdn.com/192x144/ad.webp"
+            "flag": "https://flagcdn.com/128x96/ad.webp"
         },
         {
             "key": 24,
@@ -334,7 +334,7 @@
                 "countries": ["Portugal", "France", "Andorra", "Morocco", "United Kingdom"],
                 "no-neighbour": "Algeria"
             },
-            "flag": "https://flagcdn.com/192x144/es.webp"
+            "flag": "https://flagcdn.com/128x96/es.webp"
         },
         {
             "key": 25,
@@ -348,7 +348,7 @@
                 "countries": ["Spain"],
                 "no-neighbour": "France"
             },
-            "flag": "https://flagcdn.com/192x144/pt.webp"
+            "flag": "https://flagcdn.com/128x96/pt.webp"
         },
         {
             "key": 26,
@@ -362,7 +362,7 @@
                 "countries": ["United Kingdom"],
                 "no-neighbour": "Scotland"
             },
-            "flag": "https://flagcdn.com/192x144/ie.webp"
+            "flag": "https://flagcdn.com/128x96/ie.webp"
         },
         {
             "key": 27,
@@ -376,7 +376,7 @@
                 "countries": ["Spain", "Ireland"],
                 "no-neighbour": "France"
             },
-            "flag": "https://flagcdn.com/192x144/gb.webp"
+            "flag": "https://flagcdn.com/128x96/gb.webp"
         },
         {
             "key": 28,
@@ -390,7 +390,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/is.webp"
+            "flag": "https://flagcdn.com/128x96/is.webp"
         },
         {
             "key": 29,
@@ -404,7 +404,7 @@
                 "countries": ["France", "Germany", "Netherlands", "Luxembourg"],
                 "no-neighbour": "Estonia"
             },
-            "flag": "https://flagcdn.com/192x144/be.webp"
+            "flag": "https://flagcdn.com/128x96/be.webp"
         },
         {
             "key": 30,
@@ -418,7 +418,7 @@
                 "countries": ["France", "Belgium", "Germany"],
                 "no-neighbour": "Netherlands"
             },
-            "flag": "https://flagcdn.com/192x144/lu.webp"
+            "flag": "https://flagcdn.com/128x96/lu.webp"
         },
         {
             "key": 31,
@@ -432,7 +432,7 @@
                 "countries": ["Belgium", "Germany"],
                 "no-neighbour": "Norway"
             },
-            "flag": "https://flagcdn.com/192x144/nl.webp"
+            "flag": "https://flagcdn.com/128x96/nl.webp"
         },
         {
             "key": 32,
@@ -446,7 +446,7 @@
                 "countries": ["Netherlands", "Belgium", "France", "Switzerland", "Austria", "Luxembourg", "Denmark", "Poland", "Czech Republic" ],
                 "no-neighbour": "Serbia"
             },
-            "flag": "https://flagcdn.com/192x144/de.webp"
+            "flag": "https://flagcdn.com/128x96/de.webp"
         },
         {
             "key": 33,
@@ -460,7 +460,7 @@
                 "countries": ["Germany"],
                 "no-neighbour": "Finland"
             },
-            "flag": "https://flagcdn.com/192x144/dk.webp"
+            "flag": "https://flagcdn.com/128x96/dk.webp"
         },
         {
             "key": 34,
@@ -474,7 +474,7 @@
                 "countries": ["Russia", "Lithuania", "Belarus", "Ukraine", "Czech Republic", "Germany", "Slovakia"],
                 "no-neighbour": "Denmark"
             },
-            "flag": "https://flagcdn.com/192x144/pl.webp"
+            "flag": "https://flagcdn.com/128x96/pl.webp"
         },
         {
             "key": 35,
@@ -488,7 +488,7 @@
                 "countries": ["Norway", "Finland"],
                 "no-neighbour": "Russia"
             },
-            "flag": "https://flagcdn.com/192x144/se.webp"
+            "flag": "https://flagcdn.com/128x96/se.webp"
         },
         {
             "key": 36,
@@ -502,7 +502,7 @@
                 "countries": ["Sweden", "Finland", "Russia"],
                 "no-neighbour": "Germany"
             },
-            "flag": "https://flagcdn.com/192x144/no.webp"
+            "flag": "https://flagcdn.com/128x96/no.webp"
         },
         {
             "key": 37,
@@ -516,7 +516,7 @@
                 "countries": ["Sweden", "Norway", "Russia"],
                 "no-neighbour": "Lithuania"
             },
-            "flag": "https://flagcdn.com/192x144/fi.webp"
+            "flag": "https://flagcdn.com/128x96/fi.webp"
         },
         {
             "key": 38,
@@ -530,7 +530,7 @@
                 "countries": ["Latvia", "Russia"],
                 "no-neighbour": "Ukraine"
             },
-            "flag": "https://flagcdn.com/192x144/ee.webp"
+            "flag": "https://flagcdn.com/128x96/ee.webp"
         },
         {
             "key": 39,
@@ -544,7 +544,7 @@
                 "countries": ["Estonia", "Russia", "Lithuania", "Belarus"],
                 "no-neighbour": "Slovakia"
             },
-            "flag": "https://flagcdn.com/192x144/lv.webp"
+            "flag": "https://flagcdn.com/128x96/lv.webp"
         },
         {
             "key": 40,
@@ -558,7 +558,7 @@
                 "countries": ["Latvia", "Belarus", "Russia", "Poland"],
                 "no-neighbour": "Bulgaria"
             },
-            "flag": "https://flagcdn.com/192x144/lt.webp"
+            "flag": "https://flagcdn.com/128x96/lt.webp"
         },
         {
             "key": 41,
@@ -572,7 +572,7 @@
                 "countries": ["Lithuania", "Latvia", "Russia", "Ukraine", "Poland"],
                 "no-neighbour": "Albania"
             },
-            "flag": "https://flagcdn.com/192x144/by.webp"
+            "flag": "https://flagcdn.com/128x96/by.webp"
         },
         {
             "key": 42,
@@ -586,7 +586,7 @@
                 "countries": ["Russia", "Belarus", "Poland", "Slovakia", "Romania", "Hungary", "Moldova"],
                 "no-neighbour": "Montenegro"
             },
-            "flag": "https://flagcdn.com/192x144/ua.webp"
+            "flag": "https://flagcdn.com/128x96/ua.webp"
         },
         {
             "key": 43,
@@ -600,7 +600,7 @@
                 "countries": ["Ukraine", "Romania"],
                 "no-neighbour": "Latvia"
             },
-            "flag": "https://flagcdn.com/192x144/md.webp"
+            "flag": "https://flagcdn.com/128x96/md.webp"
         }
     ],
     "eur-asia": [
@@ -616,7 +616,7 @@
                 "countries": ["Norway", "Finland", "Estonia", "Lithuania", "Latvia", "Poland", "Belarus", "Ukraine", "Georgia", "Azerbaijan", "Kazakhstan", "China", "Mongolia", "North Korea"],
                 "no-neighbour": "Japan"
             },
-            "flag": "https://flagcdn.com/192x144/ru.webp"
+            "flag": "https://flagcdn.com/128x96/ru.webp"
         },
         {
             "key": 147,
@@ -630,7 +630,7 @@
                 "countries": ["Iraq", "Syria", "Greece", "Bulgaria", "Georgia", "Armenia", "Iran", "Azerbaijan"],
                 "no-neighbour": "Cyprus"
             },
-            "flag": "https://flagcdn.com/192x144/tr.webp"
+            "flag": "https://flagcdn.com/128x96/tr.webp"
         },
         {
             "key": 148,
@@ -644,7 +644,7 @@
                 "countries": ["Russia", "Turkey", "Azerbaijan", "Armenia"],
                 "no-neighbour": "Iraq"
             },
-            "flag": "https://flagcdn.com/192x144/ge.webp"
+            "flag": "https://flagcdn.com/128x96/ge.webp"
         },
         {
             "key": 149,
@@ -658,7 +658,7 @@
                 "countries": ["Russia", "Georgia", "Armenia", "Turkey", "Iran"],
                 "no-neighbour": "Kazakhstan"
             },
-            "flag": "https://flagcdn.com/192x144/az.webp"
+            "flag": "https://flagcdn.com/128x96/az.webp"
         },
         {
             "key": 154,
@@ -672,7 +672,7 @@
                 "countries": ["Russia", "Turkmenistan", "Uzbekistan", "China", "Kyrgyzstan"],
                 "no-neighbour": "Georgia"
             },
-            "flag": "https://flagcdn.com/192x144/kz.webp"
+            "flag": "https://flagcdn.com/128x96/kz.webp"
         }
     ],
     "north-america": [
@@ -688,7 +688,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/gd.webp"
+            "flag": "https://flagcdn.com/128x96/gd.webp"
         },
         {
             "key": 47,
@@ -702,7 +702,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/vc.webp"
+            "flag": "https://flagcdn.com/128x96/vc.webp"
         },
         {
             "key": 48,
@@ -716,7 +716,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/bb.webp"
+            "flag": "https://flagcdn.com/128x96/bb.webp"
         },
         {
             "key": 49,
@@ -730,7 +730,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/lc.webp"
+            "flag": "https://flagcdn.com/128x96/lc.webp"
         },
         {
             "key": 50,
@@ -744,7 +744,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/dm.webp"
+            "flag": "https://flagcdn.com/128x96/dm.webp"
         },
         {
             "key": 51,
@@ -758,7 +758,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/ag.webp"
+            "flag": "https://flagcdn.com/128x96/ag.webp"
         },
         {
             "key": 52,
@@ -772,7 +772,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/kn.webp"
+            "flag": "https://flagcdn.com/128x96/kn.webp"
         },
         {
             "key": 53,
@@ -786,7 +786,7 @@
                 "countries": ["Haiti"],
                 "no-neighbour": "Cuba"
             },
-            "flag": "https://flagcdn.com/192x144/do.webp"
+            "flag": "https://flagcdn.com/128x96/do.webp"
         },
         {
             "key": 54,
@@ -800,7 +800,7 @@
                 "countries": ["Dominican Republic"],
                 "no-neighbour": "Trinidad & Tobago"
             },
-            "flag": "https://flagcdn.com/192x144/ht.webp"
+            "flag": "https://flagcdn.com/128x96/ht.webp"
         },
         {
             "key": 55,
@@ -814,7 +814,7 @@
                 "countries": "",
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/cu.webp"
+            "flag": "https://flagcdn.com/128x96/cu.webp"
         },
         {
             "key": 56,
@@ -828,7 +828,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/jm.webp"
+            "flag": "https://flagcdn.com/128x96/jm.webp"
         },
         {
             "key": 57,
@@ -842,7 +842,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/bs.webp"
+            "flag": "https://flagcdn.com/128x96/bs.webp"
         },
         {
             "key": 58,
@@ -856,7 +856,7 @@
                 "countries": ["United States"],
                 "no-neighbour": "Iceland"
             },
-            "flag": "https://flagcdn.com/192x144/ca.webp"
+            "flag": "https://flagcdn.com/128x96/ca.webp"
         },
         {
             "key": 59,
@@ -870,7 +870,7 @@
                 "countries": ["Canada", "Mexico"],
                 "no-neighbour": "The Bahamas"
             },
-            "flag": "https://flagcdn.com/192x144/us.webp"
+            "flag": "https://flagcdn.com/128x96/us.webp"
         },
         {
             "key": 60,
@@ -884,7 +884,7 @@
                 "countries": ["United States", "Belize", "Guatemala"],
                 "no-neighbour": "Costa Rica"
             },
-            "flag": "https://flagcdn.com/192x144/mx.webp"
+            "flag": "https://flagcdn.com/128x96/mx.webp"
         },
         {
             "key": 61,
@@ -898,7 +898,7 @@
                 "countries": ["Mexico", "Belize", "El Salvador", "Honduras"],
                 "no-neighbour": "Panama"
             },
-            "flag": "https://flagcdn.com/192x144/gt.webp"
+            "flag": "https://flagcdn.com/128x96/gt.webp"
         },
         {
             "key": 62,
@@ -912,7 +912,7 @@
                 "countries": ["Mexico", "Guatemala"],
                 "no-neighbour": "Honduras"
             },
-            "flag": "https://flagcdn.com/192x144/bz.webp"
+            "flag": "https://flagcdn.com/128x96/bz.webp"
         },
         {
             "key": 63,
@@ -926,7 +926,7 @@
                 "countries": ["Guatemala", "Honduras"],
                 "no-neighbour": "Nicaragua"
             },
-            "flag": "https://flagcdn.com/192x144/sv.webp"
+            "flag": "https://flagcdn.com/128x96/sv.webp"
         },
         {
             "key": 64,
@@ -940,7 +940,7 @@
                 "countries": ["Guatemala", "El Salvador", "Nicaragua"],
                 "no-neighbour": "Belize"
             },
-            "flag": "https://flagcdn.com/192x144/hn.webp"
+            "flag": "https://flagcdn.com/128x96/hn.webp"
         },
         {
             "key": 65,
@@ -954,7 +954,7 @@
                 "countries": ["Honduras", "Costa Rica"],
                 "no-neighbour": "Guatemala"
             },
-            "flag": "https://flagcdn.com/192x144/ni.webp"
+            "flag": "https://flagcdn.com/128x96/ni.webp"
         },
         {
             "key": 66,
@@ -968,7 +968,7 @@
                 "countries": ["Nicaragua", "Panama"],
                 "no-neighbour": "Colombia"
             },
-            "flag": "https://flagcdn.com/192x144/cr.webp"
+            "flag": "https://flagcdn.com/128x96/cr.webp"
         },
         {
             "key": 67,
@@ -982,7 +982,7 @@
                 "countries": ["Costa Rica", "Colombia"],
                 "no-neighbour": "Ecuador"
             },
-            "flag": "https://flagcdn.com/192x144/pa.webp"
+            "flag": "https://flagcdn.com/128x96/pa.webp"
         }
     ],
     "south-america": [
@@ -998,7 +998,7 @@
                 "countries":[],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/tt.webp"
+            "flag": "https://flagcdn.com/128x96/tt.webp"
         },
         {
             "key": 68,
@@ -1012,7 +1012,7 @@
                 "countries": ["Panama", "Ecuador", "Peru", "Brasil", "Venezuela"],
                 "no-neighbour": "Bolivia"
             },
-            "flag": "https://flagcdn.com/192x144/co.webp"
+            "flag": "https://flagcdn.com/128x96/co.webp"
         },
         {
             "key": 69,
@@ -1026,7 +1026,7 @@
                 "countries": ["Colombia", "Brasil", "Guyana"],
                 "no-neighbour": "Peru"
             },
-            "flag": "https://flagcdn.com/192x144/ve.webp"
+            "flag": "https://flagcdn.com/128x96/ve.webp"
         },
         {
             "key": 70,
@@ -1040,7 +1040,7 @@
                 "countries": ["Suriname", "Brasil", "Venezuela"],
                 "no-neighbour": "Haiti"
             },
-            "flag": "https://flagcdn.com/192x144/gy.webp"
+            "flag": "https://flagcdn.com/128x96/gy.webp"
         },
         {
             "key": 71,
@@ -1054,7 +1054,7 @@
                 "countries": ["Guyana", "Brasil"],
                 "no-neighbour": "Colombia"
             },
-            "flag": "https://flagcdn.com/192x144/sr.webp"
+            "flag": "https://flagcdn.com/128x96/sr.webp"
         },
         {
             "key": 72,
@@ -1068,7 +1068,7 @@
                 "countries": ["Peru", "Colombia"],
                 "no-neighbour": "Chile"
             },
-            "flag": "https://flagcdn.com/192x144/ec.webp"
+            "flag": "https://flagcdn.com/128x96/ec.webp"
         },
         {
             "key": 73,
@@ -1082,7 +1082,7 @@
                 "countries": ["Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
                 "no-neighbour": "Paraguay"
             },
-            "flag": "https://flagcdn.com/192x144/pe.webp"
+            "flag": "https://flagcdn.com/128x96/pe.webp"
         },
         {
             "key": 74,
@@ -1096,7 +1096,7 @@
                 "countries": ["Uruguay", "Argentina", "Paraguay", "Bolivia", "Peru", "Colombia", "Venezuela", "Guyana", "Suriname"],
                 "no-neighbour": "Ecuador"
             },
-            "flag": "https://flagcdn.com/192x144/br.webp"
+            "flag": "https://flagcdn.com/128x96/br.webp"
         },
         {
             "key": 75,
@@ -1110,7 +1110,7 @@
                 "countries": ["Peru", "Chile", "Argentina", "Paraguay", "Brasil"],
                 "no-neighbour": "Venezuela"
             },
-            "flag": "https://flagcdn.com/192x144/bo.webp"
+            "flag": "https://flagcdn.com/128x96/bo.webp"
         },
         {
             "key": 76,
@@ -1124,7 +1124,7 @@
                 "countries": ["Argentina", "Bolivia", "Brasil"],
                 "no-neighbour": "Peru"
             },
-            "flag": "https://flagcdn.com/192x144/py.webp"
+            "flag": "https://flagcdn.com/128x96/py.webp"
         },
         {
             "key": 77,
@@ -1138,7 +1138,7 @@
                 "countries": ["Argentina", "Brasil"],
                 "no-neighbour": "Venezuela"
             },
-            "flag": "https://flagcdn.com/192x144/uy.webp"
+            "flag": "https://flagcdn.com/128x96/uy.webp"
         },
         {
             "key": 78,
@@ -1152,7 +1152,7 @@
                 "countries": ["Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
                 "no-neighbour": "Guyana"
             },
-            "flag": "https://flagcdn.com/192x144/ar.webp"
+            "flag": "https://flagcdn.com/128x96/ar.webp"
         },
         {
             "key": 79,
@@ -1166,7 +1166,7 @@
                 "countries": ["Peru", "Bolivia", "Argentina"],
                 "no-neighbour": "Brasil"
             },
-            "flag": "https://flagcdn.com/192x144/cl.webp"
+            "flag": "https://flagcdn.com/128x96/cl.webp"
         }
     ],
     "africa": [
@@ -1182,7 +1182,7 @@
                 "countries": ["Mauritania", "Mali", "Guinea", "Guinea-Bissau", "Gambia"],
                 "no-neighbour": "Ivory Coast"
             },
-            "flag": "https://flagcdn.com/192x144/sn.webp"
+            "flag": "https://flagcdn.com/128x96/sn.webp"
         },
         {
             "key": 81,
@@ -1196,7 +1196,7 @@
                 "countries": ["Senegal"],
                 "no-neighbour": "Zambia"
             },
-            "flag": "https://flagcdn.com/192x144/gm.webp"
+            "flag": "https://flagcdn.com/128x96/gm.webp"
         },
         {
             "key": 82,
@@ -1210,7 +1210,7 @@
                 "countries": ["Guinea","Gambia"],
                 "no-neighbour": "Burkina Faso"
             },
-            "flag": "https://flagcdn.com/192x144/gw.webp"
+            "flag": "https://flagcdn.com/128x96/gw.webp"
         },
         {
             "key": 83,
@@ -1224,7 +1224,7 @@
                 "countries": ["Senegal", "Mali", "Sierra Leone", "Guinea-Bissau", "Liberia", "Ivory Coast"],
                 "no-neighbour": "Zimbabwe"
             },
-            "flag": "https://flagcdn.com/192x144/gn.webp"
+            "flag": "https://flagcdn.com/128x96/gn.webp"
         },
         {
             "key": 84,
@@ -1238,7 +1238,7 @@
                 "countries": ["Guinea", "Liberia"],
                 "no-neighbour": "Mauritania"
             },
-            "flag": "https://flagcdn.com/192x144/sl.webp"
+            "flag": "https://flagcdn.com/128x96/sl.webp"
         },
         {
             "key": 85,
@@ -1252,7 +1252,7 @@
                 "countries": ["Guinea", "Sierra Leone", "Ivory Coast"],
                 "no-neighbour": "Guinea-Bissau"
             },
-            "flag": "https://flagcdn.com/192x144/lr.webp"
+            "flag": "https://flagcdn.com/128x96/lr.webp"
         },
         {
             "key": 86,
@@ -1266,7 +1266,7 @@
                 "countries": ["Mali", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
                 "no-neighbour": "Nigeria"
             },
-            "flag": "https://flagcdn.com/192x144/ci.webp"
+            "flag": "https://flagcdn.com/128x96/ci.webp"
         },
         {
             "key": 87,
@@ -1280,7 +1280,7 @@
                 "countries": ["Ivory Coast", "Ghana", "Mali", "Niger", "Togo", "Benin"],
                 "no-neighbour": "Namibia"
             },
-            "flag": "https://flagcdn.com/192x144/bf.webp"
+            "flag": "https://flagcdn.com/128x96/bf.webp"
         },
         {
             "key": 88,
@@ -1294,7 +1294,7 @@
                 "countries": ["Togo", "Burkina Faso", "Ivory Coast"],
                 "no-neighbour": "South Sudan"
             },
-            "flag": "https://flagcdn.com/192x144/gh.webp"
+            "flag": "https://flagcdn.com/128x96/gh.webp"
         },
         {
             "key": 89,
@@ -1308,7 +1308,7 @@
                 "countries": ["Ghana", "Burkina Faso", "Benin"],
                 "no-neighbour": "Tanzania"
             },
-            "flag": "https://flagcdn.com/192x144/tg.webp"
+            "flag": "https://flagcdn.com/128x96/tg.webp"
         },
         {
             "key": 90,
@@ -1322,7 +1322,7 @@
                 "countries": ["Togo", "Burkina Faso", "Niger", "Nigeria"],
                 "no-neighbour": "Liberia"
             },
-            "flag": "https://flagcdn.com/192x144/bj.webp"
+            "flag": "https://flagcdn.com/128x96/bj.webp"
         },
         {
             "key": 91,
@@ -1336,7 +1336,7 @@
                 "countries": ["Togo", "Niger", "Chad", "Cameroon"],
                 "no-neighbour": "Algeria"
             },
-            "flag": "https://flagcdn.com/192x144/ng.webp"
+            "flag": "https://flagcdn.com/128x96/ng.webp"
         },
         {
             "key": 92,
@@ -1350,7 +1350,7 @@
                 "countries": ["Nigeria", "Chad", "Central African Republic", "Congo", "Gabon", "Equatorial Guinea"],
                 "no-neighbour": "Gambia"
             },
-            "flag": "https://flagcdn.com/192x144/cm.webp"
+            "flag": "https://flagcdn.com/128x96/cm.webp"
         },
         {
             "key": 93,
@@ -1364,7 +1364,7 @@
                 "countries": ["Cameroon", "Chad", "Sudan", "South Sudan", "DR Congo", "Congo"],
                 "no-neighbour": "Eswatini"
             },
-            "flag": "https://flagcdn.com/192x144/cf.webp"
+            "flag": "https://flagcdn.com/128x96/cf.webp"
         },
         {
             "key": 94,
@@ -1378,7 +1378,7 @@
                 "countries": ["Congo", "Central African Republic", "South Sudan", "Zambia", "Tanzania", "Burundi", "Rwanda", "Uganda", "Angola"],
                 "no-neighbour": "South Africa"
             },
-            "flag": "https://flagcdn.com/192x144/cd.webp"
+            "flag": "https://flagcdn.com/128x96/cd.webp"
         },
         {
             "key": 95,
@@ -1392,7 +1392,7 @@
                 "countries": ["DR Congo", "Gabon", "Central African Republic", "Cameroon", "Angola"],
                 "no-neighbour": "Eritrea"
             },
-            "flag": "https://flagcdn.com/192x144/cg.webp"
+            "flag": "https://flagcdn.com/128x96/cg.webp"
         },
         {
             "key": 96,
@@ -1406,7 +1406,7 @@
                 "countries": ["Congo", "Cameroon", "Equatorial Guinea"],
                 "no-neighbour": "Mozambique"
             },
-            "flag": "https://flagcdn.com/192x144/ga.webp"
+            "flag": "https://flagcdn.com/128x96/ga.webp"
         },
         {
             "key": 97,
@@ -1420,7 +1420,7 @@
                 "countries": ["Cameroon", "Gabon"],
                 "no-neighbour": "Eswatini"
             },
-            "flag": "https://flagcdn.com/192x144/gq.webp"
+            "flag": "https://flagcdn.com/128x96/gq.webp"
         },
         {
             "key": 98,
@@ -1434,7 +1434,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/st.webp"
+            "flag": "https://flagcdn.com/128x96/st.webp"
         },
         {
             "key": 99,
@@ -1448,7 +1448,7 @@
                 "countries": ["Namibia", "Zambia", "Congo", "DR Congo"],
                 "no-neighbour": "Mauritius"
             },
-            "flag": "https://flagcdn.com/192x144/ao.webp"
+            "flag": "https://flagcdn.com/128x96/ao.webp"
         },
         {
             "key": 100,
@@ -1462,7 +1462,7 @@
                 "countries": ["South Africa", "Botswana", "Zambia", "Angola"],
                 "no-neighbour": "Chad"
             },
-            "flag": "https://flagcdn.com/192x144/na.webp"
+            "flag": "https://flagcdn.com/128x96/na.webp"
         },
         {
             "key": 101,
@@ -1476,7 +1476,7 @@
                 "countries": ["Namibia", "South Africa", "Zimbabwe", "Zambia"],
                 "no-neighbour": "Senegal"
             },
-            "flag": "https://flagcdn.com/192x144/bw.webp"
+            "flag": "https://flagcdn.com/128x96/bw.webp"
         },
         {
             "key": 102,
@@ -1490,7 +1490,7 @@
                 "countries": ["Lesotho", "Eswatini", "Mozambique", "Zimbabwe", "Botswana", "Namibia"],
                 "no-neighbour": "Congo"
             },
-            "flag": "https://flagcdn.com/192x144/za.webp"
+            "flag": "https://flagcdn.com/128x96/za.webp"
         },
         {
             "key": 103,
@@ -1504,7 +1504,7 @@
                 "countries": ["South Africa"],
                 "no-neighbour": "Madagascar"
             },
-            "flag": "https://flagcdn.com/192x144/ls.webp"
+            "flag": "https://flagcdn.com/128x96/ls.webp"
         },
         {
             "key": 104,
@@ -1518,7 +1518,7 @@
                 "countries": ["Mozambique", "South Africa"],
                 "no-neighbour": "Somalia"
             },
-            "flag": "https://flagcdn.com/192x144/sz.webp"
+            "flag": "https://flagcdn.com/128x96/sz.webp"
         },
         {
             "key": 105,
@@ -1532,7 +1532,7 @@
                 "countries": ["Tanzania", "Zambia", "Malawi", "Zimbabwe", "Eswatini", "South Africa"],
                 "no-neighbour": "Ghana"
             },
-            "flag": "https://flagcdn.com/192x144/mz.webp"
+            "flag": "https://flagcdn.com/128x96/mz.webp"
         },
         {
             "key": 106,
@@ -1546,7 +1546,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/mg.webp"
+            "flag": "https://flagcdn.com/128x96/mg.webp"
         },
         {
             "key": 107,
@@ -1560,7 +1560,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/mu.webp"
+            "flag": "https://flagcdn.com/128x96/mu.webp"
         },
         {
             "key": 108,
@@ -1574,7 +1574,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/sc.webp"
+            "flag": "https://flagcdn.com/128x96/sc.webp"
         },
         {
             "key": 109,
@@ -1588,7 +1588,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/km.webp"
+            "flag": "https://flagcdn.com/128x96/km.webp"
         },
         {
             "key": 110,
@@ -1602,7 +1602,7 @@
                 "countries": ["Botswana", "Zambia", "Mozambique", "South Africa"],
                 "no-neighbour": "DR Congo"
             },
-            "flag": "https://flagcdn.com/192x144/zw.webp"
+            "flag": "https://flagcdn.com/128x96/zw.webp"
         },
         {
             "key": 111,
@@ -1616,7 +1616,7 @@
                 "countries": ["Tanzania", "Malawi", "Mozambique", "DR Congo", "Zimbabwe", "Namibia", "Angola", "Botswana"],
                 "no-neighbour": "South Africa"
             },
-            "flag": "https://flagcdn.com/192x144/zm.webp"
+            "flag": "https://flagcdn.com/128x96/zm.webp"
         },
         {
             "key": 112,
@@ -1630,7 +1630,7 @@
                 "countries": ["Tanzania", "Zambia", "Mozambique"],
                 "no-neighbour": "Lesotho"
             },
-            "flag": "https://flagcdn.com/192x144/mw.webp"
+            "flag": "https://flagcdn.com/128x96/mw.webp"
         },
         {
             "key": 113,
@@ -1644,7 +1644,7 @@
                 "countries": ["Rwanda", "Uganda", "Burundi", "Kenya", "DR Congo", "Malawi", "Zambia", "Mozambique"],
                 "no-neighbour": "Etiopía"
             },
-            "flag": "https://flagcdn.com/192x144/tz.webp"
+            "flag": "https://flagcdn.com/128x96/tz.webp"
         },
         {
             "key": 114,
@@ -1658,7 +1658,7 @@
                 "countries": ["Tanzania", "Rwanda", "DR Congo"],
                 "no-neighbour": "Namibia"
             },
-            "flag": "https://flagcdn.com/192x144/bi.webp"
+            "flag": "https://flagcdn.com/128x96/bi.webp"
         },
         {
             "key": 115,
@@ -1672,7 +1672,7 @@
                 "countries": ["Tanzania", "Uganda", "DR Congo", "Burundi"],
                 "no-neighbour": "Sudan"
             },
-            "flag": "https://flagcdn.com/192x144/rw.webp"
+            "flag": "https://flagcdn.com/128x96/rw.webp"
         },
         {
             "key": 116,
@@ -1686,7 +1686,7 @@
                 "countries": ["Tanzania", "Rwanda", "South Sudan", "Kenya", "DR Congo"],
                 "no-neighbour": "Djibouti"
             },
-            "flag": "https://flagcdn.com/192x144/ug.webp"
+            "flag": "https://flagcdn.com/128x96/ug.webp"
         },
         {
             "key": 117,
@@ -1700,7 +1700,7 @@
                 "countries": ["Tanzania", "Uganda", "South Sudan", "Ethiopia", "Somalia"],
                 "no-neighbour": "Zambia"
             },
-            "flag": "https://flagcdn.com/192x144/ke.webp"
+            "flag": "https://flagcdn.com/128x96/ke.webp"
         },
         {
             "key": 118,
@@ -1714,7 +1714,7 @@
                 "countries": ["Kenya", "Ethiopia", "Eritrea"],
                 "no-neighbour": "South Sudan"
             },
-            "flag": "https://flagcdn.com/192x144/so.webp"
+            "flag": "https://flagcdn.com/128x96/so.webp"
         },
         {
             "key": 119,
@@ -1728,7 +1728,7 @@
                 "countries": ["Somalia", "Ethiopia", "Eritrea"],
                 "no-neighbour": "Egypt"
             },
-            "flag": "https://flagcdn.com/192x144/dj.webp"
+            "flag": "https://flagcdn.com/128x96/dj.webp"
         },
         {
             "key": 120,
@@ -1742,7 +1742,7 @@
                 "countries": ["Sudan", "Ethiopia", "Djibouti"],
                 "no-neighbour": "Algeria"
             },
-            "flag": "https://flagcdn.com/192x144/er.webp"
+            "flag": "https://flagcdn.com/128x96/er.webp"
         },
         {
             "key": 121,
@@ -1756,7 +1756,7 @@
                 "countries": ["Sudan", "Kenya", "Somalia", "South Sudan", "Eritrea", "Djibouti"],
                 "no-neighbour": "Libya"
             },
-            "flag": "https://flagcdn.com/192x144/et.webp"
+            "flag": "https://flagcdn.com/128x96/et.webp"
         },
         {
             "key": 122,
@@ -1770,7 +1770,7 @@
                 "countries": ["Sudan", "DR Congo", "Uganda", "Central African Republic", "Kenya", "Ethiopia"],
                 "no-neighbour": "Tanzania"
             },
-            "flag": "https://flagcdn.com/192x144/ss.webp"
+            "flag": "https://flagcdn.com/128x96/ss.webp"
         },
         {
             "key": 123,
@@ -1784,7 +1784,7 @@
                 "countries": ["Egypt", "Libya", "Chad", "Central African Republic", "South Sudan", "Ethiopia", "Eritrea"],
                 "no-neighbour": "Cameroon"
             },
-            "flag": "https://flagcdn.com/192x144/sd.webp"
+            "flag": "https://flagcdn.com/128x96/sd.webp"
         },
         {
             "key": 124,
@@ -1798,7 +1798,7 @@
                 "countries": ["Libya", "Sudan", "Niger", "Nigeria", "Cameroon", "Central African Republic"],
                 "no-neighbour": "Morocco"
             },
-            "flag": "https://flagcdn.com/192x144/td.webp"
+            "flag": "https://flagcdn.com/128x96/td.webp"
         },
         {
             "key": 125,
@@ -1812,7 +1812,7 @@
                 "countries": ["Libya", "Algeria", "Mali", "Burkina Faso", "Benin", "Nigeria", "Chad"],
                 "no-neighbour": "Mauritania"
             },
-            "flag": "https://flagcdn.com/192x144/ne.webp"
+            "flag": "https://flagcdn.com/128x96/ne.webp"
         },
         {
             "key": 126,
@@ -1826,7 +1826,7 @@
                 "countries": ["Algeria", "Mauritania", "Senegal", "Guinea", "Ivory Coast", "Burkina Faso", "Niger"],
                 "no-neighbour": "Morocco"
             },
-            "flag": "https://flagcdn.com/192x144/ml.webp"
+            "flag": "https://flagcdn.com/128x96/ml.webp"
         },
         {
             "key": 127,
@@ -1840,7 +1840,7 @@
                 "countries": ["Morocco", "Algeria", "Mali", "Senegal"],
                 "no-neighbour": "Tunisia"
             },
-            "flag": "https://flagcdn.com/192x144/mr.webp"
+            "flag": "https://flagcdn.com/128x96/mr.webp"
         },
         {
             "key": 128,
@@ -1854,7 +1854,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/cv.webp"
+            "flag": "https://flagcdn.com/128x96/cv.webp"
         },
         {
             "key": 129,
@@ -1868,7 +1868,7 @@
                 "countries": ["Algeria", "Mauritania", "Spain"],
                 "no-neighbour": "Mali"
             },
-            "flag": "https://flagcdn.com/192x144/ma.webp"
+            "flag": "https://flagcdn.com/128x96/ma.webp"
         },
         {
             "key": 130,
@@ -1882,7 +1882,7 @@
                 "countries": ["Tunisia", "Libya", "Morocco", "Mauritania", "Mali", "Niger"],
                 "no-neighbour": "Senegal"
             },
-            "flag": "https://flagcdn.com/192x144/dz.webp"
+            "flag": "https://flagcdn.com/128x96/dz.webp"
         },
         {
             "key": 131,
@@ -1896,7 +1896,7 @@
                 "countries": ["Libya", "Algeria"],
                 "no-neighbour": "Italy"
             },
-            "flag": "https://flagcdn.com/192x144/tn.webp"
+            "flag": "https://flagcdn.com/128x96/tn.webp"
         },
         {
             "key": 132,
@@ -1910,7 +1910,7 @@
                 "countries": ["Egypt", "Sudan", "Tunisia", "Algeria", "Niger", "Chad"],
                 "no-neighbour": "Liberia"
             },
-            "flag": "https://flagcdn.com/192x144/ly.webp"
+            "flag": "https://flagcdn.com/128x96/ly.webp"
         }
     ],
     "afri-asia": [
@@ -1926,7 +1926,7 @@
                 "countries": ["Libya", "Sudan", "Israel"],
                 "no-neighbour": "Saudi Arabia"
             },
-            "flag": "https://flagcdn.com/192x144/eg.webp"
+            "flag": "https://flagcdn.com/128x96/eg.webp"
         }
     ],
     "asia": [
@@ -1942,7 +1942,7 @@
                 "countries": ["Saudi Arabia", "Oman"],
                 "no-neighbour": "Iraq"
             },
-            "flag": "https://flagcdn.com/192x144/ye.webp"
+            "flag": "https://flagcdn.com/128x96/ye.webp"
         },
         {
             "key": 135,
@@ -1956,7 +1956,7 @@
                 "countries": ["Saudi Arabia", "Yemen", "United Arab Emirates"],
                 "no-neighbour": "Jordan"
             },
-            "flag": "https://flagcdn.com/192x144/om.webp"
+            "flag": "https://flagcdn.com/128x96/om.webp"
         },
         {
             "key": 136,
@@ -1970,7 +1970,7 @@
                 "countries": ["Saudi Arabia", "Oman"],
                 "no-neighbour": "Yemen"
             },
-            "flag": "https://flagcdn.com/192x144/ae.webp"
+            "flag": "https://flagcdn.com/128x96/ae.webp"
         },
         {
             "key": 137,
@@ -1984,7 +1984,7 @@
                 "countries": ["Saudi Arabia"],
                 "no-neighbour": "Iran"
             },
-            "flag": "https://flagcdn.com/192x144/qa.webp"
+            "flag": "https://flagcdn.com/128x96/qa.webp"
         },
         {
             "key": 138,
@@ -1998,7 +1998,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/bh.webp"
+            "flag": "https://flagcdn.com/128x96/bh.webp"
         },
         {
             "key": 139,
@@ -2012,7 +2012,7 @@
                 "countries": ["Yemen", "Oman", "Qatar", "United Arab Emirates", "Kuwait", "Jordan", "Iraq"],
                 "no-neighbour": "Syria"
             },
-            "flag": "https://flagcdn.com/192x144/sa.webp"
+            "flag": "https://flagcdn.com/128x96/sa.webp"
         },
         {
             "key": 140,
@@ -2026,7 +2026,7 @@
                 "countries": ["Iraq", "Saudi Arabia"],
                 "no-neighbour": "Iran"
             },
-            "flag": "https://flagcdn.com/192x144/kw.webp"
+            "flag": "https://flagcdn.com/128x96/kw.webp"
         },
         {
             "key": 141,
@@ -2040,7 +2040,7 @@
                 "countries": ["Lebanon", "Jordan", "Egypt", "Syria"],
                 "no-neighbour": "Saudi Arabia"
             },
-            "flag": "https://flagcdn.com/192x144/il.webp"
+            "flag": "https://flagcdn.com/128x96/il.webp"
         },
         {
             "key": 142,
@@ -2054,7 +2054,7 @@
                 "countries": ["Iraq", "Saudi Arabia", "Syria", "Israel"],
                 "no-neighbour": "Kuwait"
             },
-            "flag": "https://flagcdn.com/192x144/jo.webp"
+            "flag": "https://flagcdn.com/128x96/jo.webp"
         },
         {
             "key": 143,
@@ -2068,7 +2068,7 @@
                 "countries": ["Israel", "Syria"],
                 "no-neighbour": "Turkey"
             },
-            "flag": "https://flagcdn.com/192x144/lb.webp"
+            "flag": "https://flagcdn.com/128x96/lb.webp"
         },
         {
             "key": 144,
@@ -2081,7 +2081,7 @@
                 "num": 0,
                 "countries": [],
                 "no-neighbour": ""            },
-            "flag": "https://flagcdn.com/192x144/cy.webp"
+            "flag": "https://flagcdn.com/128x96/cy.webp"
         },
         {
             "key": 145,
@@ -2095,7 +2095,7 @@
                 "countries": ["Iraq", "Israel", "Jordan", "Lebanon", "Turkey"],
                 "no-neighbour": "Armenia"
             },
-            "flag": "https://flagcdn.com/192x144/sy.webp"
+            "flag": "https://flagcdn.com/128x96/sy.webp"
         },
         {
             "key": 146,
@@ -2109,7 +2109,7 @@
                 "countries": ["Syria", "Saudi Arabia", "Kuwait", "Iran", "Turkey", "Jordan"],
                 "no-neighbour": "Qatar"
             },
-            "flag": "https://flagcdn.com/192x144/iq.webp"
+            "flag": "https://flagcdn.com/128x96/iq.webp"
         },
         {
             "key": 150,
@@ -2123,7 +2123,7 @@
                 "countries": ["Turkey", "Georgia", "Iran", "Azerbaijan"],
                 "no-neighbour": "Syria"
             },
-            "flag": "https://flagcdn.com/192x144/am.webp"
+            "flag": "https://flagcdn.com/128x96/am.webp"
         },
         {
             "key": 151,
@@ -2137,7 +2137,7 @@
                 "countries": ["Armenia", "Azerbaijan", "Iraq", "Turkmenistan", "Afghanistan", "Pakistan", "Turkey"],
                 "no-neighbour": "Oman"
             },
-            "flag": "https://flagcdn.com/192x144/ir.webp"
+            "flag": "https://flagcdn.com/128x96/ir.webp"
         },
         {
             "key": 152,
@@ -2151,7 +2151,7 @@
                 "countries": ["Iran", "Uzbekistan", "Afghanistan", "Kazakhstan"],
                 "no-neighbour": "China"
             },
-            "flag": "https://flagcdn.com/192x144/tm.webp"
+            "flag": "https://flagcdn.com/128x96/tm.webp"
         },
         {
             "key": 153,
@@ -2165,7 +2165,7 @@
                 "countries": ["Kazakhstan", "Turkmenistan", "Afghanistan", "Kyrgyzstan", "Tajikistan"],
                 "no-neighbour": "India"
             },
-            "flag": "https://flagcdn.com/192x144/uz.webp"
+            "flag": "https://flagcdn.com/128x96/uz.webp"
         },
         {
             "key": 155,
@@ -2179,7 +2179,7 @@
                 "countries": ["Kazakhstan", "China", "Uzbekistan", "Tajikistan"],
                 "no-neighbour": "Ukraine"
             },
-            "flag": "https://flagcdn.com/192x144/kg.webp"
+            "flag": "https://flagcdn.com/128x96/kg.webp"
         },
         {
             "key": 156,
@@ -2193,7 +2193,7 @@
                 "countries": ["Uzbekistan", "China", "Kyrgyzstan", "Afghanistan"],
                 "no-neighbour": "Nepal"
             },
-            "flag": "https://flagcdn.com/192x144/tj.webp"
+            "flag": "https://flagcdn.com/128x96/tj.webp"
         },
         {
             "key": 157,
@@ -2207,7 +2207,7 @@
                 "countries": ["Iran", "Turkmenistan", "Uzbekistan", "Tajikistan", "Pakistan", "China"],
                 "no-neighbour": "Sri Lanka"
             },
-            "flag": "https://flagcdn.com/192x144/af.webp"
+            "flag": "https://flagcdn.com/128x96/af.webp"
         },
         {
             "key": 158,
@@ -2221,7 +2221,7 @@
                 "countries": ["India", "China", "Iran", "Afghanistan"],
                 "no-neighbour": "Tajikistan"
             },
-            "flag": "https://flagcdn.com/192x144/pk.webp"
+            "flag": "https://flagcdn.com/128x96/pk.webp"
         },
         {
             "key": 159,
@@ -2235,7 +2235,7 @@
                 "countries": ["China", "Nepal", "Pakistan", "Bhutan", "Bangladesh", "Myanmar"],
                 "no-neighbour": "Uzbekistan"
             },
-            "flag": "https://flagcdn.com/192x144/in.webp"
+            "flag": "https://flagcdn.com/128x96/in.webp"
         },
         {
             "key": 160,
@@ -2249,7 +2249,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/lk.webp"
+            "flag": "https://flagcdn.com/128x96/lk.webp"
         },
         {
             "key": 161,
@@ -2263,7 +2263,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/mv.webp"
+            "flag": "https://flagcdn.com/128x96/mv.webp"
         },
         {
             "key": 162,
@@ -2277,7 +2277,7 @@
                 "countries": ["India", "China"],
                 "no-neighbour": "Afghanistan"
             },
-            "flag": "https://flagcdn.com/192x144/np.webp"
+            "flag": "https://flagcdn.com/128x96/np.webp"
         },
         {
             "key": 163,
@@ -2291,7 +2291,7 @@
                 "countries": ["India", "China"],
                 "no-neighbour": "Vietnam"
             },
-            "flag": "https://flagcdn.com/192x144/bt.webp"
+            "flag": "https://flagcdn.com/128x96/bt.webp"
         },
         {
             "key": 164,
@@ -2305,7 +2305,7 @@
                 "countries": ["India", "Myanmar"],
                 "no-neighbour": "Laos"
             },
-            "flag": "https://flagcdn.com/192x144/bd.webp"
+            "flag": "https://flagcdn.com/128x96/bd.webp"
         },
         {
             "key": 165,
@@ -2319,7 +2319,7 @@
                 "countries": ["Bangladesh", "China", "India", "Thailand", "Laos"],
                 "no-neighbour": "Indonesia"
             },
-            "flag": "https://flagcdn.com/192x144/mm.webp"
+            "flag": "https://flagcdn.com/128x96/mm.webp"
         },
         {
             "key": 166,
@@ -2333,7 +2333,7 @@
                 "countries": ["Myanmar", "Laos", "Cambodia", "Malaysia"],
                 "no-neighbour": "Mongolia"
             },
-            "flag": "https://flagcdn.com/192x144/th.webp"
+            "flag": "https://flagcdn.com/128x96/th.webp"
         },
         {
             "key": 167,
@@ -2347,7 +2347,7 @@
                 "countries": ["Thailand", "Indonesia", "Brunei"],
                 "no-neighbour": "Cambodia"
             },
-            "flag": "https://flagcdn.com/192x144/my.webp"
+            "flag": "https://flagcdn.com/128x96/my.webp"
         },
         {
             "key": 168,
@@ -2361,7 +2361,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/sg.webp"
+            "flag": "https://flagcdn.com/128x96/sg.webp"
         },
         {
             "key": 170,
@@ -2375,7 +2375,7 @@
                 "countries": ["Indonesia"],
                 "no-neighbour": "Palau"
             },
-            "flag": "https://flagcdn.com/192x144/tl.webp"
+            "flag": "https://flagcdn.com/128x96/tl.webp"
         },
         {
             "key": 171,
@@ -2389,7 +2389,7 @@
                 "countries": ["Malaysia"],
                 "no-neighbour": "Australia"
             },
-            "flag": "https://flagcdn.com/192x144/bn.webp"
+            "flag": "https://flagcdn.com/128x96/bn.webp"
         },
         {
             "key": 172,
@@ -2403,7 +2403,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/ph.webp"
+            "flag": "https://flagcdn.com/128x96/ph.webp"
         },
         {
             "key": 173,
@@ -2417,7 +2417,7 @@
                 "countries": ["Cambodia", "China", "Laos"],
                 "no-neighbour": "Malaysia"
             },
-            "flag": "https://flagcdn.com/192x144/vn.webp"
+            "flag": "https://flagcdn.com/128x96/vn.webp"
         },
         {
             "key": 174,
@@ -2431,7 +2431,7 @@
                 "countries": ["Laos", "Thailand", "Vietnam"],
                 "no-neighbour": "South Korea"
             },
-            "flag": "https://flagcdn.com/192x144/kh.webp"
+            "flag": "https://flagcdn.com/128x96/kh.webp"
         },
         {
             "key": 175,
@@ -2445,7 +2445,7 @@
                 "countries": ["Thailand", "China", "Cambodia", "Vietnam", "Myanmar"],
                 "no-neighbour": "Bangladesh"
             },
-            "flag": "https://flagcdn.com/192x144/la.webp"
+            "flag": "https://flagcdn.com/128x96/la.webp"
         },
         {
             "key": 176,
@@ -2459,7 +2459,7 @@
                 "countries": ["Russia", "Mongolia", "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Pakistan", "Nepal", "India", "Bhutan", "Myanmar", "Vietnam", "Laos", "North Korea"],
                 "no-neighbour": "Philippines"
             },
-            "flag": "https://flagcdn.com/192x144/cn.webp"
+            "flag": "https://flagcdn.com/128x96/cn.webp"
         },
         {
             "key": 177,
@@ -2473,7 +2473,7 @@
                 "countries": ["Russia", "China"],
                 "no-neighbour": "Turkmenistan"
             },
-            "flag": "https://flagcdn.com/192x144/mn.webp"
+            "flag": "https://flagcdn.com/128x96/mn.webp"
         },
         {
             "key": 178,
@@ -2487,7 +2487,7 @@
                 "countries": ["Russia", "China", "South Korea"],
                 "no-neighbour": "Bhutan"
             },
-            "flag": "https://flagcdn.com/192x144/kp.webp"
+            "flag": "https://flagcdn.com/128x96/kp.webp"
         },
         {
             "key": 179,
@@ -2501,7 +2501,7 @@
                 "countries": ["China"],
                 "no-neighbour": "Timor-Leste"
             },
-            "flag": "https://flagcdn.com/192x144/kr.webp"
+            "flag": "https://flagcdn.com/128x96/kr.webp"
         },
         {
             "key": 180,
@@ -2515,7 +2515,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/jp.webp"
+            "flag": "https://flagcdn.com/128x96/jp.webp"
         }
     ],
     "ocean-asia": [
@@ -2531,7 +2531,7 @@
                 "countries": ["Timor-Leste", "Malaysia", "Papua New Guinea"],
                 "no-neighbour": "Thailand"
             },
-            "flag": "https://flagcdn.com/192x144/id.webp"
+            "flag": "https://flagcdn.com/128x96/id.webp"
         }
     ],
     "oceania": [
@@ -2547,7 +2547,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/pw.webp"
+            "flag": "https://flagcdn.com/128x96/pw.webp"
         },
         {
             "key": 182,
@@ -2561,7 +2561,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/fm.webp"
+            "flag": "https://flagcdn.com/128x96/fm.webp"
         },
         {
             "key": 183,
@@ -2575,7 +2575,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/mh.webp"
+            "flag": "https://flagcdn.com/128x96/mh.webp"
         },
         {
             "key": 184,
@@ -2589,7 +2589,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/nr.webp"
+            "flag": "https://flagcdn.com/128x96/nr.webp"
         },
         {
             "key": 185,
@@ -2603,7 +2603,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/ki.webp"
+            "flag": "https://flagcdn.com/128x96/ki.webp"
         },
         {
             "key": 186,
@@ -2617,7 +2617,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/ws.webp"
+            "flag": "https://flagcdn.com/128x96/ws.webp"
         },
         {
             "key": 187,
@@ -2631,7 +2631,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/tv.webp"
+            "flag": "https://flagcdn.com/128x96/tv.webp"
         },
         {
             "key": 188,
@@ -2645,7 +2645,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/to.webp"
+            "flag": "https://flagcdn.com/128x96/to.webp"
         },
         {
             "key": 189,
@@ -2659,7 +2659,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/fj.webp"
+            "flag": "https://flagcdn.com/128x96/fj.webp"
         },
         {
             "key": 190,
@@ -2673,7 +2673,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/vu.webp"
+            "flag": "https://flagcdn.com/128x96/vu.webp"
         },
         {
             "key": 191,
@@ -2687,7 +2687,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/sb.webp"
+            "flag": "https://flagcdn.com/128x96/sb.webp"
         },
         {
             "key": 192,
@@ -2701,7 +2701,7 @@
                 "countries": ["Indonesia"],
                 "no-neighbour": "New Zealand"
             },
-            "flag": "https://flagcdn.com/192x144/pg.webp"
+            "flag": "https://flagcdn.com/128x96/pg.webp"
         },
         {
             "key": 193,
@@ -2715,7 +2715,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/au.webp"
+            "flag": "https://flagcdn.com/128x96/au.webp"
         },
         {
             "key": 194,
@@ -2729,7 +2729,7 @@
                 "countries": [],
                 "no-neighbour": ""
             },
-            "flag": "https://flagcdn.com/192x144/nz.webp"
+            "flag": "https://flagcdn.com/128x96/nz.webp"
         }
     ]
 }
