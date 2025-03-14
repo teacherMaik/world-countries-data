@@ -304,7 +304,7 @@
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
-                "no-neighbour": "Spain"
+                "no-neighbour": "Dinamarca"
             },
             "flag": "https://flagcdn.com/128x96/fr.webp"
         },
