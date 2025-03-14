@@ -304,7 +304,7 @@
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
-                "no-neighbour": "Dinamarca"
+                "no-neighbour": "Denmark"
             },
             "flag": "https://flagcdn.com/128x96/fr.webp"
         },
@@ -472,7 +472,7 @@
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Russia", "Lithuania", "Belarus", "Ukraine", "Czech Republic", "Germany", "Slovakia"],
-                "no-neighbour": "Denmark"
+                "no-neighbour": "North Macedonia"
             },
             "flag": "https://flagcdn.com/128x96/pl.webp"
         },
