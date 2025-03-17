@@ -6,7 +6,7 @@
             "capital": "Ljubljana",
             "population": 2118697,
             "area": 20140,
-            "altitud-max": 2864,
+            "max-altitude": 2864,
             "neighbour-countries": {
                 "num": 4, 
                 "countries": ["Italy", "Hungary", "Austria", "Croatia"],
@@ -20,7 +20,7 @@
             "capital": "Zagreb",
             "population": 3875325,
             "area": 55960,
-            "altitud-max": 1831,
+            "max-altitude": 1831,
             "neighbour-countries": {
                 "num": 5, 
                 "countries": ["Bosnia & Herzegovina", "Hungary", "Slovenia", "Serbia", "Montenegro"],
@@ -34,7 +34,7 @@
             "capital": "Sarajevo",
             "population": 3164253,
             "area": 51000,
-            "altitud-max": 2386,
+            "max-altitude": 2386,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Croatia", "Serbia", "Montenegro"],
@@ -48,7 +48,7 @@
             "capital": "Podgorica",
             "population": 638479,
             "area": 13450,
-            "altitud-max": 2534,
+            "max-altitude": 2534,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Croatia", "Serbia", "Bosnia & Herzegovina", "Albania"],
@@ -62,7 +62,7 @@
             "capital": "Tirana",
             "population": 2791765,
             "area": 27400,
-            "altitud-max": 2764,
+            "max-altitude": 2764,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Montenegro", "Greece", "North Macedonia"],
@@ -76,7 +76,7 @@
             "capital": "Skopje",
             "population": 1823009,
             "area": 25220,
-            "altitud-max": 2764,
+            "max-altitude": 2764,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Serbia", "Greece", "Albania", "Bulgaria"],
@@ -90,7 +90,7 @@
             "capital": "Belgrade",
             "population": 6736216,
             "area": 87460,
-            "altitud-max": 2169,
+            "max-altitude": 2169,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Hungary", "Bulgaria", "Romania", "Croatia", "Bosnia & Herzegovina", "Montenegro", "North Macedonia", "Albania"],
@@ -104,7 +104,7 @@
             "capital": "Sofia",
             "population": 6757689,
             "area": 108560,
-            "altitud-max": 2925,
+            "max-altitude": 2925,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Romania", "Greece", "Turkey", "Serbia", "North Macedonia"],
@@ -118,7 +118,7 @@
             "capital": "Athens",
             "population": 10047817,
             "area": 128900,
-            "altitud-max": 2919,
+            "max-altitude": 2919,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Bulgaria", "Albania", "Turkey", "North Macedonia"],
@@ -132,7 +132,7 @@
             "capital": "Bucharest",
             "population": 19015088,
             "area": 230170,
-            "altitud-max": 2544,
+            "max-altitude": 2544,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Bulgaria", "Serbia", "Hungary", "Moldova", "Ukraine"],
@@ -146,7 +146,7 @@
             "capital": "Budapest",
             "population": 9676135,
             "area": 90530,
-            "altitud-max": 1014,
+            "max-altitude": 1014,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Slovakia", "Serbia", "Romania", "Croatia", "Ukraine", "Slovenia", "Austria"],
@@ -160,7 +160,7 @@
             "capital": "Bratislava",
             "population": 5506760,
             "area": 48088,
-            "altitud-max": 2655,
+            "max-altitude": 2655,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Poland", "Hungary", "Czech Republic", "Ukraine", "Austria"],
@@ -174,7 +174,7 @@
             "capital": "Prague",
             "population": 10735859,
             "area": 77240,
-            "altitud-max": 1602,
+            "max-altitude": 1602,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Poland", "Germany", "Slovakia", "Austria"],
@@ -188,7 +188,7 @@
             "capital": "Viena",
             "population": 9120813,
             "area": 82409,
-            "altitud-max": 3798,
+            "max-altitude": 3798,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Czech Republic", "Germany", "Slovakia", "Hungary", "Slovenia", "Italy", "Switzerland", "Liechtenstein"],
@@ -202,7 +202,7 @@
             "capital": "Vaduz",
             "population": 39870,
             "area": 160,
-            "altitud-max": 2599,
+            "max-altitude": 2599,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Switzerland", "Austria"],
@@ -216,7 +216,7 @@
             "capital": "Bern",
             "population": 8921981,
             "area": 39516,
-            "altitud-max": 4634,
+            "max-altitude": 4634,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Germany", "Austria", "France", "Liechtenstein", "Italy"],
@@ -230,7 +230,7 @@
             "capital": "Rome",
             "population": 59342867,
             "area": 294140,
-            "altitud-max": 4810,
+            "max-altitude": 4810,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Switzerland", "Austria", "France", "Slovenia", "San Marino", "Vatican"],
@@ -244,7 +244,7 @@
             "capital": "San Marino",
             "population": 33581,
             "area": 60,
-            "altitud-max": 755,
+            "max-altitude": 755,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Italy"],
@@ -258,7 +258,7 @@
             "capital": "Vatican City",
             "population": 0.896,
             "area": 0.5,
-            "altitud-max": 76,
+            "max-altitude": 76,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Italy"],
@@ -272,7 +272,7 @@
             "capital": "Valleta",
             "population": 539607,
             "area": 316,
-            "altitud-max": 253,
+            "max-altitude": 253,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -286,7 +286,7 @@
             "capital": "Monaco City",
             "population": 38631,
             "area": 1.5,
-            "altitud-max": 161,
+            "max-altitude": 161,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["France"],
@@ -300,7 +300,7 @@
             "capital": "Paris",
             "population": 66584530,
             "area": 601681,
-            "altitud-max": 4810,
+            "max-altitude": 4810,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Monaco", "Spain", "Andorra", "Italy", "Switzerland", "Belgium", "Luxembourg", "Germany"],
@@ -314,7 +314,7 @@
             "capital": "Andorra la Vella",
             "population": 81938,
             "area": 470,
-            "altitud-max": 2942,
+            "max-altitude": 2942,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Spain", "France"],
@@ -328,7 +328,7 @@
             "capital": "Madrid",
             "population": 47910526,
             "area": 503961,
-            "altitud-max": 3718,
+            "max-altitude": 3718,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Portugal", "France", "Andorra", "Morocco", "United Kingdom"],
@@ -342,7 +342,7 @@
             "capital": "Lisbon",
             "population": 10425292,
             "area": 91874,
-            "altitud-max": 2351,
+            "max-altitude": 2351,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Spain"],
@@ -356,7 +356,7 @@
             "capital": "Dublin",
             "population": 5179398,
             "area": 69732,
-            "altitud-max": 1038,
+            "max-altitude": 1038,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["United Kingdom"],
@@ -370,7 +370,7 @@
             "capital": "London",
             "population": 67081000,
             "area": 242497,
-            "altitud-max": 1344,
+            "max-altitude": 1344,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Spain", "Ireland"],
@@ -384,7 +384,7 @@
             "capital": "Reykjavík",
             "population": 393396,
             "area": 102002,
-            "altitud-max": 2120,
+            "max-altitude": 2120,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -398,7 +398,7 @@
             "capital": "Brussels",
             "population": 11738763,
             "area": 30420,
-            "altitud-max": 694,
+            "max-altitude": 694,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["France", "Germany", "Netherlands", "Luxembourg"],
@@ -412,7 +412,7 @@
             "capital": "Luxembourg City",
             "population": 671036,
             "area": 2590,
-            "altitud-max": 560,
+            "max-altitude": 560,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["France", "Belgium", "Germany"],
@@ -426,7 +426,7 @@
             "capital": "Amsterdam",
             "population": 18228742,
             "area": 38720,
-            "altitud-max": 322,
+            "max-altitude": 322,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Belgium", "Germany"],
@@ -440,7 +440,7 @@
             "capital": "Berlin",
             "population": 84552242,
             "area": 353386,
-            "altitud-max": 2962,
+            "max-altitude": 2962,
             "neighbour-countries": {
                 "num": 9,
                 "countries": ["Netherlands", "Belgium", "France", "Switzerland", "Austria", "Luxembourg", "Denmark", "Poland", "Czech Republic" ],
@@ -454,7 +454,7 @@
             "capital": "Copenhagen",
             "population": 5977412,
             "area": 42895,
-            "altitud-max": 171,
+            "max-altitude": 171,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Germany"],
@@ -468,7 +468,7 @@
             "capital": "Warsaw",
             "population": 38539201,
             "area": 309230,
-            "altitud-max": 2499,
+            "max-altitude": 2499,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Russia", "Lithuania", "Belarus", "Ukraine", "Czech Republic", "Germany", "Slovakia"],
@@ -482,7 +482,7 @@
             "capital": "Stockholm",
             "population": 10606999,
             "area": 430297,
-            "altitud-max": 2104,
+            "max-altitude": 2104,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Norway", "Finland"],
@@ -496,7 +496,7 @@
             "capital": "Oslo",
             "population": 5576660,
             "area": 346268,
-            "altitud-max": 2469,
+            "max-altitude": 2469,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Sweden", "Finland", "Russia"],
@@ -510,7 +510,7 @@
             "capital": "Helsinki",
             "population": 5617310,
             "area": 318890,
-            "altitud-max": 1324,
+            "max-altitude": 1324,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Sweden", "Norway", "Russia"],
@@ -524,7 +524,7 @@
             "capital": "Tallinn",
             "population": 1360546,
             "area": 43927,
-            "altitud-max": 318,
+            "max-altitude": 318,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Latvia", "Russia"],
@@ -538,7 +538,7 @@
             "capital": "Riga",
             "population": 1871871,
             "area": 63558,
-            "altitud-max": 312,
+            "max-altitude": 312,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Estonia", "Russia", "Lithuania", "Belarus"],
@@ -552,7 +552,7 @@
             "capital": "Vilnius",
             "population": 2859110,
             "area": 63674,
-            "altitud-max": 294,
+            "max-altitude": 294,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Latvia", "Belarus", "Russia", "Poland"],
@@ -566,7 +566,7 @@
             "capital": "Minsk",
             "population": 9156696,
             "area": 204910,
-            "altitud-max": 346,
+            "max-altitude": 346,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Lithuania", "Latvia", "Russia", "Ukraine", "Poland"],
@@ -580,7 +580,7 @@
             "capital": "Kyiv",
             "population": 37860221,
             "area": 587320,
-            "altitud-max": 2061,
+            "max-altitude": 2061,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Russia", "Belarus", "Poland", "Slovakia", "Romania", "Hungary", "Moldova"],
@@ -594,7 +594,7 @@
             "capital": "Chisinau",
             "population": 2934961,
             "area": 33546,
-            "altitud-max": 420,
+            "max-altitude": 420,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Ukraine", "Romania"],
@@ -610,7 +610,7 @@
             "capital": "Moscow",
             "population": 144820423,
             "area": 16872349,
-            "altitud-max": 5642,
+            "max-altitude": 5642,
             "neighbour-countries": {
                 "num": 14,
                 "countries": ["Norway", "Finland", "Estonia", "Lithuania", "Latvia", "Poland", "Belarus", "Ukraine", "Georgia", "Azerbaijan", "Kazakhstan", "China", "Mongolia", "North Korea"],
@@ -624,7 +624,7 @@
             "capital": "Ankara",
             "population": 86473805,
             "area": 777630,
-            "altitud-max": 5137,
+            "max-altitude": 5137,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Iraq", "Syria", "Greece", "Bulgaria", "Georgia", "Armenia", "Iran", "Azerbaijan"],
@@ -638,7 +638,7 @@
             "capital": "Tbilisi",
             "population": 3807670,
             "area": 69699,
-            "altitud-max": 5193,
+            "max-altitude": 5193,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Russia", "Turkey", "Azerbaijan", "Armenia"],
@@ -652,7 +652,7 @@
             "capital": "Baku",
             "population": 10336557,
             "area": 85699,
-            "altitud-max": 4485,
+            "max-altitude": 4485,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Russia", "Georgia", "Armenia", "Turkey", "Iran"],
@@ -666,7 +666,7 @@
             "capital": "Astana",
             "population": 20592571,
             "area": 2724911,
-            "altitud-max": 7010,
+            "max-altitude": 7010,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Russia", "Turkmenistan", "Uzbekistan", "China", "Kyrgyzstan"],
@@ -682,7 +682,7 @@
             "capital": "Saint George's",
             "population": 115000,
             "area": 344,
-            "altitud-max": 840,
+            "max-altitude": 840,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -696,7 +696,7 @@
             "capital": "Kingstown",
             "population": 101323,
             "area": 380,
-            "altitud-max": 1234,
+            "max-altitude": 1234,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -710,7 +710,7 @@
             "capital": "Bridgetown",
             "population": 282336,
             "area": 430,
-            "altitud-max": 336,
+            "max-altitude": 336,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -724,7 +724,7 @@
             "capital": "Castries",
             "population": 179285,
             "area": 616,
-            "altitud-max": 950,
+            "max-altitude": 950,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -738,7 +738,7 @@
             "capital": "Roseau",
             "population": 66510,
             "area": 73,
-            "altitud-max": 1447,
+            "max-altitude": 1447,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -752,7 +752,7 @@
             "capital": "Saint John's",
             "population": 93316,
             "area": 443,
-            "altitud-max": 401,
+            "max-altitude": 401,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -766,7 +766,7 @@
             "capital": "Basseterre",
             "population": 46758,
             "area": 262,
-            "altitud-max": 1156,
+            "max-altitude": 1156,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -780,7 +780,7 @@
             "capital": "Santo Domingo",
             "population": 10709000,
             "area": 48671,
-            "altitud-max": 3098,
+            "max-altitude": 3098,
             "neighbour-countries": {
                 "num": 1, 
                 "countries": ["Haiti"],
@@ -794,7 +794,7 @@
             "capital": "Port-au-Prince",
             "population": 11637398,
             "area": 27749,
-            "altitud-max": 2680,
+            "max-altitude": 2680,
             "neighbour-countries": {
                 "num": 1, 
                 "countries": ["Dominican Republic"],
@@ -808,7 +808,7 @@
             "capital": "Havana",
             "population": 11019931,
             "area": 109883,
-            "altitud-max": 1974,
+            "max-altitude": 1974,
             "neighbour-countries": {
                 "num": 0,
                 "countries": "",
@@ -822,7 +822,7 @@
             "capital": "Kingston",
             "population": 2839786,
             "area": 10992,
-            "altitud-max": 2256,
+            "max-altitude": 2256,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -836,7 +836,7 @@
             "capital": "Nassau",
             "population": 339440,
             "area": 13942,
-            "altitud-max": 63,
+            "max-altitude": 63,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -850,7 +850,7 @@
             "capital": "Ottawa",
             "population": 40097761,
             "area": 15634410,
-            "altitud-max": 5959,
+            "max-altitude": 5959,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["United States"],
@@ -864,7 +864,7 @@
             "capital": "Washington D.C.",
             "population": 335135000,
             "area": 9831510,
-            "altitud-max": 6194,
+            "max-altitude": 6194,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Canada", "Mexico"],
@@ -878,7 +878,7 @@
             "capital": "Mexico city",
             "population": 129739759,
             "area": 1964383,
-            "altitud-max": 5636,
+            "max-altitude": 5636,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["United States", "Belize", "Guatemala"],
@@ -892,7 +892,7 @@
             "capital": "Guatemala city",
             "population": 17602000,
             "area": 108889,
-            "altitud-max": 4220,
+            "max-altitude": 4220,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Mexico", "Belize", "El Salvador", "Honduras"],
@@ -906,7 +906,7 @@
             "capital": "Belmopan",
             "population": 411106,
             "area": 22966,
-            "altitud-max": 1124,
+            "max-altitude": 1124,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Mexico", "Guatemala"],
@@ -920,7 +920,7 @@
             "capital": "San Salvador",
             "population": 6365000,
             "area": 21041,
-            "altitud-max": 2730,
+            "max-altitude": 2730,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Guatemala", "Honduras"],
@@ -934,7 +934,7 @@
             "capital": "Tegucigalpa",
             "population": 10475000,
             "area": 112491,
-            "altitud-max": 2670,
+            "max-altitude": 2670,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Guatemala", "El Salvador", "Nicaragua"],
@@ -948,7 +948,7 @@
             "capital": "Managua",
             "population": 6823613,
             "area": 130373,
-            "altitud-max": 2107,
+            "max-altitude": 2107,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Honduras", "Costa Rica"],
@@ -962,7 +962,7 @@
             "capital": "San José",
             "population": 5278000,
             "area": 51101,
-            "altitud-max": 3820,
+            "max-altitude": 3820,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Nicaragua", "Panama"],
@@ -976,7 +976,7 @@
             "capital": "Ciudad de Panama",
             "population": 4453000,
             "area": 75418,
-            "altitud-max": 3475,
+            "max-altitude": 3475,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Costa Rica", "Colombia"],
@@ -992,7 +992,7 @@
             "capital": "Port of Spain",
             "population": 1367510,
             "area": 5131,
-            "altitud-max": 940,
+            "max-altitude": 940,
             "neighbour-countries": {
                 "num": 0,
                 "countries":[],
@@ -1006,7 +1006,7 @@
             "capital": "Bogotá",
             "population": 52216000,
             "area": 1141752,
-            "altitud-max": 5700,
+            "max-altitude": 5700,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Panama", "Ecuador", "Peru", "Brasil", "Venezuela"],
@@ -1020,7 +1020,7 @@
             "capital": "Caracas",
             "population": 28300854,
             "area": 912050,
-            "altitud-max": 4981,
+            "max-altitude": 4981,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Colombia", "Brasil", "Guyana"],
@@ -1034,7 +1034,7 @@
             "capital": "Georgetown",
             "population": 826353,
             "area": 214970,
-            "altitud-max": 2750,
+            "max-altitude": 2750,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Suriname", "Brasil", "Venezuela"],
@@ -1048,7 +1048,7 @@
             "capital": "Paramaribo",
             "population": 628886,
             "area": 163820,
-            "altitud-max": 1230,
+            "max-altitude": 1230,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Guyana", "Brasil"],
@@ -1062,7 +1062,7 @@
             "capital": "Quito",
             "population": 17980083,
             "area": 256370,
-            "altitud-max": 6267,
+            "max-altitude": 6267,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Peru", "Colombia"],
@@ -1076,7 +1076,7 @@
             "capital": "Lima",
             "population": 33845617,
             "area": 1285220,
-            "altitud-max": 6768,
+            "max-altitude": 6768,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Ecuador", "Colombia", "Brasil", "Bolivia", "Chile"],
@@ -1090,7 +1090,7 @@
             "capital": "Brasilia",
             "population": 211695000,
             "area": 8515803,
-            "altitud-max": 2994,
+            "max-altitude": 2994,
             "neighbour-countries": {
                 "num": 9,
                 "countries": ["Uruguay", "Argentina", "Paraguay", "Bolivia", "Peru", "Colombia", "Venezuela", "Guyana", "Suriname"],
@@ -1104,7 +1104,7 @@
             "capital": ["Sucre", "La Paz"],
             "population": 12244159,
             "area": 1098585,
-            "altitud-max": 6542,
+            "max-altitude": 6542,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Peru", "Chile", "Argentina", "Paraguay", "Brasil"],
@@ -1118,7 +1118,7 @@
             "capital": "Asunción",
             "population": 6844146,
             "area": 406754,
-            "altitud-max": 842,
+            "max-altitude": 842,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Argentina", "Bolivia", "Brasil"],
@@ -1132,7 +1132,7 @@
             "capital": "Montevideo",
             "population": 3388081,
             "area": 176216,
-            "altitud-max": 514,
+            "max-altitude": 514,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Argentina", "Brasil"],
@@ -1146,7 +1146,7 @@
             "capital": "Buenos Aires",
             "population": 45538401,
             "area": 2780412,
-            "altitud-max": 6960,
+            "max-altitude": 6960,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Chile", "Bolivia", "Paraguay", "Uruguay", "Brasil"],
@@ -1160,7 +1160,7 @@
             "capital": "Santiago",
             "population": 19658835,
             "area": 756106,
-            "altitud-max": 6893,
+            "max-altitude": 6893,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Peru", "Bolivia", "Argentina"],
@@ -1176,7 +1176,7 @@
             "capital": "Dakar",
             "population": 18501984,
             "area": 194530,
-            "altitud-max": 581,
+            "max-altitude": 581,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Mauritania", "Mali", "Guinea", "Guinea-Bissau", "Gambia"],
@@ -1190,7 +1190,7 @@
             "capital": "Banjul",
             "population": 2759988,
             "area": 10820,
-            "altitud-max": 53,
+            "max-altitude": 53,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Senegal"],
@@ -1204,7 +1204,7 @@
             "capital": "Bissau",
             "population": 19878352,
             "area": 31120,
-            "altitud-max": 300,
+            "max-altitude": 300,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Guinea","Gambia"],
@@ -1218,7 +1218,7 @@
             "capital": "Conarky",
             "population": 14754785,
             "area": 245858,
-            "altitud-max": 1752,
+            "max-altitude": 1752,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Senegal", "Mali", "Sierra Leone", "Guinea-Bissau", "Liberia", "Ivory Coast"],
@@ -1232,7 +1232,7 @@
             "capital": "Freetown",
             "population": 8642022,
             "area": 71740,
-            "altitud-max": 1948,
+            "max-altitude": 1948,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Guinea", "Liberia"],
@@ -1246,7 +1246,7 @@
             "capital": "Monrovia",
             "population": 5612817,
             "area": 107520,
-            "altitud-max": 1440,
+            "max-altitude": 1440,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Guinea", "Sierra Leone", "Ivory Coast"],
@@ -1260,7 +1260,7 @@
             "capital": ["Yamoussoukro", "Abidjan"],
             "population": 31934230,
             "area": 319490,
-            "altitud-max": 1752,
+            "max-altitude": 1752,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Mali", "Liberia", "Guinea", "Burkina Faso", "Ghana"],
@@ -1274,7 +1274,7 @@
             "capital": "Ouagadougou",
             "population": 28548781,
             "area": 273986,
-            "altitud-max": 749,
+            "max-altitude": 749,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Ivory Coast", "Ghana", "Mali", "Niger", "Togo", "Benin"],
@@ -1288,7 +1288,7 @@
             "capital": "Accra",
             "population": 33427414,
             "area": 233540,
-            "altitud-max": 880,
+            "max-altitude": 880,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Togo", "Burkina Faso", "Ivory Coast"],
@@ -1302,7 +1302,7 @@
             "capital": "Lomé",
             "population": 9215236,
             "area": 55390,
-            "altitud-max": 986,
+            "max-altitude": 986,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Ghana", "Burkina Faso", "Benin"],
@@ -1316,7 +1316,7 @@
             "capital": ["Porto Novo", "Cotonou"],
             "population": 13462724,
             "area": 113760,
-            "altitud-max": 658,
+            "max-altitude": 658,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Togo", "Burkina Faso", "Niger", "Nigeria"],
@@ -1330,7 +1330,7 @@
             "capital": "Abuja",
             "population": 228679478,
             "area": 918770,
-            "altitud-max": 2419,
+            "max-altitude": 2419,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Togo", "Niger", "Chad", "Cameroon"],
@@ -1344,7 +1344,7 @@
             "capital": "Yaoundé",
             "population": 28123744,
             "area": 473444,
-            "altitud-max": 4040,
+            "max-altitude": 4040,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Nigeria", "Chad", "Central African Republic", "Congo", "Gabon", "Equatorial Guinea"],
@@ -1358,7 +1358,7 @@
             "capital": "Bangui",
             "population": 5430690,
             "area": 622980,
-            "altitud-max": 1420,
+            "max-altitude": 1420,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Cameroon", "Chad", "Sudan", "South Sudan", "DR Congo", "Congo"],
@@ -1372,7 +1372,7 @@
             "capital": "Kinshasa",
             "population": 106276265,
             "area": 2367050,
-            "altitud-max": 5110,
+            "max-altitude": 5110,
             "neighbour-countries": {
                 "num": 9,
                 "countries": ["Congo", "Central African Republic", "South Sudan", "Zambia", "Tanzania", "Burundi", "Rwanda", "Uganda", "Angola"],
@@ -1386,7 +1386,7 @@
             "capital": "Brazzaville",
             "population": 6332961,
             "area": 341876,
-            "altitud-max": 1020,
+            "max-altitude": 1020,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["DR Congo", "Gabon", "Central African Republic", "Cameroon", "Angola"],
@@ -1400,7 +1400,7 @@
             "capital": "Libreville",
             "population": 2438952,
             "area": 263670,
-            "altitud-max": 1070,
+            "max-altitude": 1070,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Congo", "Cameroon", "Equatorial Guinea"],
@@ -1414,7 +1414,7 @@
             "capital": "Malabo",
             "population": 1792516,
             "area": 28050,
-            "altitud-max": 3008,
+            "max-altitude": 3008,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Cameroon", "Gabon"],
@@ -1428,7 +1428,7 @@
             "capital": "São Tomé",
             "population": 225536,
             "area": 961,
-            "altitud-max": 2024,
+            "max-altitude": 2024,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1442,7 +1442,7 @@
             "capital": "Luanda",
             "population": 36885849,
             "area": 1246700,
-            "altitud-max": 2620,
+            "max-altitude": 2620,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Namibia", "Zambia", "Congo", "DR Congo"],
@@ -1456,7 +1456,7 @@
             "capital": "Windhoek",
             "population": 2928000,
             "area": 825619,
-            "altitud-max": 2606,
+            "max-altitude": 2606,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["South Africa", "Botswana", "Zambia", "Angola"],
@@ -1470,7 +1470,7 @@
             "capital": "Gaborone",
             "population": 2480244,
             "area": 581732,
-            "altitud-max": 1491,
+            "max-altitude": 1491,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Namibia", "South Africa", "Zimbabwe", "Zambia"],
@@ -1484,7 +1484,7 @@
             "capital": ["Pretoria", "Cape Town", "Bloemfontein"],
             "population": 63212384,
             "area": 1221043,
-            "altitud-max": 3450,
+            "max-altitude": 3450,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Lesotho", "Eswatini", "Mozambique", "Zimbabwe", "Botswana", "Namibia"],
@@ -1498,7 +1498,7 @@
             "capital": "Maseru",
             "population": 2311472,
             "area": 30355,
-            "altitud-max": 3482,
+            "max-altitude": 3482,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["South Africa"],
@@ -1512,7 +1512,7 @@
             "capital": ["Lobamba", "Mbabane"],
             "population": 1230506,
             "area": 17363,
-            "altitud-max": 1862,
+            "max-altitude": 1862,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Mozambique", "South Africa"],
@@ -1526,7 +1526,7 @@
             "capital": "Maputo",
             "population": 33635160,
             "area": 801595,
-            "altitud-max": 2436,
+            "max-altitude": 2436,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Tanzania", "Zambia", "Malawi", "Zimbabwe", "Eswatini", "South Africa"],
@@ -1540,7 +1540,7 @@
             "capital": "Antananarivo",
             "population": 31195932,
             "area": 587044,
-            "altitud-max": 2876,
+            "max-altitude": 2876,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1554,7 +1554,7 @@
             "capital": "Port Louis",
             "population": 1261041,
             "area": 2041,
-            "altitud-max": 828,
+            "max-altitude": 828,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1568,7 +1568,7 @@
             "capital": "Victoria",
             "population": 100000,
             "area": 453,
-            "altitud-max": 905,
+            "max-altitude": 905,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1582,7 +1582,7 @@
             "capital": "Moroni",
             "population": 850387,
             "area": 1862,
-            "altitud-max": 2360,
+            "max-altitude": 2360,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1596,7 +1596,7 @@
             "capital": "Harare",
             "population": 16340822,
             "area": 390758,
-            "altitud-max": 2592,
+            "max-altitude": 2592,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Botswana", "Zambia", "Mozambique", "South Africa"],
@@ -1610,7 +1610,7 @@
             "capital": "Lusaka",
             "population": 20723965,
             "area": 752615,
-            "altitud-max": 2329,
+            "max-altitude": 2329,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Tanzania", "Malawi", "Mozambique", "DR Congo", "Zimbabwe", "Namibia", "Angola", "Botswana"],
@@ -1624,7 +1624,7 @@
             "capital": "Lilongwe",
             "population": 21104482,
             "area": 118485,
-            "altitud-max": 3002,
+            "max-altitude": 3002,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Tanzania", "Zambia", "Mozambique"],
@@ -1638,7 +1638,7 @@
             "capital": ["Dodoma", "Dar es-Salam"],
             "population": 66617606,
             "area": 945091,
-            "altitud-max": 5892,
+            "max-altitude": 5892,
             "neighbour-countries": {
                 "num": 8,
                 "countries": ["Rwanda", "Uganda", "Burundi", "Kenya", "DR Congo", "Malawi", "Zambia", "Mozambique"],
@@ -1652,7 +1652,7 @@
             "capital": "Gitega",
             "population": 13689450,
             "area": 27835,
-            "altitud-max": 2684,
+            "max-altitude": 2684,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Tanzania", "Rwanda", "DR Congo"],
@@ -1666,7 +1666,7 @@
             "capital": "Kigali",
             "population": 13954471,
             "area": 26338,
-            "altitud-max": 4519,
+            "max-altitude": 4519,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Tanzania", "Uganda", "DR Congo", "Burundi"],
@@ -1680,7 +1680,7 @@
             "capital": "Kampala",
             "population": 48656601,
             "area": 241551,
-            "altitud-max": 5110,
+            "max-altitude": 5110,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Tanzania", "Rwanda", "South Sudan", "Kenya", "DR Congo"],
@@ -1694,7 +1694,7 @@
             "capital": "Nairobi",
             "population": 55339003,
             "area": 580370,
-            "altitud-max": 5199,
+            "max-altitude": 5199,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Tanzania", "Uganda", "South Sudan", "Ethiopia", "Somalia"],
@@ -1708,7 +1708,7 @@
             "capital": "Mogadishu",
             "population": 18358615,
             "area": 637661,
-            "altitud-max": 2450,
+            "max-altitude": 2450,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Kenya", "Ethiopia", "Eritrea"],
@@ -1722,7 +1722,7 @@
             "capital": "Djibouti",
             "population": 1152944,
             "area": 23201,
-            "altitud-max": 2028,
+            "max-altitude": 2028,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Somalia", "Ethiopia", "Eritrea"],
@@ -1736,7 +1736,7 @@
             "capital": "Asmara",
             "population": 3470390,
             "area": 117602,
-            "altitud-max": 3018,
+            "max-altitude": 3018,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Sudan", "Ethiopia", "Djibouti"],
@@ -1750,7 +1750,7 @@
             "capital": "Addis Ababa",
             "population": 128691692,
             "area": 1104303,
-            "altitud-max": 4550,
+            "max-altitude": 4550,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Sudan", "Kenya", "Somalia", "South Sudan", "Eritrea", "Djibouti"],
@@ -1764,7 +1764,7 @@
             "capital": "Juba",
             "population": 11483374,
             "area": 644332,
-            "altitud-max": 3187,
+            "max-altitude": 3187,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Sudan", "DR Congo", "Uganda", "Central African Republic", "Kenya", "Ethiopia"],
@@ -1778,7 +1778,7 @@
             "capital": "Khartoum",
             "population": 50042791,
             "area": 1861493,
-            "altitud-max": 3042,
+            "max-altitude": 3042,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Egypt", "Libya", "Chad", "Central African Republic", "South Sudan", "Ethiopia", "Eritrea"],
@@ -1792,7 +1792,7 @@
             "capital": "N'Djamena",
             "population": 19319064,
             "area": 1284005,
-            "altitud-max": 3445,
+            "max-altitude": 3445,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Libya", "Sudan", "Niger", "Nigeria", "Cameroon", "Central African Republic"],
@@ -1806,7 +1806,7 @@
             "capital": "Niamey",
             "population": 26159867,
             "area": 1267005,
-            "altitud-max": 2022,
+            "max-altitude": 2022,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Libya", "Algeria", "Mali", "Burkina Faso", "Benin", "Nigeria", "Chad"],
@@ -1820,7 +1820,7 @@
             "capital": "Bamako",
             "population": 23769127,
             "area": 1240198,
-            "altitud-max": 1155,
+            "max-altitude": 1155,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Algeria", "Mauritania", "Senegal", "Guinea", "Ivory Coast", "Burkina Faso", "Niger"],
@@ -1834,7 +1834,7 @@
             "capital": "Nouakchott",
             "population": 5022441,
             "area": 1030703,
-            "altitud-max": 915,
+            "max-altitude": 915,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Morocco", "Algeria", "Mali", "Senegal"],
@@ -1848,7 +1848,7 @@
             "capital": "Praia",
             "population": 522331,
             "area": 4033,
-            "altitud-max": 2829,
+            "max-altitude": 2829,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -1862,7 +1862,7 @@
             "capital": "Rabat",
             "population": 37022000,
             "area": 446552,
-            "altitud-max": 4167,
+            "max-altitude": 4167,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Algeria", "Mauritania", "Spain"],
@@ -1876,7 +1876,7 @@
             "capital": "Algiers",
             "population": 46164219,
             "area": 2381751,
-            "altitud-max": 3003,
+            "max-altitude": 3003,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Tunisia", "Libya", "Morocco", "Mauritania", "Mali", "Niger"],
@@ -1890,7 +1890,7 @@
             "capital": "Tunis",
             "population": 12200431,
             "area": 163610,
-            "altitud-max": 1544,
+            "max-altitude": 1544,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Libya", "Algeria"],
@@ -1904,7 +1904,7 @@
             "capital": "Tripoli",
             "population": 7305659,
             "area": 1759548,
-            "altitud-max": 2267,
+            "max-altitude": 2267,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Egypt", "Sudan", "Tunisia", "Algeria", "Niger", "Chad"],
@@ -1920,7 +1920,7 @@
             "capital": "Cairo",
             "population": 105200000,
             "area": 1002454,
-            "altitud-max": 2629,
+            "max-altitude": 2629,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Libya", "Sudan", "Israel"],
@@ -1936,7 +1936,7 @@
             "capital": ["Sana'a", "Aden"],
             "population": 37583164,
             "area": 527972,
-            "altitud-max": 3666,
+            "max-altitude": 3666,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Saudi Arabia", "Oman"],
@@ -1950,7 +1950,7 @@
             "capital": "Muscat",
             "population": 5281538,
             "area": 309500,
-            "altitud-max": 2980,
+            "max-altitude": 2980,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Saudi Arabia", "Yemen", "United Arab Emirates"],
@@ -1964,7 +1964,7 @@
             "capital": "Abu Dhabi",
             "population": 10827129,
             "area": 83600,
-            "altitud-max": 1910,
+            "max-altitude": 1910,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Saudi Arabia", "Oman"],
@@ -1978,7 +1978,7 @@
             "capital": "Doha",
             "population": 3048423,
             "area": 11595,
-            "altitud-max": 103,
+            "max-altitude": 103,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Saudi Arabia"],
@@ -1992,7 +1992,7 @@
             "capital": "Manama",
             "population": 1607049,
             "area": 762,
-            "altitud-max": 134,
+            "max-altitude": 134,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2006,7 +2006,7 @@
             "capital": "Riad",
             "population": 33962757,
             "area": 2149700,
-            "altitud-max": 3000,
+            "max-altitude": 3000,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Yemen", "Oman", "Qatar", "United Arab Emirates", "Kuwait", "Jordan", "Iraq"],
@@ -2020,7 +2020,7 @@
             "capital": "Kuwait City",
             "population": 4834507,
             "area": 17819,
-            "altitud-max": 306,
+            "max-altitude": 306,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Iraq", "Saudi Arabia"],
@@ -2034,7 +2034,7 @@
             "capital": "Jerusalem",
             "population": 9587021,
             "area": 21169,
-            "altitud-max": 1208,
+            "max-altitude": 1208,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Lebanon", "Jordan", "Egypt", "Syria"],
@@ -2048,7 +2048,7 @@
             "capital": "Amman",
             "population": 11502876,
             "area": 89142,
-            "altitud-max": 1854,
+            "max-altitude": 1854,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Iraq", "Saudi Arabia", "Syria", "Israel"],
@@ -2062,7 +2062,7 @@
             "capital": "Beirut",
             "population": 5705962,
             "area": 10339,
-            "altitud-max": 3088,
+            "max-altitude": 3088,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Israel", "Syria"],
@@ -2076,7 +2076,7 @@
             "capital": "Nicosia",
             "population": 1358282,
             "area": 9247,
-            "altitud-max": 1951,
+            "max-altitude": 1951,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2089,7 +2089,7 @@
             "capital": "Damasco",
             "population": 23672760,
             "area": 184640,
-            "altitud-max": 2814,
+            "max-altitude": 2814,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Iraq", "Israel", "Jordan", "Lebanon", "Turkey"],
@@ -2103,7 +2103,7 @@
             "capital": "Baghdad",
             "population": 44042015,
             "area": 426320,
-            "altitud-max": 3611,
+            "max-altitude": 3611,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Syria", "Saudi Arabia", "Kuwait", "Iran", "Turkey", "Jordan"],
@@ -2117,7 +2117,7 @@
             "capital": "Yerevan",
             "population": 29170,
             "area": 17819,
-            "altitud-max": 4090,
+            "max-altitude": 4090,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Turkey", "Georgia", "Iran", "Azerbaijan"],
@@ -2131,7 +2131,7 @@
             "capital": "Tehran",
             "population": 89567738,
             "area": 1638550,
-            "altitud-max": 5610,
+            "max-altitude": 5610,
             "neighbour-countries": {
                 "num": 7,
                 "countries": ["Armenia", "Azerbaijan", "Iraq", "Turkmenistan", "Afghanistan", "Pakistan", "Turkey"],
@@ -2145,7 +2145,7 @@
             "capital": "Ashgabat",
             "population": 6994498,
             "area": 479930,
-            "altitud-max": 3139,
+            "max-altitude": 3139,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Iran", "Uzbekistan", "Afghanistan", "Kazakhstan"],
@@ -2159,7 +2159,7 @@
             "capital": "Tashkent",
             "population": 36361859,
             "area": 437400,
-            "altitud-max": 4643,
+            "max-altitude": 4643,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Kazakhstan", "Turkmenistan", "Afghanistan", "Kyrgyzstan", "Tajikistan"],
@@ -2173,7 +2173,7 @@
             "capital": "Bishkek",
             "population": 7186009,
             "area": 196951,
-            "altitud-max": 7439,
+            "max-altitude": 7439,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Kazakhstan", "China", "Uzbekistan", "Tajikistan"],
@@ -2187,7 +2187,7 @@
             "capital": "Dushanbe",
             "population": 10090927,
             "area": 141960,
-            "altitud-max": 7495,
+            "max-altitude": 7495,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Uzbekistan", "China", "Kyrgyzstan", "Afghanistan"],
@@ -2201,7 +2201,7 @@
             "capital": "Kabul",
             "population": 41647492,
             "area": 652630,
-            "altitud-max": 7492,
+            "max-altitude": 7492,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["Iran", "Turkmenistan", "Uzbekistan", "Tajikistan", "Pakistan", "China"],
@@ -2215,7 +2215,7 @@
             "capital": "Islamabad",
             "population": 248269164,
             "area": 884880,
-            "altitud-max": 8610,
+            "max-altitude": 8610,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["India", "China", "Iran", "Afghanistan"],
@@ -2229,7 +2229,7 @@
             "capital": "New Delhi",
             "population": 1450935791,
             "area": 3187277,
-            "altitud-max": 8585,
+            "max-altitude": 8585,
             "neighbour-countries": {
                 "num": 6,
                 "countries": ["China", "Nepal", "Pakistan", "Bhutan", "Bangladesh", "Myanmar"],
@@ -2243,7 +2243,7 @@
             "capital": ["Sri Jayawardenapura Kotte", "Colombo"],
             "population": 29103565,
             "area": 64710,
-            "altitud-max": 2524,
+            "max-altitude": 2524,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2257,7 +2257,7 @@
             "capital": "Malé",
             "population": 524799,
             "area": 300,
-            "altitud-max": 2,
+            "max-altitude": 2,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2271,7 +2271,7 @@
             "capital": "Kathmandu",
             "population": 29651054,
             "area": 145350,
-            "altitud-max": 8848,
+            "max-altitude": 8848,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["India", "China"],
@@ -2285,7 +2285,7 @@
             "capital": "Thimphu",
             "population": 78562,
             "area": 38269,
-            "altitud-max": 7570,
+            "max-altitude": 7570,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["India", "China"],
@@ -2299,7 +2299,7 @@
             "capital": "Dhaka",
             "population": 172562364,
             "area": 139570,
-            "altitud-max": 1052,
+            "max-altitude": 1052,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["India", "Myanmar"],
@@ -2313,7 +2313,7 @@
             "capital": "Naypyidaw",
             "population": 59500091,
             "area": 665581,
-            "altitud-max": 5881,
+            "max-altitude": 5881,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Bangladesh", "China", "India", "Thailand", "Laos"],
@@ -2327,7 +2327,7 @@
             "capital": "Bangkok",
             "population": 69668,
             "area": 512890,
-            "altitud-max": 2565,
+            "max-altitude": 2565,
             "neighbour-countries": {
                 "num": 4,
                 "countries": ["Myanmar", "Laos", "Cambodia", "Malaysia"],
@@ -2341,7 +2341,7 @@
             "capital": ["Kuala Lampur", "Putrajaya"],
             "population": 35157673,
             "area": 329550,
-            "altitud-max": 4095,
+            "max-altitude": 4095,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Thailand", "Indonesia", "Brunei"],
@@ -2355,7 +2355,7 @@
             "capital": "Singapur",
             "population": 5732387,
             "area": 710,
-            "altitud-max": 164,
+            "max-altitude": 164,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2369,7 +2369,7 @@
             "capital": "Dili",
             "population": 1400638,
             "area": 14970,
-            "altitud-max": 2963,
+            "max-altitude": 2963,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Indonesia"],
@@ -2383,7 +2383,7 @@
             "capital": "Bandar Seri Begawan",
             "population": 465721,
             "area": 5570,
-            "altitud-max": 1850,
+            "max-altitude": 1850,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Malaysia"],
@@ -2397,7 +2397,7 @@
             "capital": "Manila",
             "population": 113843760,
             "area": 307180,
-            "altitud-max": 2954,
+            "max-altitude": 2954,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2411,7 +2411,7 @@
             "capital": "Hanoi",
             "population": 100987686,
             "area": 325070,
-            "altitud-max": 3143,
+            "max-altitude": 3143,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Cambodia", "China", "Laos"],
@@ -2425,7 +2425,7 @@
             "capital": "Phnom Penh",
             "population": 16638801,
             "area": 179520,
-            "altitud-max": 1810,
+            "max-altitude": 1810,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Laos", "Thailand", "Vietnam"],
@@ -2439,7 +2439,7 @@
             "capital": "Vientiane",
             "population": 7769819,
             "area": 233800,
-            "altitud-max": 2817,
+            "max-altitude": 2817,
             "neighbour-countries": {
                 "num": 5,
                 "countries": ["Thailand", "China", "Cambodia", "Vietnam", "Myanmar"],
@@ -2453,7 +2453,7 @@
             "capital": "Beijing",
             "population": 1419321278,
             "area": 9497211,
-            "altitud-max": 8848,
+            "max-altitude": 8848,
             "neighbour-countries": {
                 "num": 14,
                 "countries": ["Russia", "Mongolia", "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Afghanistan", "Pakistan", "Nepal", "India", "Bhutan", "Myanmar", "Vietnam", "Laos", "North Korea"],
@@ -2467,7 +2467,7 @@
             "capital": "Ulaanbaatar",
             "population": 3575540,
             "area": 1558560,
-            "altitud-max": 4374,
+            "max-altitude": 4374,
             "neighbour-countries": {
                 "num": 2,
                 "countries": ["Russia", "China"],
@@ -2481,7 +2481,7 @@
             "capital": "Pyongyang",
             "population": 26498823,
             "area": 120497,
-            "altitud-max": 2744,
+            "max-altitude": 2744,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Russia", "China", "South Korea"],
@@ -2495,7 +2495,7 @@
             "capital": "Seoul",
             "population": 51717590,
             "area": 99230,
-            "altitud-max": 1950,
+            "max-altitude": 1950,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["China"],
@@ -2509,7 +2509,7 @@
             "capital": "Tokyo",
             "population": 123753041,
             "area": 371933,
-            "altitud-max": 3776,
+            "max-altitude": 3776,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2525,7 +2525,7 @@
             "capital": "Jakarta",
             "population": 281487931,
             "area": 1867570,
-            "altitud-max": 4884,
+            "max-altitude": 4884,
             "neighbour-countries": {
                 "num": 3,
                 "countries": ["Timor-Leste", "Malaysia", "Papua New Guinea"],
@@ -2541,7 +2541,7 @@
             "capital": "Ngerulmud",
             "population": 17695,
             "area": 460,
-            "altitud-max": 242,
+            "max-altitude": 242,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2555,7 +2555,7 @@
             "capital": "Palikir",
             "population": 426923,
             "area": 702,
-            "altitud-max": 791,
+            "max-altitude": 791,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2569,7 +2569,7 @@
             "capital": "Majuro",
             "population": 38554,
             "area": 180,
-            "altitud-max": 10,
+            "max-altitude": 10,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2583,7 +2583,7 @@
             "capital": "Yaren",
             "population": 11947,
             "area": 21,
-            "altitud-max": 71,
+            "max-altitude": 71,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2597,7 +2597,7 @@
             "capital": "Tarawa",
             "population": 129518,
             "area": 811,
-            "altitud-max": 81,
+            "max-altitude": 81,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2611,7 +2611,7 @@
             "capital": "Apia",
             "population": 214859,
             "area": 2839,
-            "altitud-max": 1857,
+            "max-altitude": 1857,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2625,7 +2625,7 @@
             "capital": "Funafuti",
             "population": 9646,
             "area": 28,
-            "altitud-max": 5,
+            "max-altitude": 5,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2639,7 +2639,7 @@
             "capital": "Nuku'alofa",
             "population": 104175,
             "area": 734,
-            "altitud-max": 1033,
+            "max-altitude": 1033,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2653,7 +2653,7 @@
             "capital": "Suva",
             "population": 928734,
             "area": 18272,
-            "altitud-max": 1324,
+            "max-altitude": 1324,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2667,7 +2667,7 @@
             "capital": "Port Vila",
             "population": 321777,
             "area": 12190,
-            "altitud-max": 1879,
+            "max-altitude": 1879,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2681,7 +2681,7 @@
             "capital": "Honiara",
             "population": 798198,
             "area": 28269,
-            "altitud-max": 2335,
+            "max-altitude": 2335,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2695,7 +2695,7 @@
             "capital": "Port Moresby",
             "population": 10576502,
             "area": 458841,
-            "altitud-max": 4509,
+            "max-altitude": 4509,
             "neighbour-countries": {
                 "num": 1,
                 "countries": ["Indonesia"],
@@ -2709,7 +2709,7 @@
             "capital": "Canberra",
             "population": 26713205,
             "area": 7689254,
-            "altitud-max": 2745,
+            "max-altitude": 2745,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
@@ -2723,7 +2723,7 @@
             "capital": "Wellington",
             "population": 5213944,
             "area": 267469,
-            "altitud-max": 3754,
+            "max-altitude": 3754,
             "neighbour-countries": {
                 "num": 0,
                 "countries": [],
